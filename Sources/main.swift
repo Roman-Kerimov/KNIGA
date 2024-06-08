@@ -17,7 +17,7 @@ do {
             .resourceValues(forKeys: [.contentModificationDateKey])
             .contentModificationDate!
         
-        ScriptTable.ru.scripts.forEach { script in
+        try ScriptTable.ru.scripts.forEach { script in
             let targetURL = sourceURL
                 .deletingLastPathComponent()
                 .appending(component: script.rawValue)

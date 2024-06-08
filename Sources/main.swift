@@ -48,7 +48,7 @@ do {
                         if $0 == script {
                             script.rawValue
                         } else {
-                            "[\($0)](\(URL.currentDirectory().appending(component: $0.rawValue))"
+                            "[\($0)](\(targetURL(from: $0))"
                         }
                     }
                     .joined(separator: " ")

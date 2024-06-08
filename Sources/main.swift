@@ -26,9 +26,11 @@ do {
         
         try scriptTable.scripts.forEach { script in
             func targetURL(from script: Script) -> URL {
-                URL.currentDirectory()
+                let targetDirectory = URL.currentDirectory()
                     .appending(component: script.rawValue)
                     .appending(component: sourceURL.lastPathComponent)
+                
+                FileManager.default.createDirectory(at: targetDirectory, withIntermediateDirectories: true)
             }
             
             let targetModificationDate = try modificationDate(from: targetURL(from: script))

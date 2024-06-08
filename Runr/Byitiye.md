@@ -1,4 +1,4 @@
-# [Cyrl](../Cyrl/Byitiye.md) | [Glag](../Glag/Byitiye.md) | [Latn](../Latn/Byitiye.md) | [Perm](../Perm/Byitiye.md) | Runr
+# [кириллица](../Cyrl/Byitiye.md) | [глаголица](../Glag/Byitiye.md) | [латиница](../Latn/Byitiye.md) | [древнепермская](../Perm/Byitiye.md) | руническая
 
 # ᛒᚤᛁᛏᛁᚤᛖ
 

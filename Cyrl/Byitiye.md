@@ -1,4 +1,4 @@
-# Cyrl | [Glag](../Glag/Byitiye.md) | [Latn](../Latn/Byitiye.md) | [Perm](../Perm/Byitiye.md) | [Runr](../Runr/Byitiye.md)
+# кириллица | [глаголица](../Glag/Byitiye.md) | [латиница](../Latn/Byitiye.md) | [древнепермская](../Perm/Byitiye.md) | [руническая](../Runr/Byitiye.md)
 
 # Бытие
 

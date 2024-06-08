@@ -71,10 +71,10 @@ do {
                     let scriptLabel = Locale(languageCode: .russian)
                         .localizedString(forScriptCode: script.rawValue)
                     
-                    if script == selectedScript {
-                        script.rawValue
+                    return if script == selectedScript {
+                        scriptLabel
                     } else {
-                        "[\($0)](../\($0)/\(sourceURL.lastPathComponent))"
+                        "[\(scriptLabel)](../\(script)/\(sourceURL.lastPathComponent))"
                     }
                 }
                 .joined(separator: " | ")

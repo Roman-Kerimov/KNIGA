@@ -6,3 +6,5 @@ Tvoya vselennaya — rezuljtat tvoyego nablyudeniya
 
 Myi nablyudayem — znachit myi susjhestvuyem
 Nasha vselennaya — rezuljtat nashego nablyudeniya
+
+On nablyudayet — znachit on susjhestvuyet

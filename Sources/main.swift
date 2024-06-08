@@ -18,6 +18,8 @@ do {
         $0.pathExtension == "md"
     }
     .forEach { sourceURL in
+        func 
+        
         let sourceModificationDate = try sourceURL
             .resourceValues(forKeys: [.contentModificationDateKey])
             .contentModificationDate!

@@ -3,4 +3,4 @@
 
 import LinguisticKit
 
-
+print(FileManager.default.currentDirectoryPath)

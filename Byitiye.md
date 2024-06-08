@@ -1,1 +1,1 @@
-Ya myislyu 👩🏽‍🤝‍👨🏻
+Ya nablyudayu — znachit ya su

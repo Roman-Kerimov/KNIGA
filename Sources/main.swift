@@ -68,7 +68,7 @@ do {
                 .map {
                     let selectedScript = script
                     let script = $0
-                    if $0 == script {
+                    if script == selectedScript {
                         script.rawValue
                     } else {
                         "[\($0)](../\($0)/\(sourceURL.lastPathComponent))"

@@ -78,7 +78,7 @@ do {
                     let script = $0.script
                     let scriptLabel = $0.label
                     
-                    if script == selectedScript {
+                    return if script == selectedScript {
                         scriptLabel
                     } else {
                         "[\(scriptLabel)](../\(script)/\(sourceURL.lastPathComponent))"

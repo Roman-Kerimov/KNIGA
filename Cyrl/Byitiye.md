@@ -1,4 +1,4 @@
-## [latinica](../Latn/Byitiye.md) | кириллица | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/Byitiye.md) | [ⰳⰾⰰⰳⱁⰾⰹⱌⰰ](../Glag/Byitiye.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/Byitiye.md)
+## [LATINICA](../LATN/BYITIYE.MD) | КИРИЛЛИЦА | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../RUNR/BYITIYE.MD) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../GLAG/BYITIYE.MD) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../PERM/BYITIYE.MD)
 
 # Бытие
 

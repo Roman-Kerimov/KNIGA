@@ -28,8 +28,10 @@ do {
                 .contentModificationDate!
             
             if sourceModificationDate > targetModificationDate {
-                try String(contentsOf: sourceURL)
-                    .
+                let sourceText = try String(contentsOf: sourceURL)
+                
+                if l
+                    .applyingTransform(from: .Latn, to: <#T##Script#>, withTable: <#T##ScriptTable#>)
             }
         }
     }

@@ -73,6 +73,7 @@ do {
                     
                     return (script: script, label: scriptLabel)
                 }
+                .sorted(by: {$0.label < $1.label})
                 .map {
                     let selectedScript = script
                     let script = $0.script

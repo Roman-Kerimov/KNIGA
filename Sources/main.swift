@@ -8,8 +8,6 @@ let scriptTable: ScriptTable = .ru
 let sourceDirectory: URL = .currentDirectory().appending(component: "KNIGA")
 
 do {
-    print(sourceDirectory)
-    
     try FileManager.default.contentsOfDirectory(
         at: sourceDirectory,
         includingPropertiesForKeys: [.contentModificationDateKey]
@@ -35,8 +33,6 @@ do {
             
             let targetModificationDate = try modificationDate(from: targetURL(from: script))
             
-            print(targetModificationDate)
-            
             if sourceModificationDate > targetModificationDate {
                 let sourceText = try String(contentsOf: sourceURL)
                 
@@ -56,8 +52,6 @@ do {
                         }
                     }
                     .joined(separator: " ")
-                
-                print(targetURL(from: script))
                 
                 try """
                 \(scriptPicker)

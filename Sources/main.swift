@@ -73,7 +73,7 @@ do {
                         .applyingTransform(from: .Cyrl, to: script, withTable: scriptTable)
                     ?? script.rawValue
                     
-                    return if script == selectedScript {
+                    return (script: script, label: scriptLabel) if script == selectedScript {
                         scriptLabel
                     } else {
                         "[\(scriptLabel)](../\(script)/\(sourceURL.lastPathComponent))"

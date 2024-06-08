@@ -16,8 +16,8 @@ do {
         $0.pathExtension == "md"
     }
     .forEach { sourceURL in
-        func modificationDate(from url: URL) throws -> Date {
-            try url
+        func modificationDate(from url: URL) -> Date {
+            url
                 .resourceValues(forKeys: [.contentModificationDateKey])
                 .contentModificationDate!
         }
@@ -38,7 +38,7 @@ do {
             
             let targetModificationDate = try? modificationDate(from: targetURL(from: script))
             
-            if targetModificationDate.map({ sourceModificationDate > $0 && URL.currentDirectory().appending(path: "Sources/main.swift") }) ?? true {
+            if targetModificationDate.map({ sourceModificationDate > $0 && modificationDate(from: .currentDirectory().appending(path: "Sources/main.swift")) }) ?? true {
                 let sourceText = try String(contentsOf: sourceURL)
                 
                 let targetText = if script == .Latn {

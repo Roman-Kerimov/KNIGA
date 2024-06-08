@@ -28,10 +28,12 @@ do {
             func targetURL(from script: Script) -> URL {
                 let targetDirectory = URL.currentDirectory()
                     .appending(component: script.rawValue)
-                    .appending(component: sourceURL.lastPathComponent)
                 
                 try? FileManager.default
                     .createDirectory(at: targetDirectory, withIntermediateDirectories: true)
+                
+                return targetDirectory
+                    .appending(component: sourceURL.lastPathComponent)
             }
             
             let targetModificationDate = try modificationDate(from: targetURL(from: script))

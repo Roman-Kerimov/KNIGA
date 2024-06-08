@@ -39,7 +39,7 @@ do {
                         .applyingTransform(from: .Latn, to: script, withTable: scriptTable)
                 }
                 
-                let header = scriptTable.scripts
+                let scriptPicker = scriptTable.scripts
                     .map {
                         if $0 == script {
                             script.rawValue
@@ -47,6 +47,9 @@ do {
                             "[\($0)](\(URL.currentDirectory().appending(component: $0.rawValue))"
                         }
                     }
+                    .joined(separator: " ")
+                
+                
             }
         }
     }

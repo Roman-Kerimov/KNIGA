@@ -8,6 +8,8 @@ let scriptTable: ScriptTable = .ru
 let sourceDirectory: URL = .currentDirectory().appending(component: "KNIGA")
 
 do {
+    print(sourceDirectory)
+    
     try FileManager.default.contentsOfDirectory(
         at: sourceDirectory,
         includingPropertiesForKeys: [.contentModificationDateKey]

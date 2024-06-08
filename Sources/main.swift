@@ -13,7 +13,11 @@ do {
         $0.pathExtension == "md"
     }
     .forEach { mdURL in
-        try mdURL.resourceValues(forKeys: [.contentModificationDateKey]).contentModificationDate
+        let sourceModificationDate = try mdURL
+            .resourceValues(forKeys: [.contentModificationDateKey])
+            .contentModificationDate
+        
+        
     }
 } catch {
     fatalError(error.localizedDescription)

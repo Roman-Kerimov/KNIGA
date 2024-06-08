@@ -88,7 +88,7 @@ do {
                 .joined(separator: " | ")
             
             try """
-            # \(scriptPicker)
+            ## \(scriptPicker)
             
             \(targetText)
             """

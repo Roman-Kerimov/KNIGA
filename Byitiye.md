@@ -30,3 +30,5 @@ V nashej vselennoj myi nablyudayem nablyudatelej samogo raznogo roda
 Myi nablyudayem, kak boleye prostyiye nablyudateli, k primeru vozjmyom atomyi, putyom vzaimodejstviya na svoyom yazyike obrazuyut boleye slozhnyikh nablyudatelej — v nashem primere molekulyi
 
 U atomov svoj yazyik, a u molekul svoj
+
+Atomyi v svoyu ochered obr

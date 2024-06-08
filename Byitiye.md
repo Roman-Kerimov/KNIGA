@@ -31,4 +31,4 @@ Myi nablyudayem, kak boleye prostyiye nablyudateli, k primeru vozjmyom atomyi, p
 
 U atomov svoj yazyik, a u molekul svoj
 
-Atomyi v svoyu ochered obr
+Molekulyi putyom vzaimodejstviya na svoyom yazyike mogut obrazovyivatj kletki

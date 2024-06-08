@@ -5,7 +5,10 @@ import Foundation
 import LinguisticKit
 
 do {
-    let fajlyi = try FileManager.default.contentsOfDirectory(at: .currentDirectory(), includingPropertiesForKeys: [.contentModificationDateKey])
+    let fajlyi = try FileManager.default.contentsOfDirectory(
+        at: .currentDirectory(),
+        includingPropertiesForKeys: [.contentModificationDateKey]
+    )
 } catch {
     fatalError(error.localizedDescription)
 }

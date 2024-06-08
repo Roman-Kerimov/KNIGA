@@ -20,7 +20,7 @@ do {
         ScriptTable.ru.scripts.forEach { script in
             let targetURL = sourceURL
                 .deletingLastPathComponent()
-                .appending(component: "Cyrl")
+                .appending(component: script.rawValue)
                 .appending(component: sourceURL.lastPathComponent)
         }
     }

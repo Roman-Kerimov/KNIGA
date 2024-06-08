@@ -12,3 +12,5 @@ Yego vselennaya — rezuljtat yego nablyudeniya
 
 Ona nablyudayet — znachit ona susjhestvuyet
 Yeyo vselennaya — rezuljtat yeyo nablyudeniya
+
+

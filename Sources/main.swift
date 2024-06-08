@@ -4,6 +4,8 @@
 import Foundation
 import LinguisticKit
 
+let scriptTable: ScriptTable = .ru
+
 do {
     try FileManager.default.contentsOfDirectory(
         at: .currentDirectory(),
@@ -37,7 +39,7 @@ do {
                         .applyingTransform(from: .Latn, to: script, withTable: .ru)
                 }
                 
-                
+                let header =
             }
         }
     }

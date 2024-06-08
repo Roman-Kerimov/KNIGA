@@ -9,7 +9,7 @@ let sourceDirectory: URL = .currentDirectory().appending(component: "KNIGA")
 
 do {
     try FileManager.default.contentsOfDirectory(
-        at: ,
+        at: sourceDirectory,
         includingPropertiesForKeys: [.contentModificationDateKey]
     )
     .filter {

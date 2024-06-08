@@ -5,10 +5,13 @@ import Foundation
 import LinguisticKit
 
 do {
-    let fajlyi = try FileManager.default.contentsOfDirectory(
+    let mdFajlyi = try FileManager.default.contentsOfDirectory(
         at: .currentDirectory(),
         includingPropertiesForKeys: [.contentModificationDateKey]
     )
+    .map {
+        $0.pathExtension == "md"
+    }
 } catch {
     fatalError(error.localizedDescription)
 }

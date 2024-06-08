@@ -19,12 +19,12 @@ do {
     }
     .forEach { sourceURL in
         func sourceModificationDate() -> Date {
-            
+            try sourceURL
+                .resourceValues(forKeys: [.contentModificationDateKey])
+                .contentModificationDate!
         }
         
-        let sourceModificationDate = try sourceURL
-            .resourceValues(forKeys: [.contentModificationDateKey])
-            .contentModificationDate!
+        let sourceModificationDate =
         
         print(sourceModificationDate)
         

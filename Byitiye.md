@@ -34,3 +34,5 @@ Boleye prostyiye i boleye slozhnyiye nablyudateli tozhe obsjhayutsya mezhdu sobo
 Naprimer, myi mozhem povozdejstvovatj na atom rtuti, napraviv v nego svobodnyij elektron. Nu oni, konechno, mogut otkazatjsya vzaimodejstvovatj, poetomu myi mozhem napravitj mnogo svobodnyikh elektronov na mnozhestvo atomov rtuti — kto‐to iz nikh da soglasitsya
 
 Yesli energiya svobodnogo elektrona ravna ili prevyishayet 4,9 eV, pri stolknovenii s atomom rtuti elektron mozhet peredatj etu energiyu odnomu iz elektronov atomov rtuti, perevodya yego na boleye vyisokij energeticheskij urovenj
+
+V etom sluchaye 

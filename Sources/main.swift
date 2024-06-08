@@ -20,12 +20,14 @@ do {
             .contentModificationDate!
         
         try scriptTable.scripts.forEach { script in
-            func targetURL(from sourceURL)
+            func targetURL(from script: Script) -> URL {
+                sourceURL
+                    .deletingLastPathComponent()
+                    .appending(component: script.rawValue)
+                    .appending(component: sourceURL.lastPathComponent)
+            }
             
-            let targetURL = sourceURL
-                .deletingLastPathComponent()
-                .appending(component: script.rawValue)
-                .appending(component: sourceURL.lastPathComponent)
+            let targetURL = targetURL(from: script)
             
             let targetModificationDate = try sourceURL
                 .resourceValues(forKeys: [.contentModificationDateKey])

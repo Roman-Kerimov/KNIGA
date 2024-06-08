@@ -21,3 +21,6 @@ Ikh vselennaya — rezuljtat ikh nablyudeniya
 
 
 Eto ta ramka myishleniya o nablyudatelyakh i ikh vzaimodejstvii, kotoruyu otrazhayet nash yazyik — kotoruyu nablyudayet nash yazyik
+
+Yazyik nablyudayet — znachit on susjhestvuyet  
+Yego vselennaya — rezuljtat yego nablyudeniya

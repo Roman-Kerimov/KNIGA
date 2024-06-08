@@ -19,7 +19,7 @@ do {
             .resourceValues(forKeys: [.contentModificationDateKey])
             .contentModificationDate!
         
-        try ScriptTable.ru.scripts.forEach { script in
+        try scriptTable.scripts.forEach { script in
             let targetURL = sourceURL
                 .deletingLastPathComponent()
                 .appending(component: script.rawValue)
@@ -36,10 +36,10 @@ do {
                     sourceText
                 } else {
                     sourceText
-                        .applyingTransform(from: .Latn, to: script, withTable: .ru)
+                        .applyingTransform(from: .Latn, to: script, withTable: scriptTable)
                 }
                 
-                let header =
+                let header = scriptTable.scripts
             }
         }
     }

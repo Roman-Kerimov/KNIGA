@@ -4,4 +4,4 @@
 import Foundation
 import LinguisticKit
 
-print(FileManager.default.currentDirectoryPath)
+print(FileManager.default.url(for: ., in: <#T##FileManager.SearchPathDomainMask#>, appropriateFor: <#T##URL?#>, create: <#T##Bool#>).currentDirectoryPath)

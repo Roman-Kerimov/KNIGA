@@ -27,7 +27,9 @@ do {
                 .resourceValues(forKeys: [.contentModificationDateKey])
                 .contentModificationDate
             
-            if sourceModificationDate <
+            if sourceModificationDate > targetModificationDate {
+                
+            }
         }
     }
 } catch {

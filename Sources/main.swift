@@ -38,9 +38,15 @@ do {
             
             let targetModificationDate = try? modificationDate(from: targetURL(from: script))
             
+            let mainSwiftModificationDate = try modificationDate(
+                from: .currentDirectory().appending(path: "Sources/main.swift")
+            )
+            let packageResolvedModificationDate = try modificationDate(
+                from: .currentDirectory().appending(path: "Package.resolved")
+            )
             
             guard
-                targetModificationDate.map({ sourceModificationDate > $0 && modificationDate(from: .currentDirectory().appending(path: "Sources/main.swift")) < $0 && ) < $0 }) ?? true else {
+                targetModificationDate.map({ sourceModificationDate > $0 &&  < $0 && ) < $0 }) ?? true else {
             }
             
             let sourceText = try String(contentsOf: sourceURL)

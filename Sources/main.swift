@@ -40,6 +40,9 @@ do {
                 }
                 
                 let header = scriptTable.scripts
+                    .map {
+                        
+                    }
             }
         }
     }

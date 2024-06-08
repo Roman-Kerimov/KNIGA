@@ -21,8 +21,7 @@ do {
         
         try scriptTable.scripts.forEach { script in
             func targetURL(from script: Script) -> URL {
-                sourceURL
-                    .deletingLastPathComponent()
+                .currentDirectory()
                     .appending(component: script.rawValue)
                     .appending(component: sourceURL.lastPathComponent)
             }

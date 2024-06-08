@@ -46,7 +46,13 @@ do {
             )
             
             guard
-                targetModificationDate.map({ sourceModificationDate > $0 && mainSwiftModificationDate < $0 && packageResolvedModificationDate < $0 }) ?? true
+                targetModificationDate.map(
+                    {
+                        sourceModificationDate > $0
+                        && mainSwiftModificationDate < $0
+                        && packageResolvedModificationDate < $0
+                    }
+                ) ?? true
             else {
                 return
             }

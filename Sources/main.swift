@@ -21,6 +21,8 @@ do {
             .deletingLastPathComponent()
             .appending(component: "Cyrl")
             .appending(component: sourceURL.lastPathComponent)
+        
+        ScriptTable.ru.scripts
     }
 } catch {
     fatalError(error.localizedDescription)

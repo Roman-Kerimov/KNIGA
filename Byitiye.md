@@ -11,4 +11,4 @@ On nablyudayet — znachit on susjhestvuyet
 Yego vselennaya — rezuljtat yego nablyudeniya
 
 Ona nablyudayet — znachit ona susjhestvuyet
-Yeyo vselennaya — 
+Yeyo vselennaya — rezuljtat yeyo nablyudeniya

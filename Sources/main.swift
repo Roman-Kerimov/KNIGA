@@ -66,6 +66,8 @@ do {
             
             let scriptPicker = scriptTable.scripts.sorted()
                 .map {
+                    let selectedScript = script
+                    let script = $0
                     if $0 == script {
                         script.rawValue
                     } else {

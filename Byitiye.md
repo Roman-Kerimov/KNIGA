@@ -7,7 +7,7 @@ Tvoya vselennaya — rezuljtat tvoyego nablyudeniya
 Myi nablyudayem — znachit myi susjhestvuyem  
 Nasha vselennaya — rezuljtat nashego nablyudeniya
 
-On nablyudayet — znachit on susjhestvuyet
+On nablyudayet — znachit on susjhestvuyet  
 Yego vselennaya — rezuljtat yego nablyudeniya
 
 Ona nablyudayet — znachit ona susjhestvuyet

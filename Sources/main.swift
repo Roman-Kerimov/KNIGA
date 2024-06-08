@@ -24,7 +24,7 @@ do {
                 .contentModificationDate!
         }
         
-        let sourceModificationDate = modificationDate(from: sourceURL)
+        let sourceModificationDate = try modificationDate(from: sourceURL)
         
         try scriptTable.scripts.forEach { script in
             func targetURL(from script: Script) -> URL {

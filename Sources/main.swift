@@ -61,6 +61,5 @@ do {
         }
     }
 } catch {
-    print(sourceDirectory)
     fatalError(error.localizedDescription)
 }

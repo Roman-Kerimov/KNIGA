@@ -49,7 +49,7 @@ do {
                     }
                     .joined(separator: " ")
                 
-                
+                try [scriptPicker, targetText].joined(separator: "\n\n").write(to: <#T##URL#>, atomically: <#T##Bool#>, encoding: <#T##String.Encoding#>)
             }
         }
     }

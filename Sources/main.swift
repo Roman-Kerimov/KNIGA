@@ -53,7 +53,7 @@ do {
                         if $0 == script {
                             script.rawValue
                         } else {
-                            "[\($0)](\(targetURL(from: $0))"
+                            "[\($0)](\(targetURL(from: $0)))"
                         }
                     }
                     .joined(separator: " ")

@@ -22,6 +22,12 @@ do {
                 .deletingLastPathComponent()
                 .appending(component: script.rawValue)
                 .appending(component: sourceURL.lastPathComponent)
+            
+            let targetModificationDate = try sourceURL
+                .resourceValues(forKeys: [.contentModificationDateKey])
+                .contentModificationDate
+            
+            if sourceModificationDate <
         }
     }
 } catch {

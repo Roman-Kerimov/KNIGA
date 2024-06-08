@@ -41,7 +41,9 @@ do {
                 
                 let header = scriptTable.scripts
                     .map {
-                        
+                        if $0 == script {
+                            
+                        }
                     }
             }
         }

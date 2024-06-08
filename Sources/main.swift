@@ -17,13 +17,11 @@ do {
             .resourceValues(forKeys: [.contentModificationDateKey])
             .contentModificationDate
         
-        let targetURL = sourceURL
-            .deletingLastPathComponent()
-            .appending(component: "Cyrl")
-            .appending(component: sourceURL.lastPathComponent)
-        
         ScriptTable.ru.scripts.forEach { script in
-            <#code#>
+            let targetURL = sourceURL
+                .deletingLastPathComponent()
+                .appending(component: "Cyrl")
+                .appending(component: sourceURL.lastPathComponent)
         }
     }
 } catch {

@@ -8,4 +8,6 @@ Myi nablyudayem — znachit myi susjhestvuyem
 Nasha vselennaya — rezuljtat nashego nablyudeniya
 
 On nablyudayet — znachit on susjhestvuyet
-Yego vselennaya —
+Yego vselennaya — rezuljtat yego nablyudeniya
+
+

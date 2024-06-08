@@ -15,7 +15,7 @@ do {
     .forEach { sourceURL in
         let sourceModificationDate = try sourceURL
             .resourceValues(forKeys: [.contentModificationDateKey])
-            .contentModificationDate
+            .contentModificationDate!
         
         ScriptTable.ru.scripts.forEach { script in
             let targetURL = sourceURL
@@ -25,7 +25,7 @@ do {
             
             let targetModificationDate = try sourceURL
                 .resourceValues(forKeys: [.contentModificationDateKey])
-                .contentModificationDate
+                .contentModificationDate!
             
             if sourceModificationDate > targetModificationDate {
                 

@@ -22,6 +22,8 @@ do {
             .resourceValues(forKeys: [.contentModificationDateKey])
             .contentModificationDate!
         
+        print(sourceModificationDate)
+        
         try scriptTable.scripts.forEach { script in
             func targetURL(from script: Script) -> URL {
                 URL.currentDirectory()

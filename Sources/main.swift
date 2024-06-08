@@ -63,5 +63,5 @@ do {
         }
     }
 } catch {
-    fatalError(error.localizedDescription)
+    fatalError(String(describing: error))
 }

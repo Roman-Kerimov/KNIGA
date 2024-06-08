@@ -31,7 +31,7 @@ do {
                     .appending(component: sourceURL.lastPathComponent)
             }
             
-            let targetModificationDate = try modificationDate(from: targetURL(from: script))
+            let targetModificationDate = try? modificationDate(from: targetURL(from: script))
             
             if sourceModificationDate > targetModificationDate {
                 let sourceText = try String(contentsOf: sourceURL)

@@ -30,7 +30,9 @@ do {
             if sourceModificationDate > targetModificationDate {
                 let sourceText = try String(contentsOf: sourceURL)
                 
-                if l
+                if script == .Latn {
+                    
+                }
                     .applyingTransform(from: .Latn, to: <#T##Script#>, withTable: <#T##ScriptTable#>)
             }
         }

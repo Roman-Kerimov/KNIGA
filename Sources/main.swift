@@ -69,7 +69,7 @@ do {
                     if $0 == script {
                         script.rawValue
                     } else {
-                        "[\($0)](\(targetURL(from: $0)))"
+                        "[\($0)](\($0)/\(sourceURL.lastPathComponent))"
                     }
                 }
                 .joined(separator: " ")

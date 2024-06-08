@@ -11,4 +11,4 @@ Dlya avtomaticheskikh kommitov ya ispoljzuyu [Obsidian](https://obsidian.md) s p
 
 Ya pishu KNIGU na russkom yazyike, a tyi mozheshj pisatj na nyom zhe ili lyubom drugom, kotoryij tebe po dushe
 
-Ya pishu KNIGU na russkoj latinice, i tyi mozheshj delatj tak zhe, ili smiritjsya s nedostatkami kirillicyi i delatj kak privyik
+Ya pishu KNIGU s ispoljzovaniyem russkoj latinicyi, i tyi mozheshj delatj tak zhe, ili smiritjsya s nedostatkami kirillicyi i delatj kak privyik

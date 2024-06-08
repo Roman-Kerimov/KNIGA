@@ -67,7 +67,8 @@ do {
             let scriptPicker = scriptTable.scripts.sorted()
                 .map {
                     let selectedScript = script
-                    let script = $0 
+                    let script = $0
+                    let scriptLabel = script.rawValue.applyingTransform(from: <#T##Script#>, to: <#T##Script#>, withTable: <#T##ScriptTable#>)
                     if script == selectedScript {
                         script.rawValue
                     } else {

@@ -1,1 +1,1 @@
-Ya nablyudayu — znachit ya su
+Ya nablyudayu — znachit ya susjhestvuyu 

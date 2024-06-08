@@ -7,7 +7,7 @@ import LinguisticKit
 let scriptTable: ScriptTable = .ru
 
 do {
-    fatalError(KNIGA)
+    fatalError(String(describing: KNIGA))
     try FileManager.default.contentsOfDirectory(
         at: .currentDirectory().appending(component: "KNIGA"),
         includingPropertiesForKeys: [.contentModificationDateKey]

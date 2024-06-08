@@ -26,3 +26,5 @@ Yazyik nablyudayet — znachit on susjhestvuyet
 Yego vselennaya — rezuljtat yego nablyudeniya
 
 V nashej vselennoj myi nablyudayem nablyudatelej samogo raznogo roda
+
+Myi nablyudayem, kak boleye prostyiye nablyudateli

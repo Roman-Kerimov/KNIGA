@@ -69,6 +69,8 @@ do {
                     let selectedScript = script
                     let script = $0
                     let scriptLabel = Locale(languageCode: .russian)
+                        .localizedString(forScriptCode: script.rawValue)
+                    
                     if script == selectedScript {
                         script.rawValue
                     } else {

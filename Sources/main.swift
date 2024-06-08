@@ -36,7 +36,7 @@ do {
                     sourceText
                 } else {
                     sourceText
-                        .applyingTransform(from: .Latn, to: script, withTable: scriptTable)
+                        .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
                 }
                 
                 let scriptPicker = scriptTable.scripts
@@ -49,7 +49,9 @@ do {
                     }
                     .joined(separator: " ")
                 
-                try [scriptPicker, targetText].joined(separator: "\n\n").write(to: targetURL, atomically: true, encoding: .utf8)
+                try [scriptPicker, targetText]
+                    .joined(separator: "\n\n")
+                    .write(to: targetURL, atomically: true, encoding: .utf8)
             }
         }
     }

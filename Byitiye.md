@@ -1,4 +1,4 @@
-# Ya nablyudayu — znachit ya susjhestvuyu
+Ya nablyudayu — znachit ya susjhestvuyu
 Moya vselennaya — rezuljtat moyego nablyudeniya
 
 

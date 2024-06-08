@@ -12,12 +12,15 @@ do {
     .filter {
         $0.pathExtension == "md"
     }
-    .forEach { mdURL in
-        let sourceModificationDate = try mdURL
+    .forEach { sourceURL in
+        let sourceModificationDate = try sourceURL
             .resourceValues(forKeys: [.contentModificationDateKey])
             .contentModificationDate
         
-        
+        let targetURL = sourceURL
+            .deletingLastPathComponent()
+            .appending(component: "Cyrl")
+            .appending(component: sourceURL.lastPathComponent)
     }
 } catch {
     fatalError(error.localizedDescription)

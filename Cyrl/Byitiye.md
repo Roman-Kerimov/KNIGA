@@ -1,4 +1,4 @@
-[Perm](Perm/Byitiye.md) Cyrl [Runr](Runr/Byitiye.md) [Glag](Glag/Byitiye.md) [Latn](Latn/Byitiye.md)
+Cyrl [Glag](Glag/Byitiye.md) [Latn](Latn/Byitiye.md) [Perm](Perm/Byitiye.md) [Runr](Runr/Byitiye.md)
 
 # Бытие
 

@@ -4,10 +4,10 @@
 import Foundation
 import LinguisticKit
 
-print(FileManager.default.currentDirectoryPath)
-
 do {
-    try FileManager.default.contentsOfDirectory(atPath: FileManager.default.currentDirectoryPath)
+    let try FileManager.default.contentsOfDirectory(
+        atPath: FileManager.default.currentDirectoryPath
+    )
 } catch {
     fatalError(error.localizedDescription)
 }

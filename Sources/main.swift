@@ -30,7 +30,8 @@ do {
                     .appending(component: script.rawValue)
                     .appending(component: sourceURL.lastPathComponent)
                 
-                FileManager.default.createDirectory(at: targetDirectory, withIntermediateDirectories: true)
+                try? FileManager.default
+                    .createDirectory(at: targetDirectory, withIntermediateDirectories: true)
             }
             
             let targetModificationDate = try modificationDate(from: targetURL(from: script))

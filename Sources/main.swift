@@ -72,10 +72,10 @@ do {
                         "[\($0)](../\($0)/\(sourceURL.lastPathComponent))"
                     }
                 }
-                .joined(separator: " ")
+                .joined(separator: " | ")
             
             try """
-            \(scriptPicker)
+            # \(scriptPicker)
             
             \(targetText)
             """

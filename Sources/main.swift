@@ -57,6 +57,8 @@ do {
                     }
                     .joined(separator: " ")
                 
+                print(targetURL(from: script))
+                
                 try """
                 \(scriptPicker)
                 

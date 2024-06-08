@@ -32,3 +32,5 @@ Myi nablyudayem, kak boleye prostyiye nablyudateli, k primeru vozjmyom atomyi, p
 U atomov svoj yazyik, a u molekul svoj
 
 Molekulyi putyom vzaimodejstviya na svoyom yazyike mogut obrazovyivatj kletki
+
+Eukarioticheskiye kletki mogut obrazovyivatj ustojchivyiye mnogokletochnyiye organizmyi

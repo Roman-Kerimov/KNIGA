@@ -1,5 +1,4 @@
 Ya nablyudayu — znachit ya susjhestvuyu
-
 Moya vselennaya — rezuljtat moyego nablyudeniya
 
 

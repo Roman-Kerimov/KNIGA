@@ -35,6 +35,8 @@ do {
                 .resourceValues(forKeys: [.contentModificationDateKey])
                 .contentModificationDate!
             
+            print(targetModificationDate)
+            
             if sourceModificationDate > targetModificationDate {
                 let sourceText = try String(contentsOf: sourceURL)
                 

@@ -1,4 +1,4 @@
-[Cyrl](Cyrl/Byitiye.md) [Glag](Glag/Byitiye.md) [Latn](Latn/Byitiye.md) [Perm](Perm/Byitiye.md) Runr
+[Cyrl](../Cyrl/Byitiye.md) [Glag](../Glag/Byitiye.md) [Latn](../Latn/Byitiye.md) [Perm](../Perm/Byitiye.md) Runr
 
 # ᛒᚤᛁᛏᛁᚤᛖ
 

@@ -46,7 +46,7 @@ do {
             )
             
             guard
-                targetModificationDate.map({ sourceModificationDate > $0 &&  < $0 && ) < $0 }) ?? true else {
+                targetModificationDate.map({ sourceModificationDate > $0 && mainSwiftModificationDate < $0 && packageResolvedModificationDate < $0 }) ?? true else {
             }
             
             let sourceText = try String(contentsOf: sourceURL)

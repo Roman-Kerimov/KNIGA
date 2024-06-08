@@ -28,3 +28,5 @@ Yego vselennaya — rezuljtat yego nablyudeniya
 V nashej vselennoj myi nablyudayem nablyudatelej samogo raznogo roda
 
 Myi nablyudayem, kak boleye prostyiye nablyudateli, k primeru vozjmyom atomyi, putyom vzaimodejstviya na svoyom yazyike obrazuyut boleye slozhnyikh nablyudatelej — v nashem primere molekulyi
+
+Boleye prostyiye i boleye slozhnyiye nablyudateli tozhe obsjhayutsya mezhdu soboj

@@ -31,9 +31,11 @@ do {
                 let sourceText = try String(contentsOf: sourceURL)
                 
                 if script == .Latn {
-                    
+                    sourceText
+                } else {
+                    sourceText
+                        .applyingTransform(from: .Latn, to: script, withTable: .ru)
                 }
-                    .applyingTransform(from: .Latn, to: <#T##Script#>, withTable: <#T##ScriptTable#>)
             }
         }
     }

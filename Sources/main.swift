@@ -77,7 +77,7 @@ do {
                 .map {
                     let selectedScript = script
                     let script = $0.script
-                    let scriptLabel = $0.label
+                    let scriptLabel = $0.label.uppercased()
                     
                     return if script == selectedScript {
                         scriptLabel

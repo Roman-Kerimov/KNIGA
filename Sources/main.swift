@@ -6,4 +6,4 @@ import LinguisticKit
 
 print(FileManager.default.currentDirectoryPath)
 
-FileManager.default.url
+FileManager.default.contentsOfDirectory(atPath: FileManager.default.currentDirectoryPath)

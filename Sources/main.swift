@@ -65,9 +65,7 @@ do {
             }
             
             let scriptPicker = scriptTable.scripts.sorted()
-                .map {
-                    let selectedScript = script
-                    let script = $0
+                .map { script in
                     let scriptLabel = Locale(languageCode: .russian)
                         .localizedString(forScriptCode: script.rawValue)?
                         .applyingTransform(from: .Cyrl, to: script, withTable: scriptTable)
@@ -75,7 +73,9 @@ do {
                     
                     return (script: script, label: scriptLabel)
                 }
-                .map { 
+                .map {
+                    let selectedScript = script
+                    let script = $0
                     if script == selectedScript {
                         scriptLabel
                     } else {

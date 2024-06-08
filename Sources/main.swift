@@ -5,10 +5,11 @@ import Foundation
 import LinguisticKit
 
 let scriptTable: ScriptTable = .ru
+let sourceDirectory: URL = .currentDirectory().appending(component: "KNIGA")
 
 do {
     try FileManager.default.contentsOfDirectory(
-        at: .currentDirectory().appending(component: "KNIGA"),
+        at: ,
         includingPropertiesForKeys: [.contentModificationDateKey]
     )
     .filter {

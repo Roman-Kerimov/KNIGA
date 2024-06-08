@@ -22,7 +22,9 @@ do {
             .appending(component: "Cyrl")
             .appending(component: sourceURL.lastPathComponent)
         
-        ScriptTable.ru.scripts
+        ScriptTable.ru.scripts.forEach { script in
+            <#code#>
+        }
     }
 } catch {
     fatalError(error.localizedDescription)

@@ -18,3 +18,6 @@ Onaya vselennaya — rezuljtat onogo nablyudeniya
 
 Oni nablyudayut — znachit oni susjhestvuyut  
 Ikh vselennaya — rezuljtat ikh nablyudeniya
+
+
+Eto ta ramka myishleniya o nablyudatelyakh i ikh vzaimodejstvii, 

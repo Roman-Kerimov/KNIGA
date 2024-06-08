@@ -38,33 +38,35 @@ do {
             
             let targetModificationDate = try? modificationDate(from: targetURL(from: script))
             
-            if targetModificationDate.map({ sourceModificationDate > $0 && modificationDate(from: .currentDirectory().appending(path: "Sources/main.swift")) < $0 && modificationDate(from: .currentDirectory().appending(path: "Package.resolved")) < $0 }) ?? true {
-                let sourceText = try String(contentsOf: sourceURL)
-                
-                let targetText = if script == .Latn {
-                    sourceText
-                } else {
-                    sourceText
-                        .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
-                }
-                
-                let scriptPicker = scriptTable.scripts
-                    .map {
-                        if $0 == script {
-                            script.rawValue
-                        } else {
-                            "[\($0)](\(targetURL(from: $0)))"
-                        }
-                    }
-                    .joined(separator: " ")
-                
-                try """
-                \(scriptPicker)
-                
-                \(targetText)
-                """
-                .write(to: targetURL(from: script), atomically: true, encoding: .utf8)
+            guard
+                targetModificationDate.map({ sourceModificationDate > $0 && modificationDate(from: .currentDirectory().appending(path: "Sources/main.swift")) < $0 && modificationDate(from: .currentDirectory().appending(path: "Package.resolved")) < $0 }) ?? true else {
             }
+            
+            let sourceText = try String(contentsOf: sourceURL)
+            
+            let targetText = if script == .Latn {
+                sourceText
+            } else {
+                sourceText
+                    .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
+            }
+            
+            let scriptPicker = scriptTable.scripts
+                .map {
+                    if $0 == script {
+                        script.rawValue
+                    } else {
+                        "[\($0)](\(targetURL(from: $0)))"
+                    }
+                }
+                .joined(separator: " ")
+            
+            try """
+            \(scriptPicker)
+            
+            \(targetText)
+            """
+            .write(to: targetURL(from: script), atomically: true, encoding: .utf8)
         }
     }
 } catch {

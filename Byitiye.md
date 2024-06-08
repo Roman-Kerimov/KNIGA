@@ -25,4 +25,4 @@ Eto ta ramka myishleniya o nablyudatelyakh i ikh vzaimodejstvii, kotoruyu otrazh
 Yazyik nablyudayet — znachit on susjhestvuyet  
 Yego vselennaya — rezuljtat yego nablyudeniya
 
-
+V nashej vselennoj myi nablyudayem nablyudatelej samogo raznogo roda

@@ -56,7 +56,6 @@ do {
                 
                 \(targetText)
                 """
-                .joined(separator: "\n\n")
                 .write(to: targetURL(from: script), atomically: true, encoding: .utf8)
             }
         }

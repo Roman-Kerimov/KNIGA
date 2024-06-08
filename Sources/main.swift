@@ -51,9 +51,13 @@ do {
                     }
                     .joined(separator: " ")
                 
-                try [scriptPicker, targetText]
-                    .joined(separator: "\n\n")
-                    .write(to: targetURL(from: script), atomically: true, encoding: .utf8)
+                try """
+                \(scriptPicker)
+                
+                \(targetText)
+                """
+                .joined(separator: "\n\n")
+                .write(to: targetURL(from: script), atomically: true, encoding: .utf8)
             }
         }
     }

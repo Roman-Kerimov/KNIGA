@@ -28,7 +28,8 @@ do {
                 .contentModificationDate!
             
             if sourceModificationDate > targetModificationDate {
-                
+                try String(contentsOf: sourceURL)
+                    .
             }
         }
     }

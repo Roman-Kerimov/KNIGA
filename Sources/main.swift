@@ -55,8 +55,7 @@ do {
                 \(scriptPicker)
                 
                 \(targetText)
-                """
-                .write(to: targetURL(from: script), atomically: true, encoding: .utf8)
+                """.write(to: targetURL(from: script), atomically: true, encoding: .utf8)
             }
         }
     }

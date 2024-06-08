@@ -5,9 +5,7 @@ import Foundation
 import LinguisticKit
 
 do {
-    let try FileManager.default.contentsOfDirectory(
-        atPath: FileManager.default.currentDirectoryPath
-    )
+    let fajlyi = try FileManager.default.contentsOfDirectory(at: .currentDirectory(), includingPropertiesForKeys: [.mod])
 } catch {
     fatalError(error.localizedDescription)
 }

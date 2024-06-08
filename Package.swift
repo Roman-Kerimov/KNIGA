@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "KNIGA",
-    platforms: [.macOS(<#T##version: SupportedPlatform.MacOSVersion##SupportedPlatform.MacOSVersion#>)],
+    platforms: [.macOS(.v13)],
     dependencies: [
         .package(url: "https://github.com/Roman-Kerimov/LinguisticKit", branch: "master")
     ],

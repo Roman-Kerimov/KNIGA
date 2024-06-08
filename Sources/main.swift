@@ -33,7 +33,7 @@ do {
             
             let targetModificationDate = try? modificationDate(from: targetURL(from: script))
             
-            if sourceModificationDate > targetModificationDate {
+            if targetModificationDate?.compare(sourceModificationDate) {
                 let sourceText = try String(contentsOf: sourceURL)
                 
                 let targetText = if script == .Latn {

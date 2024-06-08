@@ -9,5 +9,5 @@ print(FileManager.default.currentDirectoryPath)
 do {
     try FileManager.default.contentsOfDirectory(atPath: FileManager.default.currentDirectoryPath)
 } catch {
-    print(error)
+    fatalError(error)
 }

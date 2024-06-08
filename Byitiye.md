@@ -20,4 +20,4 @@ Oni nablyudayut — znachit oni susjhestvuyut
 Ikh vselennaya — rezuljtat ikh nablyudeniya
 
 
-Eto ta ramka myishleniya o nablyudatelyakh i ikh vzaimodejstvii, kotoruyu zadayot nash yazyik
+Eto ta ramka myishleniya o nablyudatelyakh i ikh vzaimodejstvii, kotoruyu otrazhayet nash yazyik

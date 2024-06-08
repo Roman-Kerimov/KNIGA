@@ -86,6 +86,7 @@ do {
                     }
                 }
                 .joined(separator: " | ")
+                .uppercased()
             
             try """
             ## \(scriptPicker)

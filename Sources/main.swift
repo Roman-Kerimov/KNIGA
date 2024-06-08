@@ -44,7 +44,7 @@ do {
                         if $0 == script {
                             script.rawValue
                         } else {
-                            "[\($0)]()"
+                            "[\($0)](\(URL.currentDirectory().appending(component: $0.rawValue))"
                         }
                     }
             }

@@ -6,4 +6,8 @@ import LinguisticKit
 
 print(FileManager.default.currentDirectoryPath)
 
-FileManager.default.contentsOfDirectory(atPath: FileManager.default.currentDirectoryPath)
+do {
+    try FileManager.default.contentsOfDirectory(atPath: FileManager.default.currentDirectoryPath)
+} catch {
+    print(error)
+}

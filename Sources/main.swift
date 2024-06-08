@@ -20,6 +20,8 @@ do {
             .contentModificationDate!
         
         try scriptTable.scripts.forEach { script in
+            func targetURL(from sourceURL)
+            
             let targetURL = sourceURL
                 .deletingLastPathComponent()
                 .appending(component: script.rawValue)

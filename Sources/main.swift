@@ -33,7 +33,7 @@ do {
                     .appending(component: sourceURL.lastPathComponent)
             }
             
-            let targetModificationDate = modificationDate(from: targetURL(from: script))
+            let targetModificationDate = try modificationDate(from: targetURL(from: script))
             
             print(targetModificationDate)
             

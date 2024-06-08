@@ -27,8 +27,6 @@ do {
                     .appending(component: sourceURL.lastPathComponent)
             }
             
-            let targetURL = targetURL(from: script)
-            
             let targetModificationDate = try sourceURL
                 .resourceValues(forKeys: [.contentModificationDateKey])
                 .contentModificationDate!

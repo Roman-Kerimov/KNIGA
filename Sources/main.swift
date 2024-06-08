@@ -5,12 +5,15 @@ import Foundation
 import LinguisticKit
 
 do {
-    let mdFajlyi = try FileManager.default.contentsOfDirectory(
+    try FileManager.default.contentsOfDirectory(
         at: .currentDirectory(),
         includingPropertiesForKeys: [.contentModificationDateKey]
     )
-    .map {
+    .filter {
         $0.pathExtension == "md"
+    }
+    .forEach { mdURL in
+        <#code#>
     }
 } catch {
     fatalError(error.localizedDescription)

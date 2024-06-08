@@ -1,4 +1,4 @@
-[Glag](file:///Users/romankerimov/Documents/KNIGA/Glag/Byitiye.md Latn [Runr](file:///Users/romankerimov/Documents/KNIGA/Runr/Byitiye.md [Perm](file:///Users/romankerimov/Documents/KNIGA/Perm/Byitiye.md [Cyrl](file:///Users/romankerimov/Documents/KNIGA/Cyrl/Byitiye.md
+[Perm](file:///Users/romankerimov/Documents/KNIGA/Perm/Byitiye.md) Latn [Runr](file:///Users/romankerimov/Documents/KNIGA/Runr/Byitiye.md) [Cyrl](file:///Users/romankerimov/Documents/KNIGA/Cyrl/Byitiye.md) [Glag](file:///Users/romankerimov/Documents/KNIGA/Glag/Byitiye.md)
 
 # Byitiye
 

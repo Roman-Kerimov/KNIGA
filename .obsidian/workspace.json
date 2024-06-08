@@ -11,12 +11,8 @@
             "id": "7bbd7be33386ebc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Byitiye.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Byitiye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Byitiye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Byitiye.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "7bbd7be33386ebc6",
   "lastOpenFiles": [
+    "Byitiye.md",
     "KNIGA/Byitiye.md",
     "KNIGA",
     "untitled folder",
@@ -156,7 +149,6 @@
     "README.md",
     "File.swift",
     "Byitiye~.md",
-    "Byitiye.md",
     "Byitiye.swift"
   ]
 }

@@ -35,4 +35,4 @@ Naprimer, myi mozhem povozdejstvovatj na atom rtuti, napraviv v nego svobodnyij 
 
 Yesli energiya svobodnogo elektrona ravna ili prevyishayet 4,9 eV, pri stolknovenii s atomom rtuti elektron mozhet peredatj etu energiyu odnomu iz elektronov atomov rtuti, perevodya yego na boleye vyisokij energeticheskij urovenj
 
-V etom sluchaye atom rtuti perekhodit v vozbuzhdyonnoye sostoyaniye, a svobodnyij elektron teryayet
+V etom sluchaye atom rtuti perekhodit v vozbuzhdyonnoye sostoyaniye, a svobodnyij elektron teryayet sootvetstvuyusjheye kolichestvo energii

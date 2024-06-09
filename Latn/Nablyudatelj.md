@@ -2,7 +2,7 @@
 
 #  Nablyudatelj
 
-Ya nablyudatelj, i ya nablyudayu moyu vselennuyu
+Ya nablyudatelj, i rezuljtatom moyego nablyudeniya yavlyayetsya moya vselennaya
 
 Tyi nablyudatelj, i tyi nablyudayeshj tvoyu vselennuyu
 

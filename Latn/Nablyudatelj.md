@@ -6,4 +6,4 @@ Ya nablyudatelj, i ya nablyudayu moyu vselennuyu
 
 Tyi nablyudatelj, i tyi nablyudayeshj tvoyu vselennuyu
 
-Yesli myi nablyudayem odno i to zhe, to myi eto vyiyasnili eto cherez vzaimodejstviye mezhdu soboj — cherez nablyudeniye drug druga, ya prisutstvuyu v tvoyej vselennoj, a tyi prisutstvuyeshj v moyej vselennoj
+Yesli myi nablyudayem odno i to zhe, to myi eto vyiyasnili eto cherez vzaimodejstviye mezhdu soboj — cherez nablyudeniye drug druga, ya prisutstvuyu v tvoyej vselennoj, a tyi prisutstvuyeshj v moyej vselennoj, i obyyedinyayasj v setj nablyudatelej, myi obrazuyem nablyudatelya boleye vyisokogo urovnya, kotoryij nablyidayet svoyu vselennuyu, to yestj nashu vselennuyu

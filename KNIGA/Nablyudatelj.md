@@ -1,2 +1,2 @@
-#  NABLYUDATELJ
+#  Nablyudatelj
 

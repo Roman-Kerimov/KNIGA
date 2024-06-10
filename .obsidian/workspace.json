@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b86e4d4fdc801568",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7bbd7be33386ebc6",
+  "active": "b86e4d4fdc801568",
   "lastOpenFiles": [
     "KNIGA/Byitiye.md",
     "Latn/Nablyudatelj.md",

@@ -1,6 +1,6 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Byitiye.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/Byitiye.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Byitiye.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/Byitiye.md)
 
-# BYITIYE
+# Byitiye
 
 Ya nablyudayu — znachit ya susjhestvuyu  
 Moya vselennaya — rezuljtat moyego nablyudeniya

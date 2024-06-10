@@ -1,4 +1,4 @@
-### LATINICA | [КИРИЛЛИЦА](../Cyrl/Byitiye.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/Byitiye.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Byitiye.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/Byitiye.md)
+### LATINICA | [КИРИЛЛИЦА](../Cyrl/Бытие.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᛒᚤᛁᛏᛁᚤᛖ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⰱⱏⰹⱅⰹⰵ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍑𐍨𐍢𐍙𐍔.md)
 
 # Byitiye
 

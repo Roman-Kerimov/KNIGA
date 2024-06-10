@@ -11,12 +11,8 @@
             "id": "14f093ac4f540c34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyrl/Бытие.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyrl/Бытие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyrl/Бытие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyrl/Бытие.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "14f093ac4f540c34",
   "lastOpenFiles": [
+    "Cyrl/Бытие.md",
     "Cyrl/Вселенная.md",
     "KNIGA/Nalogi~.md",
     "KNIGA/Vselennaya~.md",
@@ -173,7 +166,6 @@
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
     "Cyrl/Государство.md",
-    "Latn/Obucheniye.md",
     "Latn",
     "Sources/main~.swift",
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.ⰿⰴ",

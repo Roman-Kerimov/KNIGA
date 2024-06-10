@@ -41,9 +41,16 @@ do {
             let mainSwiftModificationDate = try modificationDate(
                 from: .currentDirectory().appending(path: "Sources/main.swift")
             )
+            
             let packageResolvedModificationDate = try modificationDate(
                 from: .currentDirectory().appending(path: "Package.resolved")
             )
+            
+            should
+            
+            if mainSwiftModificationDate || packageResolvedModificationDate {
+                
+            }
             
             guard
                 targetModificationDate.map({

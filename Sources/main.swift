@@ -68,8 +68,8 @@ do {
                             .deletingPathExtension()
                             .lastPathComponent
                             .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
-                            .appendingPathExtension(sourceURL.pathExtension)
                     )
+                    .appendingPathExtension(sourceURL.pathExtension)
             }
             
             let targetModificationDate = try? modificationDate(from: targetURL(from: script))

@@ -63,7 +63,10 @@ do {
                     .createDirectory(at: targetDirectory, withIntermediateDirectories: true)
                 
                 return targetDirectory
-                    .appending(component: sourceURL.lastPathComponent)
+                    .appending(
+                        component: sourceURL.lastPathComponent
+                            .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
+                    )
             }
             
             let targetModificationDate = try? modificationDate(from: targetURL(from: script))

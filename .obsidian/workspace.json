@@ -140,6 +140,12 @@
   },
   "active": "7bbd7be33386ebc6",
   "lastOpenFiles": [
+    "Perm/Nalogi.md",
+    "Cyrl/Nalogi.md",
+    "Glag/Nalogi.md",
+    "Latn/Nalogi.md",
+    "Runr/Nalogi.md",
+    "KNIGA/Nalogi.md",
     "Perm/Nablyudatelj.md",
     "Cyrl/Nablyudatelj.md",
     "Runr/Nablyudatelj.md",
@@ -168,10 +174,7 @@
     "KNIGA",
     "untitled folder",
     "Package.resolved",
-    "README~.md",
-    "README.md",
     "File.swift",
-    "Byitiye~.md",
     "Byitiye.swift"
   ]
 }

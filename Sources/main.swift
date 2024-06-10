@@ -18,8 +18,15 @@ func modificationDate(from url: URL) throws -> Date {
         .contentModificationDate!
 }
 
+let mainSwiftModificationDate = try modificationDate(
+    from: .currentDirectory().appending(path: "Sources/main.swift")
+)
+
+let packageResolvedModificationDate = try modificationDate(
+    from: .currentDirectory().appending(path: "Package.resolved")
+)
+
 do {
-    
     for script in scriptTable.scripts {
         
     }
@@ -47,19 +54,9 @@ do {
             
             let targetModificationDate = try? modificationDate(from: targetURL(from: script))
             
-            let mainSwiftModificationDate = try modificationDate(
-                from: .currentDirectory().appending(path: "Sources/main.swift")
-            )
-            
-            let packageResolvedModificationDate = try modificationDate(
-                from: .currentDirectory().appending(path: "Package.resolved")
-            )
-            
             guard
                 targetModificationDate.map({
                     sourceModificationDate > $0
-                    || mainSwiftModificationDate < $0
-                    || packageResolvedModificationDate < $0
                 }) ?? true
             else {
                 return

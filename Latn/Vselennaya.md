@@ -2,4 +2,4 @@
 
 #  Vselennaya
 
-Vselennaya — rezuljtat nablyudeniya nablyudatelem
+Vselennaya — rezuljtat nablyudeniya [nablyudatelem](Nablyudatelj.md)

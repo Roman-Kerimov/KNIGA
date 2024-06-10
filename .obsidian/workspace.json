@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Nalogi.md",
+                "file": "KNIGA/Gosudarstvo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Nalogi.md",
+                "file": "KNIGA/Gosudarstvo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Nalogi.md",
+                "file": "KNIGA/Gosudarstvo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Nalogi.md"
+                "file": "KNIGA/Gosudarstvo.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "7bbd7be33386ebc6",
   "lastOpenFiles": [
+    "Cyrl/Gosudarstvo.md",
+    "Glag/Gosudarstvo.md",
+    "Perm/Gosudarstvo.md",
+    "Runr/Gosudarstvo.md",
+    "Latn/Gosudarstvo.md",
+    "KNIGA/Nalogi.md",
+    "KNIGA/Gosudarstvo.md",
     "Государство.md",
     "KNIGA/Obucheniye~.md",
     "Latn/Obucheniye.md",
@@ -161,19 +168,12 @@
     "Glag/Nalogi.md",
     "Latn/Nalogi.md",
     "Runr/Nalogi.md",
-    "KNIGA/Nalogi.md",
     "Perm/Nablyudatelj.md",
     "Cyrl/Nablyudatelj.md",
     "Runr/Nablyudatelj.md",
     "Glag/Nablyudatelj.md",
     "Latn/Nablyudatelj.md",
     "KNIGA/Nablyudatelj~.md",
-    "KNIGA/Nablyudatelj.md",
-    "Cyrl/Empty.md",
-    "Latn/Empty.md",
-    "Glag/Empty.md",
-    "Runr/Empty.md",
-    "Perm/Empty.md",
     "Cyrl",
     "Perm",
     "Latn",

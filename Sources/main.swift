@@ -86,15 +86,17 @@ do {
             
             let sourceText = try String(contentsOf: sourceURL)
             
+            let mdLinkPattern = ".md)"
+            
             let targetText = if script == .Latn {
                 sourceText
             } else {
                 sourceText
                     .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
                     .replacing(
-                        ".md)"
+                        mdLinkPattern
                             .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!,
-                        with: ".md)"
+                        with: mdLinkPattern
                     )
             }
             

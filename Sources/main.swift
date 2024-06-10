@@ -111,7 +111,7 @@ do {
                     return if script == selectedScript {
                         scriptLabel
                     } else {
-                        "[\(scriptLabel)](../\(script)/\(sourceURL.lastPathComponent))"
+                        "[\(scriptLabel)](../\(script)/\(targetURL(from: script).lastPathComponent))"
                     }
                 }
                 .joined(separator: " | ")

@@ -37,7 +37,8 @@ do {
         
         if shouldRemoveTargetDirectories {
             try scriptTable.scripts.forEach { script in
-                try FileManager.default.removeItem(at: targetDirectory(script: script))
+                try FileManager.default
+                    .removeItem(at: targetDirectory(script: script))
             }
             
             break

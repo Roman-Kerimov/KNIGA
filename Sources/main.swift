@@ -28,7 +28,20 @@ let packageResolvedModificationDate = try modificationDate(
 
 do {
     for script in scriptTable.scripts {
+        let targetDirectoryModificationDate = try modificationDate(
+            from: targetDirectory(script: script)
+        )
+        let shouldRemoveTargetDirectories = [mainSwiftModificationDate, packageResolvedModificationDate]
+            .map { $0 > targetDirectoryModificationDate }
+            .contains(true)
         
+        if shouldRemoveTargetDirectories {
+            scriptTable.scripts.forEach { script in
+                try FileManager.default.removeItem(at: targetDirectory(script: script))
+            }
+            
+            break
+        }
     }
     
     try FileManager.default.contentsOfDirectory(
@@ -57,6 +70,8 @@ do {
             guard
                 targetModificationDate.map({
                     sourceModificationDate > $0
+                    || mainSwiftModificationDate < $0
+                    || packageResolvedModificationDate < $0
                 }) ?? true
             else {
                 return

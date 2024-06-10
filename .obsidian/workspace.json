@@ -19,10 +19,8 @@
             "id": "b86e4d4fdc801568",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],

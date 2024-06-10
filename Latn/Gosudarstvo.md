@@ -4,4 +4,4 @@
 
 Gosudarstvo — nablyudatelj, sverkhchelovecheskij organizm
 
-[[Nablyudatelj]]
+[[Nablyudatel]]

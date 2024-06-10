@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "89000f3ef958c3cd",
+        "id": "0c90512c21161bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbd7be33386ebc6",
+            "id": "d81c8c0aa332245d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b86e4d4fdc801568",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +138,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b86e4d4fdc801568",
+  "active": "d81c8c0aa332245d",
   "lastOpenFiles": [
     "KNIGA/Byitiye.md",
     "Latn/Nablyudatelj.md",

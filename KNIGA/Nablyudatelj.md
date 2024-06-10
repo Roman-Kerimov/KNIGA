@@ -10,4 +10,6 @@ Myi — nablyudateli, i rezuljtatom nashego nablyudeniya yavlyayetsya nasha vsel
 
 
 ***
+---
+___
 [Vselennaya](Vselennaya.md)

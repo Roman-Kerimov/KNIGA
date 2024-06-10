@@ -11,12 +11,8 @@
             "id": "14f093ac4f540c34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyrl/Бытие.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyrl/Бытие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyrl/Бытие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyrl/Бытие.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1b77ae846fcacc32",
+  "active": "14f093ac4f540c34",
   "lastOpenFiles": [
+    "Cyrl/Бытие.md",
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
     "Latn/Nablyudatelj.md",
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
@@ -172,7 +165,6 @@
     "Latn/Byitiye.md",
     "Runr/ᛒᚤᛁᛏᛁᚤᛖ.md",
     "Glag/Ⰱⱏⰹⱅⰹⰵ.md",
-    "Cyrl/Бытие.md",
     "Cyrl/Вселенная.md",
     "Latn",
     "Sources/main~.swift",

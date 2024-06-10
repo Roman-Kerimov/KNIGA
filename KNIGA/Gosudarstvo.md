@@ -1,3 +1,3 @@
 # Gosudarstvo
 
-
+Gosudarstvo — sverkhchelovecheskij organizm

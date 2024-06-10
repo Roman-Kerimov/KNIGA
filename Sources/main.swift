@@ -7,7 +7,22 @@ import LinguisticKit
 let scriptTable: ScriptTable = .ru
 let sourceDirectory: URL = .currentDirectory().appending(component: "KNIGA")
 
+func modificationDate(from url: URL) throws -> Date {
+    try url
+        .resourceValues(forKeys: [.contentModificationDateKey])
+        .contentModificationDate!
+}
+
 do {
+    func targetDirectory(script: Script) -> URL {
+        URL.currentDirectory()
+            .appending(component: script.rawValue)
+    }
+    
+    for script in scriptTable.scripts {
+        <#body#>
+    }
+    
     try FileManager.default.contentsOfDirectory(
         at: sourceDirectory,
         includingPropertiesForKeys: [.contentModificationDateKey]
@@ -16,18 +31,11 @@ do {
         $0.pathExtension == "md"
     }
     .forEach { sourceURL in
-        func modificationDate(from url: URL) throws -> Date {
-            try url
-                .resourceValues(forKeys: [.contentModificationDateKey])
-                .contentModificationDate!
-        }
-        
         let sourceModificationDate = try modificationDate(from: sourceURL)
         
         try scriptTable.scripts.forEach { script in
             func targetURL(from script: Script) -> URL {
-                let targetDirectory = URL.currentDirectory()
-                    .appending(component: script.rawValue)
+                let targetDirectory = targetDirectory(script: script)
                 
                 try? FileManager.default
                     .createDirectory(at: targetDirectory, withIntermediateDirectories: true)

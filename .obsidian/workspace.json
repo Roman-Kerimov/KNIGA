@@ -11,12 +11,8 @@
             "id": "7bbd7be33386ebc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KNIGA/Byitiye.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Byitiye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Byitiye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KNIGA/Byitiye.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "7bbd7be33386ebc6",
   "lastOpenFiles": [
+    "KNIGA/Byitiye.md",
     "Latn/Nablyudatelj.md",
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
@@ -182,7 +175,6 @@
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.ⰿⰴ",
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.ᛗᛞ",
     "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.𐍜𐍓",
-    "Cyrl/Государство.мд",
-    "Runr/Nablyudatelj.md"
+    "Cyrl/Государство.мд"
   ]
 }

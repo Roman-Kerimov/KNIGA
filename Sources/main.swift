@@ -7,6 +7,11 @@ import LinguisticKit
 let scriptTable: ScriptTable = .ru
 let sourceDirectory: URL = .currentDirectory().appending(component: "KNIGA")
 
+func targetDirectory(script: Script) -> URL {
+    URL.currentDirectory()
+        .appending(component: script.rawValue)
+}
+
 func modificationDate(from url: URL) throws -> Date {
     try url
         .resourceValues(forKeys: [.contentModificationDateKey])
@@ -14,13 +19,9 @@ func modificationDate(from url: URL) throws -> Date {
 }
 
 do {
-    func targetDirectory(script: Script) -> URL {
-        URL.currentDirectory()
-            .appending(component: script.rawValue)
-    }
     
     for script in scriptTable.scripts {
-        <#body#>
+        
     }
     
     try FileManager.default.contentsOfDirectory(

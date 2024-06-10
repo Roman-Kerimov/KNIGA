@@ -2,4 +2,4 @@
 
 # Gosudarstvo
 
-Gosudarstvo — sverkhchelovecheskij organizm
+Gosudarstvo — nablyudatelj, sverkhchelovecheskij organizm

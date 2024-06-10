@@ -9,5 +9,5 @@ Yesli myi nablyudayem odno i to zhe, to myi eto vyiyasnili cherez vzaimodejstviy
 Myi — nablyudateli, i rezuljtatom nashego nablyudeniya yavlyayetsya nasha vselennaya
 
 
-
+***
 [Vselennaya](Vselennaya.md)

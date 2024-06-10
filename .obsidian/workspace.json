@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Gosudarstvo.md",
+                "file": "KNIGA/Byitiye.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Gosudarstvo.md",
+                "file": "KNIGA/Byitiye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Gosudarstvo.md",
+                "file": "KNIGA/Byitiye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Gosudarstvo.md"
+                "file": "KNIGA/Byitiye.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "d81c8c0aa332245d",
   "lastOpenFiles": [
+    "KNIGA/Gosudarstvo.md",
+    "KNIGA/Obucheniye.md",
     "KNIGA/Nalogi.md",
     "Cyrl/Обучение.md",
     "KNIGA/Byitiye.md",
@@ -173,8 +175,6 @@
     "Latn/Byitiye.md",
     "Latn",
     "Runr/ᛒᚤᛁᛏᛁᚤᛖ.md",
-    "Glag/Ⰱⱏⰹⱅⰹⰵ.md",
-    "Perm/𐍑𐍨𐍢𐍙𐍔.md",
     "Sources/main~.swift",
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.ⰿⰴ",
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.ᛗᛞ",

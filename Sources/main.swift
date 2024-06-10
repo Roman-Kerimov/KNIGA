@@ -64,8 +64,11 @@ do {
                 
                 return targetDirectory
                     .appending(
-                        component: sourceURL.lastPathComponent
+                        component: sourceURL
+                            .deletingPathExtension()
+                            .lastPathComponent
                             .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
+                            .appendingPathExtension(sourceURL.pathExtension)
                     )
             }
             

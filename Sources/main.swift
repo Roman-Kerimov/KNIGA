@@ -91,6 +91,11 @@ do {
             } else {
                 sourceText
                     .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!
+                    .replacing(
+                        ".md)"
+                            .applyingTransform(from: .Latn, to: script, withTable: scriptTable)!,
+                        with: ".md)"
+                    )
             }
             
             let scriptPicker = scriptTable.scripts.sorted()

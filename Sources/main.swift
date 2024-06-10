@@ -46,12 +46,6 @@ do {
                 from: .currentDirectory().appending(path: "Package.resolved")
             )
             
-            should
-            
-            if mainSwiftModificationDate || packageResolvedModificationDate {
-                
-            }
-            
             guard
                 targetModificationDate.map({
                     sourceModificationDate > $0

@@ -2,4 +2,7 @@
 
 #  Yazyik 
 
-Yazyik — protokol peread
+Yazyik — protokol peredachi informacii mezhdu nablyudatelyami
+
+___
+[Nablyudatelj](Nablyudatelj.md)

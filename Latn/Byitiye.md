@@ -11,6 +11,9 @@ Tvoya vselennaya — rezuljtat tvoyego nablyudeniya
 Myi nablyudayem — znachit myi susjhestvuyem  
 Nasha vselennaya — rezuljtat nashego nablyudeniya
 
+Vyi nablyudayete — znachit vyi susjhestvuyete  
+Vasha vselennaya — rezuljtat vashego nablyudeniya
+
 On nablyudayet — znachit on susjhestvuyet  
 Yego vselennaya — rezuljtat yego nablyudeniya
 

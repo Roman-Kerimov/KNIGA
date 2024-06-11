@@ -38,7 +38,7 @@ U atomov svoj yazyik, a u molekul svoj
 
 Molekulyi putyom vzaimodejstviya na svoyom yazyike mogut obrazovyivatj kletki
 
-Eukarioticheskiye kletki mogut obrazovyivatj ustojchivyiye mnogokletochnyiye organizmyi, dovoljno dolgo zhivusjhiye po nashim merkam
+Eukarioticheskiye kletki mogut obrazovyivatj ustojchivyiye mnogokletochnyiye organizmyi
 
 [Nablyudatelj](Nablyudatelj.md)
 [Vselennaya][Vselennaya.md]

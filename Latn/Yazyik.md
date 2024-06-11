@@ -2,4 +2,4 @@
 
 #  Yazyik 
 
-Yazyik ‐m
+Yazyik — protokol peread

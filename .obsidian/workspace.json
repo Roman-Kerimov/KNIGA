@@ -11,12 +11,8 @@
             "id": "14f093ac4f540c34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KNIGA/Bog.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Bog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Bog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KNIGA/Bog.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,13 +140,16 @@
   },
   "active": "14f093ac4f540c34",
   "lastOpenFiles": [
+    "Cyrl/Наблюдатель.md",
+    "Cyrl/Бог.md",
+    "KNIGA/Nablyudatelj.md",
+    "KNIGA/Bog.md",
     "Package~.swift",
     "Gosudrastvo.md",
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
     "Latn/Nablyudatelj.md",
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
-    "Cyrl/Наблюдатель.md",
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
     "Latn/Gosudarstvo.md",
@@ -169,11 +164,9 @@
     "Perm/𐍑𐍞𐍒.md",
     "Latn/Bog.md",
     "Runr/ᛒᛟᚷ.md",
-    "Cyrl/Бог.md",
     "Glag/Ⱑⰸⱏⰹⰽ.md",
     "Perm/𐍴𐍗𐍨𐍚.md",
     "Latn/Yazyik.md",
-    "Runr/ᚤᚨᛉᚤᛁᚲ.md",
     "Package~.resolved",
     "Latn",
     "Sources/main~.swift",

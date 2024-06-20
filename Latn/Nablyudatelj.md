@@ -16,5 +16,7 @@ Vzaimodejstviye nablyudatelej porozhdayet sistemyi nablyudatelej
 
 Setj nablyudatelej obrazuyet nablyudatelya boleye vyisokogo urovnya
 
+Nablyudtelj naivyisshego urovnya ‐m
+
 ___
 [Vselennaya](Vselennaya.md)

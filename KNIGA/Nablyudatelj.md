@@ -13,7 +13,8 @@ Vzaimodejstviye nablyudatelej porozhdayet sistemyi nablyudatelej
 
 Setj nablyudatelej obrazuyet nablyudatelya boleye vyisokogo urovnya
 
-Nablyudtelj naivyisshego urovnya ‐m
+Nablyudtelj naivyisshego urovnya — [Bog](Bog.md)
 
 ___
 [Vselennaya](Vselennaya.md)
+[Bog](Bog.md)

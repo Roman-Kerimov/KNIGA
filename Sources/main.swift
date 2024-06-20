@@ -5,7 +5,8 @@ import Foundation
 import LinguisticKit
 
 let scriptTable: ScriptTable = .ru
-let sourceDirectory: URL = .currentDirectory().appending(component: "KNIGA")
+let sourcePath = "KNIGA"
+let sourceDirectory: URL = .currentDirectory().appending(component: sourcePath)
 
 func targetDirectory(script: Script) -> URL {
     URL.currentDirectory()
@@ -125,6 +126,7 @@ do {
             
             try """
             ### \(scriptPicker)
+            [iskhodnik](\(source))
             
             \(targetText)
             """

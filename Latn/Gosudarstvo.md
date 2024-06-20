@@ -13,4 +13,5 @@ Zarozhdayutsya posle zaseleniya lyudjmi neosvoyennyikh zemelj ili na meste gibel
 
 Sposobno obrazovyivatj lichnostj putyom associacii s soboj takikh atributov kak 
 
+___
 [Nablyudatelj](Nablyudatelj.md)

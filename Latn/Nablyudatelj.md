@@ -18,8 +18,6 @@ Setj nablyudatelej obrazuyet nablyudatelya boleye vyisokogo urovnya
 
 Nablyudtelj naivyisshego urovnya — [Bog](Bog.md)
 
-Myi 👩🏽‍🤝‍👨🏻🤔🤔🤔
-
 ___
 [Vselennaya](Vselennaya.md)
 [Bog](Bog.md)

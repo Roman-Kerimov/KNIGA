@@ -39,7 +39,7 @@ U atomov svoj yazyik, a u molekul svoj
 Molekulyi putyom vzaimodejstviya na svoyom yazyike mogut obrazovyivatj kletki
 
 Eukarioticheskiye kletki mogut obrazovyivatj ustojchivyiye mnogokletochnyiye organizmyi
- 
+
 
 ___
 [Nablyudatelj](Nablyudatelj.md)

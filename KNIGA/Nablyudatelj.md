@@ -9,7 +9,9 @@ Yesli myi nablyudayem odno i to zhe, to myi eto vyiyasnili cherez vzaimodejstviy
 Myi — nablyudateli, i rezuljtatom nashego nablyudeniya yavlyayetsya nasha vselennaya
 
 
-Vzaimodejstviye nablyudatelej porozhdayet sistemyi nablyudatelej 
+Vzaimodejstviye nablyudatelej porozhdayet sistemyi nablyudatelej
+
+Setj nablyudatelej obrazuyet nablyudatelya boleye vyisokogo urovnya
 
 ___
 [Vselennaya](Vselennaya.md)

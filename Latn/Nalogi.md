@@ -1,5 +1,5 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Налоги.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᚾᚨᛚᛟᚷᛁ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⱀⰰⰾⱁⰳⰹ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍝𐍐𐍛𐍞𐍒𐍙.md)
-[iskhodnik](../KNIGA/Nalogi.md)
+[[iskhodnik](../KNIGA/Nalogi.md)]
 
 #  Nalogi
 

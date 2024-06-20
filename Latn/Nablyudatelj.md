@@ -18,8 +18,6 @@ Setj nablyudatelej obrazuyet nablyudatelya boleye vyisokogo urovnya
 
 Nablyudtelj naivyisshego urovnya — [Bog](Bog.md)
 
-Bog — eto Myi v samom shirokom smyisle etogo slova — sistema vsekh nablyudatelej samogo raznogo roda
-
 ___
 [Vselennaya](Vselennaya.md)
 [Bog](Bog.md)

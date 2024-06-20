@@ -6,7 +6,7 @@ import LinguisticKit
 
 let scriptTable: ScriptTable = .ru
 let sourcePath = "KNIGA"
-let sourceDirectory: URL = .currentDirectory().appending(component: sourcePath)
+let sourceDirectory: URL = .currentDirectory().appending(path: sourcePath)
 
 func targetDirectory(script: Script) -> URL {
     URL.currentDirectory()

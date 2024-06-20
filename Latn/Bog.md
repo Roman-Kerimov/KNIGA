@@ -2,5 +2,4 @@
 
 #  Bog
 
-Bog — [nablyudatelj](Nablyudatelj.md) naivyisshego urovnya, polnostjyu nablyudayusjhij rassmatrivayemuyu vselennuyu
-
+Bog — [nablyudatelj](Nablyudatelj.md) naivyisshego urovnya, kotoryij integriruyet vsyu informaciyu i nablyudeniya, 

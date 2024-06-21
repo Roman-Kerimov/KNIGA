@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyrl/Наблюдатель.md",
+                "file": "Cyrl/Вселенная.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyrl/Налоги.md",
+                "file": "Cyrl/Вселенная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyrl/Налоги.md",
+                "file": "Cyrl/Вселенная.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyrl/Налоги.md"
+                "file": "Cyrl/Вселенная.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "14f093ac4f540c34",
   "lastOpenFiles": [
+    "Cyrl/Наблюдатель.md",
+    "Cyrl/Налоги.md",
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
     "Latn/Nablyudatelj.md",
-    "Cyrl/Наблюдатель.md",
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
@@ -173,7 +174,6 @@
     "Perm/𐍴𐍗𐍨𐍚.md",
     "Latn/Yazyik.md",
     "Cyrl/Язык.md",
-    "Runr/ᚾᚨᛚᛟᚷᛁ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

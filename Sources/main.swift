@@ -126,7 +126,7 @@ do {
             
             try """
             ### \(scriptPicker)
-            [iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent))
+            [[iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent))]
             
             \(targetText)
             """

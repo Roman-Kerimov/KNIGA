@@ -18,7 +18,7 @@ Setj nablyudatelej obrazuyet nablyudatelya boleye vyisokogo urovnya
 
 Nablyudtelj naivyisshego urovnya — [Bog](Bog.md) 
 
-U nablyudatelya yestj dva n
+U nablyudatelya yestj dva varianta —m
 
 ___
 [Vselennaya](Vselennaya.md)

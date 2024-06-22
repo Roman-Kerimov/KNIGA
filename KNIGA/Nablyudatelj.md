@@ -15,7 +15,7 @@ Setj nablyudatelej obrazuyet nablyudatelya boleye vyisokogo urovnya
 
 Nablyudtelj naivyisshego urovnya — [Bog](Bog.md) 
 
-U nablyudatelya yestj dva napravleniya dvizheniya — uchastvovatj v formirovanii
+U nablyudatelya yestj dva napravleniya dvizheniya — uchastvovatj v formirovanii nablyudatelej boleye vyisokogo urovnya, rasshiryaya vzaimodejstviye s drugimi nablyudatelyami, libo
 
 ___
 [Vselennaya](Vselennaya.md)

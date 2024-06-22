@@ -13,4 +13,4 @@ A yesli da, to tak li u vas dostatochno osnovanij v nego veritj?
 
 Kak vyi yego sebe predstavlyayete?
 
-
+Dumayete, eto prosto yevrejskiye skazki?

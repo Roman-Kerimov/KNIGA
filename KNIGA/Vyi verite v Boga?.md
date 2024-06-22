@@ -11,3 +11,5 @@ A yesli da, to tak li u vas dostatochno osnovanij v nego veritj?
 Kak vyi yego sebe predstavlyayete?
 
 Dumayete, eto prosto yevrejskiye skazki?
+
+A kak zhe tak vyishlo, chto Bibliya yavlyayetsya samoj prodavayemoj knigoj vsekh vremyon i narodov, lezhasjhej

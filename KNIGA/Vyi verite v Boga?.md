@@ -12,4 +12,6 @@ Kak vyi yego sebe predstavlyayete?
 
 Dumayete, eto prosto yevrejskiye skazki?
 
-A kak zhe tak vyishlo, chto Bibliya yavlyayetsya samoj prodavayemoj knigoj vsekh vremyon i narodov, i yavlyayetsya odnim iz klyuchevyikh elementov 
+A kak zhe tak vyishlo, chto Bibliya yavlyayetsya samoj prodavayemoj knigoj vsekh vremyon i narodov, i yavlyayetsya odnim iz klyuchevyikh elementov, povliyavshikh na formirovaniye yevropejskoj civilizacii?
+
+

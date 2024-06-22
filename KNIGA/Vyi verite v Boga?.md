@@ -8,4 +8,4 @@ Chto zhe togda sluchilosj?
 
 A yesli da, to tak li u vas dostatochno osnovanij v nego veritj?
 
-
+Kak vyi yego sebe predstavlyayete?

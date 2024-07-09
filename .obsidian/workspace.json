@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3c7a391282a9ab2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "14f093ac4f540c34",
+  "active": "d3c7a391282a9ab2",
   "lastOpenFiles": [
     "Latn/Vyi verite v Boga?.md",
     "Glag/Ⰲⱏⰹ ⰲⰵⱃⰹⱅⰵ ⰲ Ⰱⱁⰳⰰ?.md",

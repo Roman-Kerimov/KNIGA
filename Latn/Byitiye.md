@@ -1,5 +1,5 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/%D0%91%D1%8B%D1%82%D0%B8%D0%B5%2Emd) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/%E1%9B%92%E1%9A%A4%E1%9B%81%E1%9B%8F%E1%9B%81%E1%9A%A4%E1%9B%96%2Emd) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/%E2%B0%81%E2%B1%8F%E2%B0%B9%E2%B1%85%E2%B0%B9%E2%B0%B5%2Emd) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/%F0%90%8D%91%F0%90%8D%A8%F0%90%8D%A2%F0%90%8D%99%F0%90%8D%94%2Emd)
-[iskhodnik](../KNIGA/Byitiye.md)
+[iskhodnik](../KNIGA/Byitiye%2Emd)
 
 # Byitiye
 

@@ -10,4 +10,6 @@ Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu
 
 * Nasledstvennostj
 * Izmenchivostj
+* Otbor
+
 

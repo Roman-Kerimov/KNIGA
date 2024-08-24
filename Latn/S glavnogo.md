@@ -15,4 +15,4 @@ Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu
 * Izmenchivostj
 * Otbor
 
-Sudya 
+Sudya po terminam mozhno po

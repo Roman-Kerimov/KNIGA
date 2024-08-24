@@ -12,4 +12,4 @@ Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu
 * Izmenchivostj
 * Otbor
 
-Sudya po termina
+Sudya po terminam mozhno podumatj, chto zdesj re

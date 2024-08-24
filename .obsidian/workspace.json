@@ -53,12 +53,8 @@
             "id": "bf7b68f0656e20a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iskhodniki/Proshloye.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -128,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Proshloye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Proshloye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iskhodniki/Proshloye.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,13 +183,13 @@
   },
   "active": "bf7b68f0656e20a1",
   "lastOpenFiles": [
+    "Iskhodniki/Proshloye.md",
     "Cyrl/Прошлое.md",
     "Latn/Proshloye.md",
     "Perm/𐍟𐍠𐍞𐍥𐍛𐍞𐍔.md",
     "Glag/Ⱂⱃⱁⱎⰾⱁⰵ.md",
     "Runr/ᛈᚱᛟᛊᚺᛚᛟᚤᛖ.md",
     "Iskhodniki/S glavnogo.md",
-    "Iskhodniki/Proshloye.md",
     "Iskhodniki/Mezhplanetarnaya civilizaciya.md",
     "Perm/𐍜𐍔𐍕𐍟𐍛𐍐𐍝𐍔𐍢𐍐𐍠𐍝𐍐𐍴 𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
     "Latn/Mezhplanetarnaya civilizaciya.md",

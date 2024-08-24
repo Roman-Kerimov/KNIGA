@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Civilizaciya.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Civilizaciya.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Civilizaciya.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Civilizaciya.md"
+                "file": "Iskhodniki/S glavnogo.md"
               }
             }
           }
@@ -179,8 +179,13 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
-    "Iskhodniki/S glavnogo.md",
+    "Runr/ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
+    "Cyrl/Цивилизация.md",
+    "Glag/Ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱑ.md",
+    "Latn/Civilizaciya.md",
+    "Perm/𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
     "Iskhodniki/Civilizaciya.md",
+    "Iskhodniki/S glavnogo.md",
     "Latn/Obucheniye.md",
     "Glag/Ⱁⰱⱆⱍⰵⱀⰹⰵ.md",
     "Iskhodniki/Vyi verite v Boga?.md",
@@ -200,11 +205,6 @@
     "Cyrl/Наблюдатель.md",
     "Latn/Nablyudatelj.md",
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
-    "Glag/Ⰿⰹⱀⰹⰽⱁⰾⱁⱀⰽⰰ ⰽⱁⱃⱅⰵⰽⱄⰰ.md",
-    "Runr/ᛗᛁᚾᛁᚲᛟᛚᛟᚾᚲᚨ ᚲᛟᚱᛏᛖᚲᛊᚨ.md",
-    "Cyrl/Миниколонка кортекса.md",
-    "Latn/Minikolonka korteksa.md",
-    "Perm/𐍜𐍙𐍝𐍙𐍚𐍞𐍛𐍞𐍝𐍚𐍐 𐍚𐍞𐍠𐍢𐍔𐍚𐍡𐍐.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

@@ -55,13 +55,15 @@ do {
         }
     }
     
-    try FileManager.default.contentsOfDirectory(
-        at: sourceDirectory,
-        includingPropertiesForKeys: [.contentModificationDateKey]
-    )
-    .filter {
-        $0.pathExtension == "md"
-    }
+    {
+        try FileManager.default.contentsOfDirectory(
+            at: sourceDirectory,
+            includingPropertiesForKeys: [.contentModificationDateKey]
+        )
+        .filter {
+            $0.pathExtension == "md"
+        }
+    }()
     .forEach { sourceURL in
         let sourceModificationDate = try modificationDate(from: sourceURL)
         

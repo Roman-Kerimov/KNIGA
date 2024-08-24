@@ -6,7 +6,8 @@ import LinguisticKit
 
 let scriptTable: ScriptTable = .ru
 let sourcePath = "Iskhodniki"
-let sourceDirectory: URL = .currentDirectory().appending(path: sourcePath)
+let sourceDirectory: URL = .currentDirectory()
+    .appending(path: sourcePath)
 
 func targetDirectory(script: Script) -> URL {
     URL.currentDirectory()

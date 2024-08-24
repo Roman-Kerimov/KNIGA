@@ -20,4 +20,4 @@ On predskazyivayet budusjheye.
 
 Kak on eto delayet?
 
-On sozdayot simulyacii 
+On sozdayot simulyacii budusjhego

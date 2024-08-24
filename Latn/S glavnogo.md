@@ -37,4 +37,4 @@ U nas yestj kora boljshikh polusharij, v kotoroj mozhno najti [[Neokorteks|neoko
 
 ...
 
-A teperj vzglyanem, kak ustroyena [[Civilizacionnoya kora|civilizacionnaya kora]]. Ona sostoit iz [[Chelovek|chelovekov]] podobno tomu, kak [[neokorteks]] sostoit iz [[Kortialjnaya kolonka|kortikaljnyikh kolonok]].
+A teperj vzglyanem, kak ustroyena [[Civilizacionnoya kora|civilizacionnaya kora]]. Ona sostoit iz [[Chelovek|chelovekov]] podobno tomu, kak [[neokorteks]] sostoit iz [[Kortikaljnaya kolonka|kortikaljnyikh kolonok]].

@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Civilizacionnoya kora.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Civilizacionnoya kora.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Civilizacionnoya kora.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Civilizacionnoya kora.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -171,8 +171,13 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
-    "KNIGA/S glavnogo.md",
+    "Perm/𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍞𐍝𐍝𐍞𐍴 𐍚𐍞𐍠𐍐.md",
+    "Latn/Civilizacionnoya kora.md",
+    "Glag/Ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱁⱀⱀⱁⱑ ⰽⱁⱃⰰ.md",
+    "Cyrl/Цивилизационноя кора.md",
+    "Runr/ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᛟᚾᚾᛟᚤᚨ ᚲᛟᚱᚨ.md",
     "KNIGA/Civilizacionnoya kora.md",
+    "KNIGA/S glavnogo.md",
     "Glag/Ⱁⱅⰱⱁⱃ.md",
     "Cyrl/Отбор.md",
     "Perm/𐍞𐍢𐍑𐍞𐍠.md",
@@ -192,11 +197,6 @@
     "Latn/Nasledstvennostj.md",
     "KNIGA/Nasledstvennostj.md",
     "Cyrl/С главного.md",
-    "Latn/S glavnogo.md",
-    "Glag/Ⱄ ⰳⰾⰰⰲⱀⱁⰳⱁ.md",
-    "Runr/ᛊ ᚷᛚᚨᚡᚾᛟᚷᛟ.md",
-    "Perm/𐍡 𐍒𐍛𐍐𐍮𐍝𐍞𐍒𐍞.md",
-    "Perm/𐍱𐍜𐍟𐍢𐍯.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

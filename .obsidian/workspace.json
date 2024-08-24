@@ -45,12 +45,8 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KNIGA/Budusjheye.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Budusjheye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Budusjheye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KNIGA/Budusjheye.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,6 +176,11 @@
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
     "KNIGA/S glavnogo.md",
+    "Cyrl/Будущее.md",
+    "Latn/Budusjheye.md",
+    "Runr/ᛒᚢᛞᚢᛊᛃᚺᛖᚤᛖ.md",
+    "Glag/Ⰱⱆⰴⱆⱋⰵⰵ.md",
+    "Perm/𐍑𐍣𐍓𐍣𐍦𐍔𐍔.md",
     "KNIGA/Budusjheye.md",
     "KNIGA/Simulyaciya.md",
     "Latn/Simulyaciya.md",
@@ -204,11 +201,6 @@
     "KNIGA/Neokorteks.md",
     "KNIGA/Nasledstvennostj.md",
     "KNIGA/Obucheniye.md",
-    "KNIGA/Nablyudatelj.md",
-    "KNIGA/Otbor.md",
-    "KNIGA/Vselennaya.md",
-    "KNIGA/Rechj.md",
-    "KNIGA/Razum.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

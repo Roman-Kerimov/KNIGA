@@ -87,9 +87,14 @@ do {
             
             let sourceText = (try String(contentsOf: sourceURL))
                 .replacing(#/\[\[[\w|\s]+\]\]/#) { match in
+                    let wikilinkComponents = match.output
+                        .trimmingCharacters(in: CharacterSet(charactersIn: "[]"))
+                        .components(separatedBy: "|")
                     
+                    let file = wikilinkComponents.first
+                    let label = wikilinkComponents.last
                     
-                    match.output
+                    "[\(label)]"
                 }
             
             let mdLinkPattern = ".md)"

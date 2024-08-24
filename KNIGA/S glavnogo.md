@@ -22,3 +22,4 @@ On predskazyivayet budusjheye.
 
 On sozdayot simulyacii budusjhego i vyibirayet iz nikh boleye udachnuyu, kotoruyu i otdayot na ispolneniye v tak nazyivayemom «realjnom» mire.
 
+Vse myi

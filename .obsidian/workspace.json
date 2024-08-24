@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Neokorteks.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Neokorteks.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Neokorteks.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Neokorteks.md"
+                "file": "KNIGA/Materialjnaya kuljtura.md"
               }
             }
           }
@@ -183,11 +183,11 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Neokorteks.md",
     "KNIGA/Nasledstvennostj.md",
     "KNIGA/Obucheniye.md",
     "KNIGA/Materialjnaya kuljtura.md",
     "KNIGA/Nablyudatelj.md",
-    "KNIGA/Neokorteks.md",
     "KNIGA/Otbor.md",
     "KNIGA/Vselennaya.md",
     "KNIGA/S glavnogo.md",

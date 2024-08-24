@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Razum.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Razum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Razum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Razum.md"
               }
             }
           }
@@ -183,13 +183,14 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Razum.md",
     "Latn/Chelovecheskij mozg.md",
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛁᛃ ᛗᛟᛉᚷ.md",
     "Glag/Ⱍⰵⰾⱁⰲⰵⱍⰵⱄⰽⰹⰻ ⰿⱁⰸⰳ.md",
     "Cyrl/Человеческий мозг.md",
     "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍙𐍧 𐍜𐍞𐍗𐍒.md",
     "KNIGA/Chelovecheskij mozg.md",
-    "KNIGA/S glavnogo.md",
     "KNIGA/Algoritm razuma.md",
     "Cyrl/Алгоритм разума.md",
     "Glag/Ⰰⰾⰳⱁⱃⰹⱅⰿ ⱃⰰⰸⱆⰿⰰ.md",
@@ -208,7 +209,6 @@
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚲ.md",
     "Glag/Ⱍⰵⰾⱁⰲⰵⰽ.md",
     "Latn/Chelovek.md",
-    "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍚.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

@@ -20,4 +20,4 @@ On predskazyivayet budusjheye.
 
 Kak on eto delayet?
 
-On sozdayot simulyacii budusjhego i vyibirayet iz nikh boleye udachnuyu
+On sozdayot simulyacii budusjhego i vyibirayet iz nikh boleye udachnuyu, kotoru

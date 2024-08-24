@@ -6,7 +6,7 @@ Eto budet nebyistryij razgovor. Ya vot dumayu, s chego luchshe nachatj: s nachal
 
 ### — Nachnite s glavnogo
 
-Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu odin i tot zhe algoritm — [[Aalgoritm razuma]]. On dovoljno prost — eto nepreryivno povtoryayusjhijsya cikl:
+Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu odin i tot zhe algoritm — [[Algoritm razuma|algoritm razuma]]. On dovoljno prost — eto nepreryivno povtoryayusjhijsya cikl:
 
 * [[Nasledstvennostj]]
 * [[Izmenchivostj]]

@@ -41,4 +41,4 @@ A teperj vzglyanem, kak ustroyena [[Civilizacionnoya kora|civilizacionnaya kora]
 
 ...
 
-Mnozhestvo lyudej, obyyedinyonnyikh [[Yazyik|yazyikom]], [[Materialjnaya kuljtura|materialjnoj kuljturoj]], i lokalizovannyiye na opredelyonnoj territorii imeyut tendenciyu obrazovyivatj ustojchivyiye [[Organizm|organizmyi]] — [[Gosudarstvo|gosudarstva]]. On
+Mnozhestvo lyudej, obyyedinyonnyikh [[Yazyik|yazyikom]], [[Materialjnaya kuljtura|materialjnoj kuljturoj]], i lokalizovannyiye na opredelyonnoj territorii imeyut tendenciyu obrazovyivatj ustojchivyiye [[Organizm|organizmyi]] — [[Gosudarstvo|gosudarstva]]. Oni v svoy

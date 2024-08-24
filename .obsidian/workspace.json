@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md",
+                "file": "KNIGA/Vyi verite v Boga?.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md",
+                "file": "KNIGA/Vyi verite v Boga?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md",
+                "file": "KNIGA/Vyi verite v Boga?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md"
+                "file": "KNIGA/Vyi verite v Boga?.md"
               }
             }
           }
@@ -183,10 +183,10 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Materialjnaya kuljtura.md",
     "KNIGA/Neokorteks.md",
     "KNIGA/Nasledstvennostj.md",
     "KNIGA/Obucheniye.md",
-    "KNIGA/Materialjnaya kuljtura.md",
     "KNIGA/Nablyudatelj.md",
     "KNIGA/Otbor.md",
     "KNIGA/Vselennaya.md",

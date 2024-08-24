@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latn/Obucheniye.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latn/Obucheniye.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latn/Obucheniye.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latn/Obucheniye.md"
+                "file": "Iskhodniki/S glavnogo.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Latn/Obucheniye.md",
     "Glag/Ⱁⰱⱆⱍⰵⱀⰹⰵ.md",
     "Iskhodniki/Vyi verite v Boga?.md",
     "Iskhodniki/Bog.md",
@@ -204,7 +205,6 @@
     "Perm/𐍜𐍙𐍝𐍙𐍚𐍞𐍛𐍞𐍝𐍚𐍐 𐍚𐍞𐍠𐍢𐍔𐍚𐍡𐍐.md",
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
-    "Cyrl/Государство.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

@@ -119,7 +119,7 @@ do {
                     return if script == selectedScript {
                         scriptLabel
                     } else {
-                        "[\(scriptLabel)](../\(script)/\(targetURL(from: script).lastPathComponent))"
+                        "[\(scriptLabel)](../\(script)/\(targetURL(from: script).lastPathComponent.addingPercentEncoding(withAllowedCharacters: .alphanumerics) ?? ""))"
                     }
                 }
                 .joined(separator: " | ")

@@ -93,7 +93,7 @@ do {
                     
                     let file = wikilinkComponents.first!
                         .addingPercentEncoding(withAllowedCharacters: .alphanumerics)!
-                        .capitalized(with: .r Locale(components: Locale.Components(languageCode: .russian)))
+                        .capitalized(with: Locale(languageCode: .russian))
                     
                     let label = wikilinkComponents.last!
                     

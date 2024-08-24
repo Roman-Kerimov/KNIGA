@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Kora boljshikh polusharij.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Kora boljshikh polusharij.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Kora boljshikh polusharij.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Kora boljshikh polusharij.md"
               }
             }
           }
@@ -183,13 +183,19 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Runr/ᚲᛟᚱᚨ ᛒᛟᛚᛃᛊᚺᛁᚲᚺ ᛈᛟᛚᚢᛊᚺᚨᚱᛁᛃ.md",
+    "Latn/Kora boljshikh polusharij.md",
+    "Perm/𐍚𐍞𐍠𐍐 𐍑𐍞𐍛𐍰𐍥𐍙𐍬 𐍟𐍞𐍛𐍣𐍥𐍐𐍠𐍙𐍧.md",
+    "Glag/Ⰽⱁⱃⰰ ⰱⱁⰾⱐⱎⰹⱈ ⱂⱁⰾⱆⱎⰰⱃⰹⰻ.md",
+    "Cyrl/Кора больших полушарий.md",
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Kora boljshikh polusharij.md",
     "Runr/ᚱᚨᛉᚢᛗ.md",
     "Cyrl/Разум.md",
     "Latn/Razum.md",
     "Perm/𐍠𐍐𐍗𐍣𐍜.md",
     "Glag/Ⱃⰰⰸⱆⰿ.md",
     "KNIGA/Razum.md",
-    "KNIGA/S glavnogo.md",
     "Latn/Chelovecheskij mozg.md",
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛁᛃ ᛗᛟᛉᚷ.md",
     "Glag/Ⱍⰵⰾⱁⰲⰵⱍⰵⱄⰽⰹⰻ ⰿⱁⰸⰳ.md",
@@ -203,12 +209,6 @@
     "Runr/ᚨᛚᚷᛟᚱᛁᛏᛗ ᚱᚨᛉᚢᛗᚨ.md",
     "Latn/Algoritm razuma.md",
     "KNIGA/Darvinovskaya evolyuciya.md",
-    "Latn/Darvinovskaya evolyuciya.md",
-    "Perm/𐍓𐍐𐍠𐍮𐍙𐍝𐍞𐍮𐍡𐍚𐍐𐍴 𐍱𐍮𐍞𐍛𐍳𐍭𐍙𐍴.md",
-    "Cyrl/Дарвиновская эволюция.md",
-    "Glag/Ⰴⰰⱃⰲⰹⱀⱁⰲⱄⰽⰰⱑ ⱔⰲⱁⰾⱓⱌⰹⱑ.md",
-    "Runr/ᛞᚨᚱᚡᛁᚾᛟᚡᛊᚲᚨᚤᚨ ᛖᚡᛟᛚᚤᚢᚳᛁᚤᚨ.md",
-    "KNIGA/Vyi verite v Boga?.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

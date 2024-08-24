@@ -33,4 +33,4 @@ Nash mozg obladayet pamyatjyu, na osnove dannyikh iz kotoroj i stroyatsya simuly
 
 A teperj davajte posmontrim, kak eto ustroyeno na fizicheskom urovne — chto uvidit patologoanatom ili nejrobiolog posle vskryitiya cherepnoj korobki.
 
-U nas yestj kora boljshikh polusharij, v kotoroj mozhno videtj neokorteks
+U nas yestj kora boljshikh polusharij, v kotoroj mozhno videtj neokorteks.

@@ -42,4 +42,4 @@ Mnozhestvo lyudej, obyyedinyonnyikh [[Yazyik|yazyikom]], [[Materialjnaya kuljtur
 
 *Sujhestvuyut li mezhplanetarnyiye civilizacii?*
 
-Net, my
+Net, myi etogo ne nablyudayem

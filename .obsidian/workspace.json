@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -183,6 +183,12 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Rechj.md",
+    "KNIGA/Razum.md",
+    "KNIGA/Otbor.md",
+    "KNIGA/Obucheniye.md",
+    "KNIGA/Neokorteks.md",
+    "KNIGA/Nasledstvennostj.md",
     "KNIGA/Nalogi.md",
     "KNIGA/Nablyudatelj.md",
     "KNIGA/Fizicheskij urovenj.md",
@@ -203,12 +209,6 @@
     "Perm/𐍠𐍔𐍤𐍰.md",
     "Glag/Ⱃⰵⱍⱐ.md",
     "Runr/ᚱᛖᚳᚺᛃ.md",
-    "KNIGA/Rechj.md",
-    "KNIGA/Kora boljshikh polusharij.md",
-    "Runr/ᚲᛟᚱᚨ ᛒᛟᛚᛃᛊᚺᛁᚲᚺ ᛈᛟᛚᚢᛊᚺᚨᚱᛁᛃ.md",
-    "Latn/Kora boljshikh polusharij.md",
-    "Perm/𐍚𐍞𐍠𐍐 𐍑𐍞𐍛𐍰𐍥𐍙𐍬 𐍟𐍞𐍛𐍣𐍥𐍐𐍠𐍙𐍧.md",
-    "Glag/Ⰽⱁⱃⰰ ⰱⱁⰾⱐⱎⰹⱈ ⱂⱁⰾⱆⱎⰰⱃⰹⰻ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

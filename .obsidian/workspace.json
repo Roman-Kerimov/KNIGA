@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Planeta.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Planeta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Planeta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Planeta.md"
               }
             }
           }
@@ -183,13 +183,14 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Planeta.md",
     "KNIGA/Organizm.md",
     "Cyrl/Организм.md",
     "Latn/Organizm.md",
     "Glag/Ⱁⱃⰳⰰⱀⰹⰸⰿ.md",
     "Runr/ᛟᚱᚷᚨᚾᛁᛉᛗ.md",
     "Perm/𐍞𐍠𐍒𐍐𐍝𐍙𐍗𐍜.md",
-    "KNIGA/S glavnogo.md",
     "Perm/𐍝𐍔𐍧𐍠𐍞𐍝.md",
     "Cyrl/Нейрон.md",
     "Latn/Nejron.md",
@@ -208,7 +209,6 @@
     "Perm/𐍒𐍙𐍟𐍔𐍠𐍚𐍞𐍛𐍞𐍝𐍚𐍐 𐍚𐍞𐍠𐍢𐍔𐍚𐍡𐍐.md",
     "Latn/Giperkolonka korteksa.md",
     "Runr/ᚷᛁᛈᛖᚱᚲᛟᛚᛟᚾᚲᚨ ᚲᛟᚱᛏᛖᚲᛊᚨ.md",
-    "Cyrl/Будущее.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

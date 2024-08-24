@@ -9,5 +9,5 @@ Eto budet nebyistryij razgovor. Ya vot dumayu, s chego luchshe nachatj: s nachal
 
 ### Nachnite s glavnogo
 
-Vsyudu v nablyudayemoj Vselennoj ya nablyudayu
+Vsyudu v nablyudayemoj Vselennoj ya nablyudayu odin i tot zhe pa
 

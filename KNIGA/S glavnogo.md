@@ -16,7 +16,7 @@ Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o [[Darvinovskaya evol
 
 *Chto delayet mozg?*
 
-On predskazyivayet budusjheye.
+On predskazyivayet [[budusjheye]].
 
 *Kak on eto delayet?*
 

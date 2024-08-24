@@ -1,3 +1,3 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Материальная культура.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md)
-[[iskhodnik](../KNIGA/Materialjnaya kuljtura.md)]
+[[iskhodnik]](../KNIGA/Materialjnaya kuljtura.md)]
 

@@ -1,3 +1,3 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Будущее.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᛒᚢᛞᚢᛊᛃᚺᛖᚤᛖ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⰱⱆⰴⱆⱋⰵⰵ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍑𐍣𐍓𐍣𐍦𐍔𐍔.md)
-[[iskhodnik](../KNIGA/Budusjheye.md)]
+[[iskhodnik]](../KNIGA/Budusjheye.md)]
 

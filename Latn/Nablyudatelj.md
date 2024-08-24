@@ -1,5 +1,5 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Наблюдатель.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md)
-[[iskhodnik](../KNIGA/Nablyudatelj.md)]
+[[iskhodnik]](../KNIGA/Nablyudatelj.md)]
 
 #  Nablyudatelj
 

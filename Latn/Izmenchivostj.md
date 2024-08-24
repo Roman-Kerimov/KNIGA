@@ -1,3 +1,3 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Изменчивость.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᛁᛉᛗᛖᚾᚳᚺᛁᚡᛟᛊᛏᛃ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⰹⰸⰿⰵⱀⱍⰹⰲⱁⱄⱅⱐ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍙𐍗𐍜𐍔𐍝𐍤𐍙𐍮𐍞𐍡𐍢𐍰.md)
-[[iskhodnik]](../KNIGA/Izmenchivostj.md)]
+[iskhodnik](../KNIGA/Izmenchivostj.md)]
 

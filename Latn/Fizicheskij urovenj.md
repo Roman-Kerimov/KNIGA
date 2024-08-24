@@ -1,3 +1,3 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Физический уровень.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᚠᛁᛉᛁᚳᚺᛖᛊᚲᛁᛃ ᚢᚱᛟᚡᛖᚾᛃ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⱇⰹⰸⰹⱍⰵⱄⰽⰹⰻ ⱆⱃⱁⰲⰵⱀⱐ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍫𐍙𐍗𐍙𐍤𐍔𐍡𐍚𐍙𐍧 𐍣𐍠𐍞𐍮𐍔𐍝𐍰.md)
-[[iskhodnik]](../KNIGA/Fizicheskij urovenj.md)]
+[iskhodnik](../KNIGA/Fizicheskij urovenj.md)]
 

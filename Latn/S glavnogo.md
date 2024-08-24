@@ -45,4 +45,4 @@ Mnozhestvo lyudej, obyyedinyonnyikh [yazyikom](Yazyik.md), [materialjnoj kuljtur
 
 *Sujhestvuyut li mezhplanetarnyiye civilizacii?*
 
-Net, myi etogo ne nablyudayem. No nashi predki kogda-to ne nablyudali i 
+Net, myi etogo ne nablyudayem. No nashi predki kogda-to ne nablyudali i planetarnuyu civiliz

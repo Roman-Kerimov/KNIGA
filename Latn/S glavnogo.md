@@ -33,7 +33,7 @@ Nash mozg obladayet pamyatjyu, na osnove dannyikh iz kotoroj i stroyatsya simuly
 
 A teperj davajte posmontrim, kak eto ustroyeno na fizicheskom urovne — chto uvidit patologoanatom ili nejrobiolog posle vskryitiya cherepnoj korobki.
 
-U nas yestj kora boljshikh polusharij, v kotoroj mozhno najti [[Neokorteks|neokorteks]]. On imeyet moduljnuyu strukturu i sostoit iz kortikaljnyikh kolonok i imeyet 6 gorizontaljnyikh sloyov. Odna giperkolonka sostoit iz 50—100 minikolonok. Minikolonka sostoit iz 80—120 nejronov.
+U nas yestj kora boljshikh polusharij, v kotoroj mozhno najti [[Neokorteks|neokorteks]]. On imeyet moduljnuyu strukturu i sostoit iz [[Kkortikaljnyikh kolonok]] i imeyet 6 gorizontaljnyikh sloyov. Odna giperkolonka sostoit iz 50—100 minikolonok. Minikolonka sostoit iz 80—120 nejronov.
 
 ...
 

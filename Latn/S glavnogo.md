@@ -43,6 +43,6 @@ A teperj vzglyanem, kak ustroyena [civilizacionnaya kora](Civilizacionnoya%20kor
 
 Mnozhestvo lyudej, obyyedinyonnyikh [yazyikom](Yazyik.md), [materialjnoj kuljturoj](Materialjnaya%20kuljtura.md), i lokalizovannyiye na opredelyonnoj territorii imeyut tendenciyu obrazovyivatj ustojchivyiye [organizmyi](Organizm.md) — [gosudarstva](Gosudarstvo.md). Oni v svoyu ocheredj takzhe obrazuyut setj, postepenno razrastayusjhuyusya do razmerov [planetyi](Planeta.md).
 
-*[Sujhestvuyut](Byitiye.md) li mezhplanetarnyiye [civilizacii](Civilizaciya.md)?*
+*[Sujhestvuyut](Byitiye.md) li mezhplanetarnyiye civilizacii]]?*
 
 Net, myi etogo ne nablyudayem. No nashi [predki](Predok.md) kogda-to ne nablyudali i [planetarnuyu civilizaciyu](Planetarnaya%20civilizaciya.md).

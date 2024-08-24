@@ -14,7 +14,7 @@ Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu
 
 Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o [[Darvinovskaya evolyuciya|Darvinovskoj evolyucii]], no eto ne toljko o nej. Davajte snachala vernyomsya k [[Chelovecheskij mozg|chelovechoskomu mozgu]] — obsjheprinyatomu vmestilisjhu [[Razum|razuma]].
 
-*Chto delayet [Chelovecheskij mozg](Chelovecheskij%20mozg.md)?*
+*Chto delayet [mozg](Chelovecheskij%20mozg.md)?*
 
 On predskazyivayet [[budusjheye]].
 

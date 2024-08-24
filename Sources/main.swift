@@ -101,7 +101,7 @@ do {
                         .components(separatedBy: "|")
                     
                     let file = wikilinkComponents.first!
-                        .addingPercentEncoding(withAllowedCharacters: .alphanumerics)!
+                        .addingPercentEncoding()
                         .capitalized(with: Locale(languageCode: .russian))
                     
                     let label = wikilinkComponents.last!
@@ -141,14 +141,14 @@ do {
                     return if script == selectedScript {
                         scriptLabel
                     } else {
-                        "[\(scriptLabel)](../\(script)/\(targetURL(from: script).lastPathComponent.addingPercentEncoding(withAllowedCharacters: .alphanumerics) ?? ""))"
+                        "[\(scriptLabel)](../\(script)/\(targetURL(from: script).lastPathComponent.addingPercentEncoding()))"
                     }
                 }
                 .joined(separator: " | ")
             
             try """
             ### \(scriptPicker)
-            [iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent. ?? ""))
+            [iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent.addingPercentEncoding()))
             
             \(targetText)
             """

@@ -6,5 +6,5 @@ Eto budet nebyistryij razgovor. Ya vot dumayu, s chego luchshe nachatj: s nachal
 
 ### Nachnite s glavnogo
 
-Vsyudu v nablyudayemoj Vselennoj ya nablyudayu odin i tot zhe algoritm — algo
+Vsyudu v nablyudayemoj Vselennoj, a ne t ya nablyudayu odin i tot zhe algoritm — algo
 

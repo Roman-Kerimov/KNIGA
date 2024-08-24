@@ -45,4 +45,4 @@ Mnozhestvo lyudej, obyyedinyonnyikh [yazyikom](Yazyik.md), [materialjnoj kuljtur
 
 *[Sujhestvuyut](Byitiye.md) li mezhplanetarnyiye [civilizacii](Civilizaciya.md)?*
 
-Net, myi etogo ne nablyudayem. No nashi [predki](Predki.md) kogda-to ne nablyudali i [planetarnuyu civilizaciyu](Planetarnaya%20civilizaciya.md).
+Net, myi etogo ne nablyudayem. No nashi [predki](Predok.md) kogda-to ne nablyudali i [planetarnuyu civilizaciyu](Planetarnaya%20civilizaciya.md).

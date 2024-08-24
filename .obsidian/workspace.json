@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Predok.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Predok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Predok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md"
+                "file": "Iskhodniki/Predok.md"
               }
             }
           }
@@ -179,7 +179,13 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Glag/Ⱂⱃⰵⰴⱁⰽ.md",
+    "Perm/𐍟𐍠𐍔𐍓𐍞𐍚.md",
+    "Latn/Predok.md",
+    "Runr/ᛈᚱᛖᛞᛟᚲ.md",
+    "Cyrl/Предок.md",
     "Iskhodniki/S glavnogo.md",
+    "Iskhodniki/Predok.md",
     "Iskhodniki/Planetarnaya civilizaciya.md",
     "Perm/𐍟𐍛𐍐𐍝𐍔𐍢𐍐𐍠𐍝𐍐𐍴 𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
     "Runr/ᛈᛚᚨᚾᛖᛏᚨᚱᚾᚨᚤᚨ ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
@@ -199,12 +205,6 @@
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Cyrl/Материальная культура.md",
-    "Latn/Materialjnaya kuljtura.md",
-    "Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md",
-    "Glag/Ⱍⰵⰾⱁⰲⰵⱍⰵⱄⰽⰹⰻ ⰿⱁⰸⰳ.md",
-    "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛁᛃ ᛗᛟᛉᚷ.md",
-    "Cyrl/Человеческий мозг.md",
-    "Latn/Chelovecheskij mozg.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

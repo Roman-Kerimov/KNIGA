@@ -31,3 +31,4 @@ Nash mozg obladayet pamyatjyu, na osnove dannyikh iz kotoroj i stroyatsya simuly
 
 ...
 
+Da

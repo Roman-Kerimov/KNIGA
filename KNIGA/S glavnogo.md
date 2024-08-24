@@ -28,4 +28,4 @@ Nash mozg obladayet pamyatjyu, na osnove dannyikh iz kotoroj i stroyatsya simuly
 
 ...
 
-A teperj davajte posmontrim, kak eto ustroyeno na fizicheskom urovne — chto uvidit
+A teperj davajte posmontrim, kak eto ustroyeno na fizicheskom urovne — chto uvidit 

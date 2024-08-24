@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -183,6 +183,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Vyi verite v Boga?.md",
     "KNIGA/S glavnogo.md",
     "Cyrl/Человек.md",
     "KNIGA/Chelovek.md",
@@ -208,7 +209,6 @@
     "Cyrl/Цивилизационноя кора.md",
     "Runr/ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᛟᚾᚾᛟᚤᚨ ᚲᛟᚱᚨ.md",
     "KNIGA/Civilizacionnoya kora.md",
-    "Glag/Ⱁⱅⰱⱁⱃ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

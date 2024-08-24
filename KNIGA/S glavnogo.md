@@ -12,7 +12,7 @@ Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu
 * [[Izmenchivostj]]
 * [[Otbor]]
 
-Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o [[Darvinovskaya evolyuciya|Darvinovskoj evolyucii]], no eto ne toljko o nej. Davajte snachala vernyomsya k [[Chelovecheskomuchelovechoskomu mozgu]] — obsjheprinyatomu vmestilisjhu razuma.
+Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o [[Darvinovskaya evolyuciya|Darvinovskoj evolyucii]], no eto ne toljko o nej. Davajte snachala vernyomsya k [[Chelovecheskijchelovechoskomu mozgu]] — obsjheprinyatomu vmestilisjhu razuma.
 
 *Chto delayet mozg?*
 

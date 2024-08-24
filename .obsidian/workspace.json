@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Budusjheye.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Budusjheye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Budusjheye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Budusjheye.md"
               }
             }
           }
@@ -183,13 +183,14 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Budusjheye.md",
     "KNIGA/Simulyaciya.md",
     "Latn/Simulyaciya.md",
     "Runr/ᛊᛁᛗᚢᛚᚤᚨᚳᛁᚤᚨ.md",
     "Cyrl/Симуляция.md",
     "Perm/𐍡𐍙𐍜𐍣𐍛𐍴𐍭𐍙𐍴.md",
     "Glag/Ⱄⰹⰿⱆⰾⱑⱌⰹⱑ.md",
-    "KNIGA/S glavnogo.md",
     "Cyrl/Память.md",
     "Perm/𐍟𐍐𐍜𐍴𐍢𐍰.md",
     "Runr/ᛈᚨᛗᚤᚨᛏᛃ.md",
@@ -208,7 +209,6 @@
     "KNIGA/Vselennaya.md",
     "KNIGA/Rechj.md",
     "KNIGA/Razum.md",
-    "KNIGA/Nalogi.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

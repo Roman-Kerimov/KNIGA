@@ -27,5 +27,5 @@ On sozdayot simulyacii budusjhego i vyibirayet iz nikh boleye udachnuyu, kotoruy
 
 Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni razu ob etom i ne zadumyivalisj, to mozhem zadumatjsya i intuitivno ponyatj, chto tak ono i rabotayet. I eto i yestj tot samyij vyisheupomyanutyij povtoryayusjhijsya cikl: nasledstvennostj, izmenchivostj i otbor.
 
-V nashem mozge yestj pamyatj, na osnove dannyikh iz kotoroj i stroyatsya simulyacii budusjhego — eto **nasledstvennostj**.
+V, na osnove dannyikh iz kotoroj i stroyatsya simulyacii budusjhego — eto **nasledstvennostj**.
 

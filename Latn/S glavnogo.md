@@ -31,4 +31,5 @@ Nash mozg obladayet pamyatjyu, na osnove dannyikh iz kotoroj i stroyatsya simuly
 
 ...
 
-A teperj davajte posmontrim, kak eto ustroyeno na fizicheskom urovne — chto uvidit patologoanatom ili nejrobiolog posle v
+A teperj davajte posmontrim, kak eto ustroyeno na fizicheskom urovne — chto uvidit patologoanatom ili nejrobiolog posle vskryitiya cherepnoj korobki.
+

@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyrl/Человек.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyrl/Человек.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyrl/Человек.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyrl/Человек.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -183,11 +183,11 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Cyrl/Человек.md",
     "KNIGA/Chelovek.md",
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚲ.md",
     "Glag/Ⱍⰵⰾⱁⰲⰵⰽ.md",
     "Latn/Chelovek.md",
-    "Cyrl/Человек.md",
     "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍚.md",
     "KNIGA/S glavnogo.md",
     "KNIGA/Kortikaljnaya kolonka.md",

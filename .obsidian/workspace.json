@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md",
+                "file": "KNIGA/Algoritm razuma.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md",
+                "file": "KNIGA/Algoritm razuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md",
+                "file": "KNIGA/Algoritm razuma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Vyi verite v Boga?.md"
+                "file": "KNIGA/Algoritm razuma.md"
               }
             }
           }
@@ -183,6 +183,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Vyi verite v Boga?.md",
     "KNIGA/Materialjnaya kuljtura.md",
     "KNIGA/Neokorteks.md",
     "KNIGA/Nasledstvennostj.md",
@@ -208,7 +209,6 @@
     "Cyrl/Речь.md",
     "Latn/Rechj.md",
     "Perm/𐍠𐍔𐍤𐍰.md",
-    "Glag/Ⱃⰵⱍⱐ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

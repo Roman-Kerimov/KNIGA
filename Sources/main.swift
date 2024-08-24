@@ -30,6 +30,12 @@ let packageResolvedModificationDate = try modificationDate(
     from: .currentDirectory().appending(path: "Package.resolved")
 )
 
+extension String {
+    func addingPercentEncoding() -> String {
+        addingPercentEncoding(withAllowedCharacters: .alphanumerics)!
+    }
+}
+
 do {
     for script in scriptTable.scripts {
         let targetDirectoryModificationDate = try modificationDate(
@@ -142,7 +148,7 @@ do {
             
             try """
             ### \(scriptPicker)
-            [iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent.addingPercentEncoding(withAllowedCharacters: .alphanumerics) ?? ""))
+            [iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent. ?? ""))
             
             \(targetText)
             """

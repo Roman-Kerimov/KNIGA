@@ -31,7 +31,7 @@ let packageResolvedModificationDate = try modificationDate(
 )
 
 extension String {
-    func addingPercentEncoding() -> String {
+    func fileName() -> String {
         addingPercentEncoding(withAllowedCharacters: .alphanumerics)!
     }
 }
@@ -101,7 +101,7 @@ do {
                         .components(separatedBy: "|")
                     
                     let file = wikilinkComponents.first!
-                        .addingPercentEncoding()
+                        .fileName()
                         .capitalized(with: Locale(languageCode: .russian))
                     
                     let label = wikilinkComponents.last!
@@ -141,14 +141,14 @@ do {
                     return if script == selectedScript {
                         scriptLabel
                     } else {
-                        "[\(scriptLabel)](../\(script)/\(targetURL(from: script).lastPathComponent.addingPercentEncoding()))"
+                        "[\(scriptLabel)](../\(script)/\(targetURL(from: script).lastPathComponent.fileName()))"
                     }
                 }
                 .joined(separator: " | ")
             
             try """
             ### \(scriptPicker)
-            [iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent.addingPercentEncoding()))
+            [iskhodnik](../\(sourcePath)/\(sourceURL.lastPathComponent.fileName()))
             
             \(targetText)
             """

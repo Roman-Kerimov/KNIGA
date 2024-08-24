@@ -96,7 +96,7 @@ do {
                     
                     let label = wikilinkComponents.last!
                     
-                    return "[\(label)](\(file))"
+                    return "[\(label)](\(file).md)"
                 }
             
             let mdLinkPattern = ".md)"

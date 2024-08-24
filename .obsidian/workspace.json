@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Bog.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Bog.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Bog.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Bog.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -183,6 +183,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Bog.md",
     "KNIGA/Algoritm razuma.md",
     "KNIGA/Vyi verite v Boga?.md",
     "KNIGA/Materialjnaya kuljtura.md",
@@ -208,7 +209,6 @@
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md",
     "Cyrl/Речь.md",
-    "Latn/Rechj.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

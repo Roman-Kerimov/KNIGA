@@ -5,7 +5,9 @@ import Foundation
 import LinguisticKit
 
 let scriptTable: ScriptTable = .ru
+
 let sourcePath = "Iskhodniki"
+
 let sourceDirectory: URL = .currentDirectory()
     .appending(path: sourcePath)
 

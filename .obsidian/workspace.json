@@ -45,12 +45,8 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KNIGA/S glavnogo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KNIGA/S glavnogo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,13 +175,13 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
     "Runr/ᛈᛚᚨᚾᛖᛏᚨ.md",
     "Perm/𐍟𐍛𐍐𐍝𐍔𐍢𐍐.md",
     "Latn/Planeta.md",
     "Glag/Ⱂⰾⰰⱀⰵⱅⰰ.md",
     "Cyrl/Планета.md",
     "KNIGA/Planeta.md",
-    "KNIGA/S glavnogo.md",
     "KNIGA/Organizm.md",
     "Cyrl/Организм.md",
     "Latn/Organizm.md",

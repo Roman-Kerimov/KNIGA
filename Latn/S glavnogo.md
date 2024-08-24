@@ -17,4 +17,4 @@ Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu
 
 Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o Darvinovskoj evolyucii, no rechj idyot ne toljko o nej. Davajte snachala vernyomsya k mozgu — obsjheprinyatomu vmestilisjhu razuma.
 
-Chto delayet mozg? On predsk
+Chto delayet mozg? On predskazyivayet 

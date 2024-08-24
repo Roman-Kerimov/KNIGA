@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Fizicheskij urovenj.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Fizicheskij urovenj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Fizicheskij urovenj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Fizicheskij urovenj.md"
               }
             }
           }
@@ -183,13 +183,19 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Latn/Fizicheskij urovenj.md",
+    "Runr/ᚠᛁᛉᛁᚳᚺᛖᛊᚲᛁᛃ ᚢᚱᛟᚡᛖᚾᛃ.md",
+    "Cyrl/Физический уровень.md",
+    "Perm/𐍫𐍙𐍗𐍙𐍤𐍔𐍡𐍚𐍙𐍧 𐍣𐍠𐍞𐍮𐍔𐍝𐍰.md",
+    "Glag/Ⱇⰹⰸⰹⱍⰵⱄⰽⰹⰻ ⱆⱃⱁⰲⰵⱀⱐ.md",
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Fizicheskij urovenj.md",
     "Cyrl/Материальная культура.md",
     "Latn/Materialjnaya kuljtura.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md",
     "KNIGA/Materialjnaya kuljtura.md",
-    "KNIGA/S glavnogo.md",
     "Cyrl/Речь.md",
     "Latn/Rechj.md",
     "Perm/𐍠𐍔𐍤𐍰.md",
@@ -203,12 +209,6 @@
     "Glag/Ⰽⱁⱃⰰ ⰱⱁⰾⱐⱎⰹⱈ ⱂⱁⰾⱆⱎⰰⱃⰹⰻ.md",
     "Cyrl/Кора больших полушарий.md",
     "Runr/ᚱᚨᛉᚢᛗ.md",
-    "Cyrl/Разум.md",
-    "Latn/Razum.md",
-    "Perm/𐍠𐍐𐍗𐍣𐍜.md",
-    "Glag/Ⱃⰰⰸⱆⰿ.md",
-    "KNIGA/Razum.md",
-    "Latn/Chelovecheskij mozg.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

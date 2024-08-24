@@ -41,12 +41,8 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iskhodniki/S glavnogo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iskhodniki/S glavnogo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,13 +171,13 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Iskhodniki/S glavnogo.md",
     "Iskhodniki/Planetarnaya civilizaciya.md",
     "Perm/𐍟𐍛𐍐𐍝𐍔𐍢𐍐𐍠𐍝𐍐𐍴 𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
     "Runr/ᛈᛚᚨᚾᛖᛏᚨᚱᚾᚨᚤᚨ ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
     "Cyrl/Планетарная цивилизация.md",
     "Glag/Ⱂⰾⰰⱀⰵⱅⰰⱃⱀⰰⱑ ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱑ.md",
     "Latn/Planetarnaya civilizaciya.md",
-    "Iskhodniki/S glavnogo.md",
     "Runr/ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
     "Cyrl/Цивилизация.md",
     "Glag/Ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱑ.md",

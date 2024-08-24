@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "Cyrl/С главного.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "Cyrl/С главного.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "Cyrl/С главного.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "Cyrl/С главного.md"
               }
             }
           }
@@ -171,12 +171,12 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
     "Latn/S glavnogo.md",
     "Cyrl/С главного.md",
     "Glag/Ⱄ ⰳⰾⰰⰲⱀⱁⰳⱁ.md",
     "Runr/ᛊ ᚷᛚᚨᚡᚾᛟᚷᛟ.md",
     "Perm/𐍡 𐍒𐍛𐍐𐍮𐍝𐍞𐍒𐍞.md",
-    "KNIGA/S glavnogo.md",
     "Perm/𐍱𐍜𐍟𐍢𐍯.md",
     "Runr/ᛖᛗᛈᛏᚤ.md",
     "Latn/Empty.md",

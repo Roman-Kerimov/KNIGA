@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Materialjnaya kuljtura.md"
               }
             }
           }
@@ -183,13 +183,20 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Materialjnaya kuljtura.md",
+    "Cyrl/Речь.md",
+    "Latn/Rechj.md",
+    "Perm/𐍠𐍔𐍤𐍰.md",
+    "Glag/Ⱃⰵⱍⱐ.md",
+    "Runr/ᚱᛖᚳᚺᛃ.md",
+    "KNIGA/Rechj.md",
     "KNIGA/Kora boljshikh polusharij.md",
     "Runr/ᚲᛟᚱᚨ ᛒᛟᛚᛃᛊᚺᛁᚲᚺ ᛈᛟᛚᚢᛊᚺᚨᚱᛁᛃ.md",
     "Latn/Kora boljshikh polusharij.md",
     "Perm/𐍚𐍞𐍠𐍐 𐍑𐍞𐍛𐍰𐍥𐍙𐍬 𐍟𐍞𐍛𐍣𐍥𐍐𐍠𐍙𐍧.md",
     "Glag/Ⰽⱁⱃⰰ ⰱⱁⰾⱐⱎⰹⱈ ⱂⱁⰾⱆⱎⰰⱃⰹⰻ.md",
     "Cyrl/Кора больших полушарий.md",
-    "KNIGA/S glavnogo.md",
     "Runr/ᚱᚨᛉᚢᛗ.md",
     "Cyrl/Разум.md",
     "Latn/Razum.md",
@@ -202,13 +209,6 @@
     "Cyrl/Человеческий мозг.md",
     "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍙𐍧 𐍜𐍞𐍗𐍒.md",
     "KNIGA/Chelovecheskij mozg.md",
-    "KNIGA/Algoritm razuma.md",
-    "Cyrl/Алгоритм разума.md",
-    "Glag/Ⰰⰾⰳⱁⱃⰹⱅⰿ ⱃⰰⰸⱆⰿⰰ.md",
-    "Perm/𐍐𐍛𐍒𐍞𐍠𐍙𐍢𐍜 𐍠𐍐𐍗𐍣𐍜𐍐.md",
-    "Runr/ᚨᛚᚷᛟᚱᛁᛏᛗ ᚱᚨᛉᚢᛗᚨ.md",
-    "Latn/Algoritm razuma.md",
-    "KNIGA/Darvinovskaya evolyuciya.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

@@ -23,4 +23,4 @@ On predskazyivayet budusjheye.
 
 Kak on eto delayet?
 
-On sozdayot simulyacii budusjhego
+On sozdayot simulyacii budusjhego i vyibira

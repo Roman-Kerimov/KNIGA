@@ -85,12 +85,8 @@ do {
                 return
             }
             
-            let regex = #/\[\[[\w|\s]+\]\]/#
-            
-            
-            
             let sourceText = (try String(contentsOf: sourceURL))
-                .replacing(regex) { match in
+                .replacing(#/\[\[[\w|\s]+\]\]/#) { match in
                     match.output
                 }
             

@@ -85,7 +85,14 @@ do {
                 return
             }
             
-            let sourceText = try String(contentsOf: sourceURL)
+            let regex = #/\[\[[\w|\s]+\]\]/#
+            
+            
+            
+            let sourceText = (try String(contentsOf: sourceURL))
+                .replacing(regex) { match in
+                    
+                }
             
             let mdLinkPattern = ".md)"
             

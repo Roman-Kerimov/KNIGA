@@ -40,6 +40,6 @@ A teperj vzglyanem, kak ustroyena [[Civilizacionnoya kora|civilizacionnaya kora]
 
 Mnozhestvo lyudej, obyyedinyonnyikh [[Yazyik|yazyikom]], [[Materialjnaya kuljtura|materialjnoj kuljturoj]], i lokalizovannyiye na opredelyonnoj territorii imeyut tendenciyu obrazovyivatj ustojchivyiye [[Organizm|organizmyi]] — [[Gosudarstvo|gosudarstva]]. Oni v svoyu ocheredj takzhe obrazuyut setj, postepenno razrastayusjhuyusya do razmerov [[Planeta|planetyi]].
 
-*Sujhestvuyut li mezhplanetarnyiye civilizacii?*
+*[[Sujhestvuyut]] li mezhplanetarnyiye civilizacii?*
 
 Net, myi etogo ne nablyudayem. No nashi predki kogda-to ne nablyudali i planetarnuyu civilizaciyu.

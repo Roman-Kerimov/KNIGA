@@ -91,7 +91,7 @@ do {
             
             let sourceText = (try String(contentsOf: sourceURL))
                 .replacing(regex) { match in
-                    
+                    match.output
                 }
             
             let mdLinkPattern = ".md)"

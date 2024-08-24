@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Planetarnaya civilizaciya.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Planetarnaya civilizaciya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Planetarnaya civilizaciya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md"
+                "file": "Iskhodniki/Planetarnaya civilizaciya.md"
               }
             }
           }
@@ -179,13 +179,14 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Iskhodniki/S glavnogo.md",
+    "Iskhodniki/Planetarnaya civilizaciya.md",
     "Runr/ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
     "Cyrl/Цивилизация.md",
     "Glag/Ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱑ.md",
     "Latn/Civilizaciya.md",
     "Perm/𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
     "Iskhodniki/Civilizaciya.md",
-    "Iskhodniki/S glavnogo.md",
     "Latn/Obucheniye.md",
     "Glag/Ⱁⰱⱆⱍⰵⱀⰹⰵ.md",
     "Iskhodniki/Vyi verite v Boga?.md",
@@ -204,7 +205,6 @@
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
     "Cyrl/Наблюдатель.md",
     "Latn/Nablyudatelj.md",
-    "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

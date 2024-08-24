@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Kortikaljnaya kolonka.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Kortikaljnaya kolonka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Kortikaljnaya kolonka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Kortikaljnaya kolonka.md"
               }
             }
           }
@@ -171,13 +171,14 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Kortikaljnaya kolonka.md",
     "KNIGA/Neokorteks.md",
     "Glag/Ⱀⰵⱁⰽⱁⱃⱅⰵⰽⱄ.md",
     "Cyrl/Неокортекс.md",
     "Latn/Neokorteks.md",
     "Perm/𐍝𐍔𐍞𐍚𐍞𐍠𐍢𐍔𐍚𐍡.md",
     "Runr/ᚾᛖᛟᚲᛟᚱᛏᛖᚲᛊ.md",
-    "KNIGA/S glavnogo.md",
     "Perm/𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍞𐍝𐍝𐍞𐍴 𐍚𐍞𐍠𐍐.md",
     "Latn/Civilizacionnoya kora.md",
     "Glag/Ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱁⱀⱀⱁⱑ ⰽⱁⱃⰰ.md",
@@ -196,7 +197,6 @@
     "Cyrl/Изменчивость.md",
     "Perm/𐍙𐍗𐍜𐍔𐍝𐍤𐍙𐍮𐍞𐍡𐍢𐍰.md",
     "Latn/Izmenchivostj.md",
-    "Runr/ᚾᚨᛊᛚᛖᛞᛊᛏᚡᛖᚾᚾᛟᛊᛏᛃ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

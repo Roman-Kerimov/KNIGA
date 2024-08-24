@@ -45,12 +45,8 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KNIGA/Kora boljshikh polusharij.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Kora boljshikh polusharij.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Kora boljshikh polusharij.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KNIGA/Kora boljshikh polusharij.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,13 +175,13 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Kora boljshikh polusharij.md",
     "Runr/ᚲᛟᚱᚨ ᛒᛟᛚᛃᛊᚺᛁᚲᚺ ᛈᛟᛚᚢᛊᚺᚨᚱᛁᛃ.md",
     "Latn/Kora boljshikh polusharij.md",
     "Perm/𐍚𐍞𐍠𐍐 𐍑𐍞𐍛𐍰𐍥𐍙𐍬 𐍟𐍞𐍛𐍣𐍥𐍐𐍠𐍙𐍧.md",
     "Glag/Ⰽⱁⱃⰰ ⰱⱁⰾⱐⱎⰹⱈ ⱂⱁⰾⱆⱎⰰⱃⰹⰻ.md",
     "Cyrl/Кора больших полушарий.md",
     "KNIGA/S glavnogo.md",
-    "KNIGA/Kora boljshikh polusharij.md",
     "Runr/ᚱᚨᛉᚢᛗ.md",
     "Cyrl/Разум.md",
     "Latn/Razum.md",

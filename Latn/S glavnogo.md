@@ -41,4 +41,4 @@ A teperj vzglyanem, kak ustroyena [[Civilizacionnoya kora|civilizacionnaya kora]
 
 ...
 
-Mnozhestvo lyudej, obyyed
+Mnozhestvo lyudej, obyyedinyonnyikh

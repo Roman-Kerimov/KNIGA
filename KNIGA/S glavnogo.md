@@ -38,4 +38,4 @@ A teperj vzglyanem, kak ustroyena [[Civilizacionnoya kora|civilizacionnaya kora]
 
 ...
 
-Mnozhestvo lyudej, obyyedinyonnyikh yazyikom, materialjnoj kuljturoj
+Mnozhestvo lyudej, obyyedinyonnyikh yazyikom, materialjnoj kuljturoj, reli

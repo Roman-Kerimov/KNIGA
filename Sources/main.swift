@@ -86,7 +86,7 @@ do {
             }
             
             let sourceText = (try String(contentsOf: sourceURL))
-                .replacing(#/\[\[[\w|\s]+\]\]/#) { match in
+                .replacing(/\[\[[\w|\s]+\]\]/) { match in
                     let wikilinkComponents = match.output
                         .trimmingCharacters(in: CharacterSet(charactersIn: "[]"))
                         .components(separatedBy: "|")

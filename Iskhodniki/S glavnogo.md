@@ -42,4 +42,4 @@ Mnozhestvo lyudej, obyyedinyonnyikh [[Yazyik|yazyikom]], [[Materialjnaya kuljtur
 
 *[[Byitiye|Sujhestvuyut]] li mezhplanetarnyiye [[Civilizaciya|civilizacii]]?*
 
-Net, myi etogo ne nablyudayem. No nashi [[predki]] kogda-to ne nablyudali i [[Planetarnaya civilizaciya|planetarnuyu civilizaciyu]].
+Net, myi etogo ne nablyudayem. No nashi [[Predok|predki]] kogda-to ne nablyudali i [[Planetarnaya civilizaciya|planetarnuyu civilizaciyu]].

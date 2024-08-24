@@ -34,4 +34,4 @@ U nas yestj kora boljshikh polusharij, v kotoroj mozhno najti neokorteks. On ime
 
 ...
 
-A teperj vzglyanem, kak ustroyena civilizacionnoya kora. Ona uzhe sobstvenno uzhe sosto
+A teperj vzglyanem, kak ustroyena civilizacionnoya kora. Ona uzhe sobstvenno uzhe sostoit iz chelovekov, 

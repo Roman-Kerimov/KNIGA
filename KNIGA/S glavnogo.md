@@ -9,7 +9,7 @@ Eto budet nebyistryij razgovor. Ya vot dumayu, s chego luchshe nachatj: s nachal
 Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu odin i tot zhe algoritm — algoritm razuma. On dovoljno prost — eto nepreryivno povtoryayusjhijsya cikl:
 
 * [[Nasledstvennostj]]
-* Izmenchivostj
+* [[Izmenchivostj]]
 * Otbor
 
 Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o Darvinovskoj evolyucii, no rechj idyot ne toljko o nej. Davajte snachala vernyomsya k mozgu — obsjheprinyatomu vmestilisjhu razuma.

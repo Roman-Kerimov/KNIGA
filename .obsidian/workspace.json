@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Planetarnaya civilizaciya.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Planetarnaya civilizaciya.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Planetarnaya civilizaciya.md",
+                "file": "Iskhodniki/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Planetarnaya civilizaciya.md"
+                "file": "Iskhodniki/S glavnogo.md"
               }
             }
           }
@@ -179,8 +179,13 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
-    "Iskhodniki/S glavnogo.md",
     "Iskhodniki/Planetarnaya civilizaciya.md",
+    "Perm/𐍟𐍛𐍐𐍝𐍔𐍢𐍐𐍠𐍝𐍐𐍴 𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
+    "Runr/ᛈᛚᚨᚾᛖᛏᚨᚱᚾᚨᚤᚨ ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
+    "Cyrl/Планетарная цивилизация.md",
+    "Glag/Ⱂⰾⰰⱀⰵⱅⰰⱃⱀⰰⱑ ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱑ.md",
+    "Latn/Planetarnaya civilizaciya.md",
+    "Iskhodniki/S glavnogo.md",
     "Runr/ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
     "Cyrl/Цивилизация.md",
     "Glag/Ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱑ.md",
@@ -200,11 +205,6 @@
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛁᛃ ᛗᛟᛉᚷ.md",
     "Cyrl/Человеческий мозг.md",
     "Latn/Chelovecheskij mozg.md",
-    "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍙𐍧 𐍜𐍞𐍗𐍒.md",
-    "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
-    "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
-    "Cyrl/Наблюдатель.md",
-    "Latn/Nablyudatelj.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

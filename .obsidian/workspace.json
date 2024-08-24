@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Nasledstvennostj.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -171,8 +171,13 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
-    "KNIGA/S glavnogo.md",
+    "Runr/ᚾᚨᛊᛚᛖᛞᛊᛏᚡᛖᚾᚾᛟᛊᛏᛃ.md",
+    "Glag/Ⱀⰰⱄⰾⰵⰴⱄⱅⰲⰵⱀⱀⱁⱄⱅⱐ.md",
+    "Cyrl/Наследственность.md",
+    "Perm/𐍝𐍐𐍡𐍛𐍔𐍓𐍡𐍢𐍮𐍔𐍝𐍝𐍞𐍡𐍢𐍰.md",
+    "Latn/Nasledstvennostj.md",
     "KNIGA/Nasledstvennostj.md",
+    "KNIGA/S glavnogo.md",
     "Cyrl/С главного.md",
     "Latn/S glavnogo.md",
     "Glag/Ⱄ ⰳⰾⰰⰲⱀⱁⰳⱁ.md",
@@ -192,11 +197,6 @@
     "KNIGA/Vyi verite v Boga?.md",
     "Cyrl/Наблюдатель.md",
     "Cyrl/Налоги.md",
-    "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
-    "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
-    "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
-    "Latn/Nablyudatelj.md",
-    "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

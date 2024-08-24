@@ -1,3 +1,3 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%2Emd) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/%E1%9B%88%E1%9A%A8%E1%9B%97%E1%9A%A4%E1%9A%A8%E1%9B%8F%E1%9B%83%2Emd) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/%E2%B0%92%E2%B0%B0%E2%B0%BF%E2%B1%91%E2%B1%85%E2%B1%90%2Emd) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/%F0%90%8D%9F%F0%90%8D%90%F0%90%8D%9C%F0%90%8D%B4%F0%90%8D%A2%F0%90%8D%B0%2Emd)
-[iskhodnik](../KNIGA/Pamyatj%2Emd)
+[iskhodnik](../Iskhodniki/Pamyatj%2Emd)
 

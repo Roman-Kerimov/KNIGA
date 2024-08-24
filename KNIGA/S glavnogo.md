@@ -27,4 +27,4 @@ Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni ra
 Nash mozg obladayet pamyatjyu, na osnove dannyikh iz kotoroj i stroyatsya simulyacii budusjhego — eto **nasledstvennostj**.
 
 ...
-\
+

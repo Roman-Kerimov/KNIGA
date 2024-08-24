@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Chelovecheskij mozg.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Chelovecheskij mozg.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Chelovecheskij mozg.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Chelovecheskij mozg.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -183,8 +183,13 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
-    "KNIGA/S glavnogo.md",
+    "Latn/Chelovecheskij mozg.md",
+    "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛁᛃ ᛗᛟᛉᚷ.md",
+    "Glag/Ⱍⰵⰾⱁⰲⰵⱍⰵⱄⰽⰹⰻ ⰿⱁⰸⰳ.md",
+    "Cyrl/Человеческий мозг.md",
+    "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍙𐍧 𐍜𐍞𐍗𐍒.md",
     "KNIGA/Chelovecheskij mozg.md",
+    "KNIGA/S glavnogo.md",
     "KNIGA/Algoritm razuma.md",
     "Cyrl/Алгоритм разума.md",
     "Glag/Ⰰⰾⰳⱁⱃⰹⱅⰿ ⱃⰰⰸⱆⰿⰰ.md",
@@ -204,11 +209,6 @@
     "Glag/Ⱍⰵⰾⱁⰲⰵⰽ.md",
     "Latn/Chelovek.md",
     "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍚.md",
-    "KNIGA/Kortikaljnaya kolonka.md",
-    "Glag/Ⰽⱁⱃⱅⰹⰽⰰⰾⱐⱀⰰⱑ ⰽⱁⰾⱁⱀⰽⰰ.md",
-    "Runr/ᚲᛟᚱᛏᛁᚲᚨᛚᛃᚾᚨᚤᚨ ᚲᛟᛚᛟᚾᚲᚨ.md",
-    "Perm/𐍚𐍞𐍠𐍢𐍙𐍚𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍞𐍛𐍞𐍝𐍚𐍐.md",
-    "Cyrl/Кортикальная колонка.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

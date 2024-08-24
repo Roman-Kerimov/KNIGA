@@ -41,12 +41,8 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iskhodniki/Vyi verite v Boga?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Vyi verite v Boga?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Vyi verite v Boga?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iskhodniki/Vyi verite v Boga?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,6 +171,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Iskhodniki/Vyi verite v Boga?.md",
     "Iskhodniki/Bog.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
@@ -204,7 +197,6 @@
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
     "Cyrl/Государство.md",
     "Latn/Gosudarstvo.md",
-    "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

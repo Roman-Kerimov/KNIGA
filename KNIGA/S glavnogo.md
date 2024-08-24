@@ -8,5 +8,6 @@ Eto budet nebyistryij razgovor. Ya vot dumayu, s chego luchshe nachatj: s nachal
 
 Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu odin i tot zhe algoritm — algoritm razuma. On dovoljno prost — eto nepreryivno povtoryayusjhijsya cikl:
 
-* Nasledstvennos
+* Nasledstvennostj
+* Izmenchivostj
 

@@ -19,3 +19,5 @@ Chto delayet mozg?
 On predskazyivayet budusjheye.
 
 Kak on eto delayet?
+
+On sozdayot 

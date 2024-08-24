@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Otbor.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Otbor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Otbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Otbor.md"
               }
             }
           }
@@ -171,13 +171,20 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Otbor.md",
+    "KNIGA/Izmenchivostj.md",
+    "Glag/Ⰹⰸⰿⰵⱀⱍⰹⰲⱁⱄⱅⱐ.md",
+    "Runr/ᛁᛉᛗᛖᚾᚳᚺᛁᚡᛟᛊᛏᛃ.md",
+    "Cyrl/Изменчивость.md",
+    "Perm/𐍙𐍗𐍜𐍔𐍝𐍤𐍙𐍮𐍞𐍡𐍢𐍰.md",
+    "Latn/Izmenchivostj.md",
     "Runr/ᚾᚨᛊᛚᛖᛞᛊᛏᚡᛖᚾᚾᛟᛊᛏᛃ.md",
     "Glag/Ⱀⰰⱄⰾⰵⰴⱄⱅⰲⰵⱀⱀⱁⱄⱅⱐ.md",
     "Cyrl/Наследственность.md",
     "Perm/𐍝𐍐𐍡𐍛𐍔𐍓𐍡𐍢𐍮𐍔𐍝𐍝𐍞𐍡𐍢𐍰.md",
     "Latn/Nasledstvennostj.md",
     "KNIGA/Nasledstvennostj.md",
-    "KNIGA/S glavnogo.md",
     "Cyrl/С главного.md",
     "Latn/S glavnogo.md",
     "Glag/Ⱄ ⰳⰾⰰⰲⱀⱁⰳⱁ.md",
@@ -190,13 +197,6 @@
     "Cyrl/Эмптъ.md",
     "KNIGA/Empty.md",
     "Latn/Vyi verite v Boga?.md",
-    "Glag/Ⰲⱏⰹ ⰲⰵⱃⰹⱅⰵ ⰲ Ⰱⱁⰳⰰ?.md",
-    "Runr/ᚡᚤᛁ ᚡᛖᚱᛁᛏᛖ ᚡ ᛒᛟᚷᚨ?.md",
-    "Cyrl/Вы верите в Бога?.md",
-    "Perm/𐍮𐍨 𐍮𐍔𐍠𐍙𐍢𐍔 𐍮 𐍑𐍞𐍒𐍐?.md",
-    "KNIGA/Vyi verite v Boga?.md",
-    "Cyrl/Наблюдатель.md",
-    "Cyrl/Налоги.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

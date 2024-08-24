@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Nasledstvennostj.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Nasledstvennostj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Nasledstvennostj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Nasledstvennostj.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
-    "Cyrl/С главного.md",
     "KNIGA/S glavnogo.md",
+    "KNIGA/Nasledstvennostj.md",
+    "Cyrl/С главного.md",
     "Latn/S glavnogo.md",
     "Glag/Ⱄ ⰳⰾⰰⰲⱀⱁⰳⱁ.md",
     "Runr/ᛊ ᚷᛚᚨᚡᚾᛟᚷᛟ.md",
@@ -196,7 +197,6 @@
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
     "Latn/Nablyudatelj.md",
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
-    "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

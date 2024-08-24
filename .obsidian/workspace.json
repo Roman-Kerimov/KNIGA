@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Materialjnaya kuljtura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Materialjnaya kuljtura.md"
               }
             }
           }
@@ -183,21 +183,22 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Nablyudatelj.md",
+    "KNIGA/Nasledstvennostj.md",
+    "KNIGA/Neokorteks.md",
+    "KNIGA/Otbor.md",
+    "KNIGA/Vselennaya.md",
+    "KNIGA/S glavnogo.md",
     "KNIGA/Rechj.md",
     "KNIGA/Razum.md",
-    "KNIGA/Otbor.md",
     "KNIGA/Obucheniye.md",
-    "KNIGA/Neokorteks.md",
-    "KNIGA/Nasledstvennostj.md",
     "KNIGA/Nalogi.md",
-    "KNIGA/Nablyudatelj.md",
     "KNIGA/Fizicheskij urovenj.md",
     "Latn/Fizicheskij urovenj.md",
     "Runr/ᚠᛁᛉᛁᚳᚺᛖᛊᚲᛁᛃ ᚢᚱᛟᚡᛖᚾᛃ.md",
     "Cyrl/Физический уровень.md",
     "Perm/𐍫𐍙𐍗𐍙𐍤𐍔𐍡𐍚𐍙𐍧 𐍣𐍠𐍞𐍮𐍔𐍝𐍰.md",
     "Glag/Ⱇⰹⰸⰹⱍⰵⱄⰽⰹⰻ ⱆⱃⱁⰲⰵⱀⱐ.md",
-    "KNIGA/S glavnogo.md",
     "Cyrl/Материальная культура.md",
     "Latn/Materialjnaya kuljtura.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
@@ -208,7 +209,6 @@
     "Latn/Rechj.md",
     "Perm/𐍠𐍔𐍤𐍰.md",
     "Glag/Ⱃⰵⱍⱐ.md",
-    "Runr/ᚱᛖᚳᚺᛃ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

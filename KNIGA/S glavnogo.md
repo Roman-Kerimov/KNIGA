@@ -1,4 +1,4 @@
-#  S glavnogo
+# S glavnogo
 
 ### Rasskazhiet o svoyej sverkhidei
 

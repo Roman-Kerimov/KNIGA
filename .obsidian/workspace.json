@@ -45,12 +45,8 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KNIGA/S glavnogo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KNIGA/S glavnogo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,6 +175,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
     "KNIGA/Bog.md",
     "KNIGA/Algoritm razuma.md",
     "KNIGA/Vyi verite v Boga?.md",
@@ -193,7 +186,6 @@
     "KNIGA/Nablyudatelj.md",
     "KNIGA/Otbor.md",
     "KNIGA/Vselennaya.md",
-    "KNIGA/S glavnogo.md",
     "KNIGA/Rechj.md",
     "KNIGA/Razum.md",
     "KNIGA/Nalogi.md",

@@ -1,3 +1,3 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Отбор.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᛟᛏᛒᛟᚱ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⱁⱅⰱⱁⱃ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍞𐍢𐍑𐍞𐍠.md)
-[iskhodnik](../KNIGA/Otbor.md)]
+[iskhodnik](../KNIGA/Otbor.md)
 

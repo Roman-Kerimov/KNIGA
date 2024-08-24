@@ -1,3 +1,3 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/Алгоритм разума.md) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/ᚨᛚᚷᛟᚱᛁᛏᛗ ᚱᚨᛉᚢᛗᚨ.md) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/Ⰰⰾⰳⱁⱃⰹⱅⰿ ⱃⰰⰸⱆⰿⰰ.md) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/𐍐𐍛𐍒𐍞𐍠𐍙𐍢𐍜 𐍠𐍐𐍗𐍣𐍜𐍐.md)
-[iskhodnik](../KNIGA/Algoritm razuma.md)]
+[iskhodnik](../KNIGA/Algoritm razuma.md)
 

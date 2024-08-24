@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Civilizacionnoya kora.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Civilizacionnoya kora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/S glavnogo.md",
+                "file": "KNIGA/Civilizacionnoya kora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/S glavnogo.md"
+                "file": "KNIGA/Civilizacionnoya kora.md"
               }
             }
           }
@@ -171,13 +171,14 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
+    "KNIGA/S glavnogo.md",
+    "KNIGA/Civilizacionnoya kora.md",
     "Glag/Ⱁⱅⰱⱁⱃ.md",
     "Cyrl/Отбор.md",
     "Perm/𐍞𐍢𐍑𐍞𐍠.md",
     "Latn/Otbor.md",
     "Runr/ᛟᛏᛒᛟᚱ.md",
     "KNIGA/Otbor.md",
-    "KNIGA/S glavnogo.md",
     "KNIGA/Izmenchivostj.md",
     "Glag/Ⰹⰸⰿⰵⱀⱍⰹⰲⱁⱄⱅⱐ.md",
     "Runr/ᛁᛉᛗᛖᚾᚳᚺᛁᚡᛟᛊᛏᛃ.md",
@@ -196,7 +197,6 @@
     "Runr/ᛊ ᚷᛚᚨᚡᚾᛟᚷᛟ.md",
     "Perm/𐍡 𐍒𐍛𐍐𐍮𐍝𐍞𐍒𐍞.md",
     "Perm/𐍱𐍜𐍟𐍢𐍯.md",
-    "Runr/ᛖᛗᛈᛏᚤ.md",
     "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",

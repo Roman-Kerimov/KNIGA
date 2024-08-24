@@ -37,4 +37,4 @@ U nas yestj kora boljshikh polusharij, v kotoroj mozhno najti neokorteks. On ime
 
 ...
 
-A teperj 
+A teperj vzglyanem, k

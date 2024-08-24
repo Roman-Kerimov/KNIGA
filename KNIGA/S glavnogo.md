@@ -34,4 +34,4 @@ U nas yestj kora boljshikh polusharij, v kotoroj mozhno najti neokorteks. On ime
 
 ...
 
-A teperj v
+A teperj vzglyanem, kak ustroyena civili

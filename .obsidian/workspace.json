@@ -41,12 +41,8 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iskhodniki/S glavnogo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iskhodniki/S glavnogo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,13 +171,19 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Iskhodniki/Mezhplanetarnaya civilizaciya.md",
+    "Perm/𐍜𐍔𐍕𐍟𐍛𐍐𐍝𐍔𐍢𐍐𐍠𐍝𐍐𐍴 𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
+    "Latn/Mezhplanetarnaya civilizaciya.md",
+    "Runr/ᛗᛖᛉᚺᛈᛚᚨᚾᛖᛏᚨᚱᚾᚨᚤᚨ ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
+    "Glag/Ⰿⰵⰶⱂⰾⰰⱀⰵⱅⰰⱃⱀⰰⱑ ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱑ.md",
+    "Cyrl/Межпланетарная цивилизация.md",
+    "Iskhodniki/S glavnogo.md",
     "Iskhodniki/Predok.md",
     "Glag/Ⱂⱃⰵⰴⱁⰽ.md",
     "Perm/𐍟𐍠𐍔𐍓𐍞𐍚.md",
     "Latn/Predok.md",
     "Runr/ᛈᚱᛖᛞᛟᚲ.md",
     "Cyrl/Предок.md",
-    "Iskhodniki/S glavnogo.md",
     "Iskhodniki/Planetarnaya civilizaciya.md",
     "Perm/𐍟𐍛𐍐𐍝𐍔𐍢𐍐𐍠𐍝𐍐𐍴 𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
     "Runr/ᛈᛚᚨᚾᛖᛏᚨᚱᚾᚨᚤᚨ ᚳᛁᚡᛁᛚᛁᛉᚨᚳᛁᚤᚨ.md",
@@ -199,12 +197,6 @@
     "Perm/𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍴.md",
     "Iskhodniki/Civilizaciya.md",
     "Latn/Obucheniye.md",
-    "Glag/Ⱁⰱⱆⱍⰵⱀⰹⰵ.md",
-    "Iskhodniki/Vyi verite v Boga?.md",
-    "Iskhodniki/Bog.md",
-    "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
-    "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
-    "Cyrl/Материальная культура.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

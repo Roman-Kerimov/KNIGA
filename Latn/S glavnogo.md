@@ -37,4 +37,5 @@ U nas yestj kora boljshikh polusharij, v kotoroj mozhno najti neokorteks. On ime
 
 ...
 
-A teperj vzglyanem, kak ustroyena civilizacionnoya 
+A teperj vzglyanem, kak ustroyena civilizacionnoya kora
+

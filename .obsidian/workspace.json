@@ -41,8 +41,12 @@
             "id": "66cadb1038cd745b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Latn/Obucheniye.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Latn/Obucheniye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Latn/Obucheniye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Latn/Obucheniye.md"
+              }
             }
           }
         ]
@@ -171,6 +179,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "Glag/Ⱁⰱⱆⱍⰵⱀⰹⰵ.md",
     "Iskhodniki/Vyi verite v Boga?.md",
     "Iskhodniki/Bog.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
@@ -196,7 +205,6 @@
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
     "Cyrl/Государство.md",
-    "Latn/Gosudarstvo.md",
     "Iskhodniki",
     "Sources/main~.swift",
     "Package~.swift",

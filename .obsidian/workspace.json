@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Neokorteks.md",
+                "file": "KNIGA/S glavnogo.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Neokorteks.md",
+                "file": "KNIGA/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Neokorteks.md",
+                "file": "KNIGA/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Neokorteks.md"
+                "file": "KNIGA/S glavnogo.md"
               }
             }
           }
@@ -171,13 +171,13 @@
   },
   "active": "a54964d1e2a4c0d3",
   "lastOpenFiles": [
+    "KNIGA/Neokorteks.md",
     "Glag/Ⱀⰵⱁⰽⱁⱃⱅⰵⰽⱄ.md",
     "Cyrl/Неокортекс.md",
     "Latn/Neokorteks.md",
     "Perm/𐍝𐍔𐍞𐍚𐍞𐍠𐍢𐍔𐍚𐍡.md",
     "Runr/ᚾᛖᛟᚲᛟᚱᛏᛖᚲᛊ.md",
     "KNIGA/S glavnogo.md",
-    "KNIGA/Neokorteks.md",
     "Perm/𐍭𐍙𐍮𐍙𐍛𐍙𐍗𐍐𐍭𐍙𐍞𐍝𐍝𐍞𐍴 𐍚𐍞𐍠𐍐.md",
     "Latn/Civilizacionnoya kora.md",
     "Glag/Ⱌⰹⰲⰹⰾⰹⰸⰰⱌⰹⱁⱀⱀⱁⱑ ⰽⱁⱃⰰ.md",

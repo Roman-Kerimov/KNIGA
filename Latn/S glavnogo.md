@@ -9,13 +9,13 @@ Eto budet nebyistryij razgovor. Ya vot dumayu, s chego luchshe nachatj: s nachal
 
 ### — Nachnite s glavnogo
 
-Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu odin i tot zhe algoritm — [[Algoritm razuma|algoritm razuma]]. On dovoljno prost — eto nepreryivno povtoryayusjhijsya cikl:
+Vsyudu v nablyudayemoj Vselennoj, a ne toljko v cherepnoj korobke, ya nablyudayu odin i tot zhe algoritm — [algoritm razuma](Algoritm%20razuma. On dovoljno prost — eto nepreryivno povtoryayusjhijsya cikl:
 
-* [[Nasledstvennostj]]
-* [[Izmenchivostj]]
-* [[Otbor]]
+* [Nasledstvennostj](Nasledstvennostj
+* [Izmenchivostj](Izmenchivostj
+* [Otbor](Otbor
 
-Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o [[Darvinovskaya evolyuciya|Darvinovskoj evolyucii]], no eto ne toljko o nej. Davajte snachala vernyomsya k [[Chelovecheskij mozg|chelovechoskomu mozgu]] — obsjheprinyatomu vmestilisjhu [[Razum|razuma]].
+Sudya po terminam mozhno podumatj, chto zdesj rechj idyot o [Darvinovskoj evolyucii](Darvinovskaya%20evolyuciya, no eto ne toljko o nej. Davajte snachala vernyomsya k [chelovechoskomu mozgu](Chelovecheskij%20mozg — obsjheprinyatomu vmestilisjhu [razuma](Razum.
 
 *Chto delayet [mozg](Chelovecheskij%20mozg.md)?*
 
@@ -25,20 +25,20 @@ On predskazyivayet [budusjheye](Budusjheye.md).
 
 On sozdayot simulyacii budusjhego i vyibirayet iz nikh boleye udachnuyu, kotoruyu i otdayot na ispolneniye v tak nazyivayemom «realjnom» mire.
 
-Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni razu ob etom i ne zadumyivalisj, to mozhem zadumatjsya i intuitivno ponyatj, chto tak ono i yestj — eto tot samyij [[Algoritm razuma|vyisheupomyanutyij povtoryayusjhijsya cikl]]: [[nasledstvennostj]], [[izmenchivostj]] i [[otbor]].
+Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni razu ob etom i ne zadumyivalisj, to mozhem zadumatjsya i intuitivno ponyatj, chto tak ono i yestj — eto tot samyij [vyisheupomyanutyij povtoryayusjhijsya cikl](Algoritm%20razuma: [nasledstvennostj](nasledstvennostj, [izmenchivostj](izmenchivostj i [otbor](otbor.
 
-[[Chelovecheskij mozg|Nash mozg]] obladayet [[Pamyatj|pamyatjyu]], na osnove dannyikh iz kotoroj i stroyatsya [[Simulyaciya|simulyacii]] [[Budusjheye|budusjhego]] — eto **[[nasledstvennostj]]**.
-
-...
-
-A teperj davajte posmontrim, kak eto ustroyeno na [[Fizicheskij urovenj|fizicheskom urovne]] — chto uvidit patologoanatom ili nejrobiolog posle vskryitiya cherepnoj korobki.
-
-U nas yestj [[Kora boljshikh polusharij|kora boljshikh polusharij]], v kotoroj mozhno najti [[Neokorteks|neokorteks]]. On imeyet moduljnuyu strukturu — sostoit iz [[Kortikaljnaya kolonka|kortikaljnyikh kolonok]] i imeyet 6 gorizontaljnyikh sloyov. Odna [[Giperkolonka korteksa|giperkolonka]] sostoit iz 50—100 [[Minikolonka korteksa|minikolonok]]. Minikolonka sostoit iz 80—120 [[Nejron|nejronov]].
+[Nash mozg](Chelovecheskij%20mozg obladayet [pamyatjyu](Pamyatj, na osnove dannyikh iz kotoroj i stroyatsya [simulyacii](Simulyaciya [budusjhego](Budusjheye — eto **[nasledstvennostj](nasledstvennostj**.
 
 ...
 
-A teperj vzglyanem, kak ustroyena [[Civilizacionnoya kora|civilizacionnaya kora]]. Ona sostoit iz [[Chelovek|chelovekov]] podobno tomu, kak [[neokorteks]] sostoit iz [[Kortikaljnaya kolonka|kortikaljnyikh kolonok]]. Cheloveki obyyedinyayutsya v setj pri pomosjhi [[Rechj|rechi]] i [[Materialjnaya kuljtura|materialjnoj kuljturyi]].
+A teperj davajte posmontrim, kak eto ustroyeno na [fizicheskom urovne](Fizicheskij%20urovenj — chto uvidit patologoanatom ili nejrobiolog posle vskryitiya cherepnoj korobki.
+
+U nas yestj [kora boljshikh polusharij](Kora%20boljshikh%20polusharij, v kotoroj mozhno najti [neokorteks](Neokorteks. On imeyet moduljnuyu strukturu — sostoit iz [kortikaljnyikh kolonok](Kortikaljnaya%20kolonka i imeyet 6 gorizontaljnyikh sloyov. Odna [giperkolonka](Giperkolonka%20korteksa sostoit iz 50—100 [minikolonok](Minikolonka%20korteksa. Minikolonka sostoit iz 80—120 [nejronov](Nejron.
 
 ...
 
-Mnozhestvo lyudej, obyyedinyonnyikh [[Yazyik|yazyikom]], [[Materialjnaya kuljtura|materialjnoj kuljturoj]], i lokalizovannyiye na opredelyonnoj territorii imeyut tendenciyu obrazovyivatj ustojchivyiye [[Organizm|organizmyi]] — [[Gosudarstvo|gosudarstva]]. Oni v svoyu ocheredj takzhe obrazuyut setj, postepenno razrastayusjhuyusya do razmerov [[Planeta|planetyi]].
+A teperj vzglyanem, kak ustroyena [civilizacionnaya kora](Civilizacionnoya%20kora. Ona sostoit iz [chelovekov](Chelovek podobno tomu, kak [neokorteks](neokorteks sostoit iz [kortikaljnyikh kolonok](Kortikaljnaya%20kolonka. Cheloveki obyyedinyayutsya v setj pri pomosjhi [rechi](Rechj i [materialjnoj kuljturyi](Materialjnaya%20kuljtura.
+
+...
+
+Mnozhestvo lyudej, obyyedinyonnyikh [yazyikom](Yazyik, [materialjnoj kuljturoj](Materialjnaya%20kuljtura, i lokalizovannyiye na opredelyonnoj territorii imeyut tendenciyu obrazovyivatj ustojchivyiye [organizmyi](Organizm — [gosudarstva](Gosudarstvo. Oni v svoyu ocheredj takzhe obrazuyut setj, postepenno razrastayusjhuyusya do razmerov [planetyi](Planeta.

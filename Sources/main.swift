@@ -91,10 +91,12 @@ do {
                         .trimmingCharacters(in: CharacterSet(charactersIn: "[]"))
                         .components(separatedBy: "|")
                     
-                    let file = wikilinkComponents.first
-                    let label = wikilinkComponents.last
+                    let file = wikilinkComponents.first!
+                        .addingPercentEncoding(withAllowedCharacters: .alphanumerics)!
                     
-                    "[\(label)]"
+                    let label = wikilinkComponents.last!
+                    
+                    return "[\(label)](\(file)"
                 }
             
             let mdLinkPattern = ".md)"

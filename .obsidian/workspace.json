@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md",
+                "file": "KNIGA/Obucheniye.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md",
+                "file": "KNIGA/Obucheniye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md",
+                "file": "KNIGA/Obucheniye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KNIGA/Materialjnaya kuljtura.md"
+                "file": "KNIGA/Obucheniye.md"
               }
             }
           }
@@ -183,6 +183,7 @@
   },
   "active": "66cadb1038cd745b",
   "lastOpenFiles": [
+    "KNIGA/Materialjnaya kuljtura.md",
     "KNIGA/Nablyudatelj.md",
     "KNIGA/Nasledstvennostj.md",
     "KNIGA/Neokorteks.md",
@@ -204,7 +205,6 @@
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md",
-    "KNIGA/Materialjnaya kuljtura.md",
     "Cyrl/Речь.md",
     "Latn/Rechj.md",
     "Perm/𐍠𐍔𐍤𐍰.md",

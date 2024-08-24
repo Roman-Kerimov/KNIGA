@@ -33,7 +33,7 @@ Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni ra
 
 A teperj davajte posmontrim, kak eto ustroyeno na [[Fizicheskij urovenj|fizicheskom urovne]] — chto uvidit patologoanatom ili nejrobiolog posle vskryitiya cherepnoj korobki.
 
-U nas yestj [[Kora boljshikh polusharij|kora boljshikh polusharij]], v kotoroj mozhno najti [[Neokorteks|neokorteks]]. On imeyet moduljnuyu strukturu — sostoit iz [[Kortikaljnaya kolonka|kortikaljnyikh kolonok]] i imeyet 6 gorizontaljnyikh sloyov. Odna giperkolonka sostoit iz 50—100 minikolonok. Minikolonka sostoit iz 80—120 nejronov.
+U nas yestj [[Kora boljshikh polusharij|kora boljshikh polusharij]], v kotoroj mozhno najti [[Neokorteks|neokorteks]]. On imeyet moduljnuyu strukturu — sostoit iz [[Kortikaljnaya kolonka|kortikaljnyikh kolonok]] i imeyet 6 gorizontaljnyikh sloyov. Odna [[giperkolonka]] sostoit iz 50—100 minikolonok. Minikolonka sostoit iz 80—120 nejronov.
 
 ...
 

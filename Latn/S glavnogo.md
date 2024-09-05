@@ -27,7 +27,7 @@ On sozdayot simulyacii budusjhego i vyibirayet iz nikh boleye udachnuyu, kotoruy
 
 Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni razu ob etom i ne zadumyivalisj, to mozhem zadumatjsya i intuitivno ponyatj, chto tak ono i yestj — eto tot samyij [vyisheupomyanutyij povtoryayusjhijsya cikl](Algoritm%20razuma.md): [nasledstvennostj](Nasledstvennostj.md), [izmenchivostj](Izmenchivostj.md) i [otbor](Otbor.md).
 
-[Nash mozg](Chelovecheskij%20mozg.md) obladayet [pamyatjyu](Pamyatj.md), na osnove dannyikh iz kotoroj i stroyatsya [simulyacii](Simulyaciya.md) [budusjhego](Budusjheye.md) — eto **[nasledstvennostj](Nasledstvennostj.md)**. Eti simulyacii otlichayutsya drug ot druga — eto **[izmenchivostj](Izmenchivostj.md)**. Bessoznateljnyij (s tochki zreniya chelovecheskogo soznaniya) vyibor variantov, kotoriye budut predlozhenyi soznaniyu dlya soznateljnogo vyibora, i sobstvenno sam soznateljnyij vyibor — eto otbor.
+[Nash mozg](Chelovecheskij%20mozg.md) obladayet [pamyatjyu](Pamyatj.md), na osnove dannyikh iz kotoroj i stroyatsya [simulyacii](Simulyaciya.md) [budusjhego](Budusjheye.md) — eto **[nasledstvennostj](Nasledstvennostj.md)**. Eti simulyacii otlichayutsya drug ot druga — eto **[izmenchivostj](Izmenchivostj.md)**. Bessoznateljnyij (s tochki zreniya chelovecheskogo soznaniya) vyibor variantov, kotoriye budut predlozhenyi soznaniyu dlya soznateljnogo vyibora, i sobstvenno sam soznateljnyij vyibor — eto [otbor](Otbor.md).
 
 ...
 

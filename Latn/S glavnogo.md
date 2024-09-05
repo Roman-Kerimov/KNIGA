@@ -29,7 +29,7 @@ Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni ra
 
 [Nash mozg](Chelovecheskij%20mozg.md) obladayet [pamyatjyu](Pamyatj.md), na osnove dannyikh iz kotoroj i stroyatsya [simulyacii](Simulyaciya.md) [budusjhego](Budusjheye.md) — eto **[nasledstvennostj](Nasledstvennostj.md)**.
 
-Raznyiy
+
 
 ...
 

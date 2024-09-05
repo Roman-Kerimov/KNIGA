@@ -24,7 +24,7 @@ On sozdayot simulyacii budusjhego i vyibirayet iz nikh boleye udachnuyu, kotoruy
 
 Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni razu ob etom i ne zadumyivalisj, to mozhem zadumatjsya i intuitivno ponyatj, chto tak ono i yestj — eto tot samyij [[Algoritm razuma|vyisheupomyanutyij povtoryayusjhijsya cikl]]: [[nasledstvennostj]], [[izmenchivostj]] i [[otbor]].
 
-[[Chelovecheskij mozg|Nash mozg]] obladayet [[Pamyatj|pamyatjyu]], na osnove dannyikh iz kotoroj i stroyatsya [[Simulyaciya|simulyacii]] [[Budusjheye|budusjhego]] — eto **[[nasledstvennostj]]**. Eti simulyacii otlichayutsya drug ot druga — eto **[[izmenchivostj]]**. Bes
+[[Chelovecheskij mozg|Nash mozg]] obladayet [[Pamyatj|pamyatjyu]], na osnove dannyikh iz kotoroj i stroyatsya [[Simulyaciya|simulyacii]] [[Budusjheye|budusjhego]] — eto **[[nasledstvennostj]]**. Eti simulyacii otlichayutsya drug ot druga — eto **[[izmenchivostj]]**. Bessoznateljnyij vyibor 
 
 ...
 

@@ -27,6 +27,7 @@ Vse myi intuitivno ponimayem, chto tak ono i rabotayet. Dazhe yesli raneye ni ra
 [[Chelovecheskij mozg|Nash mozg]] obladayet [[Pamyatj|pamyatjyu]], na osnove dannyikh iz kotoroj i stroyatsya [[Simulyaciya|simulyacii]] [[Budusjheye|budusjhego]] — eto **[[nasledstvennostj]]**.
 
 
+
 ...
 
 A teperj davajte posmontrim, kak eto ustroyeno na [[Fizicheskij urovenj|fizicheskom urovne]] — chto uvidit patologoanatom ili nejrobiolog posle vskryitiya cherepnoj korobki.

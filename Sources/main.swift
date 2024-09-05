@@ -55,7 +55,7 @@ do {
         }
     }
     
-    {
+    try {
         try FileManager.default.contentsOfDirectory(
             at: sourceDirectory,
             includingPropertiesForKeys: [.contentModificationDateKey]

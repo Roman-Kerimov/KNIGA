@@ -53,8 +53,12 @@
             "id": "bf7b68f0656e20a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Iskhodniki/S glavnogo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -124,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Iskhodniki/S glavnogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Iskhodniki/S glavnogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Iskhodniki/S glavnogo.md"
+              }
             }
           }
         ]
@@ -183,6 +191,7 @@
   },
   "active": "bf7b68f0656e20a1",
   "lastOpenFiles": [
+    "Sources/main~.swift",
     "Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md",
     "Cyrl/Материальная культура.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
@@ -208,9 +217,7 @@
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
     "Latn/Gosudarstvo.md",
-    "Perm/𐍡𐍙𐍜𐍣𐍛𐍴𐍭𐍙𐍴.md",
     "Iskhodniki",
-    "Sources/main~.swift",
     "Package~.swift",
     "Package~.resolved",
     "Latn",

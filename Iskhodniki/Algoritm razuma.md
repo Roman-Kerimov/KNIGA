@@ -1,1 +1,1 @@
-Cikl izmenchivosti, otbora i 
+Cikl izmenchivosti, otbora i zapominaniya

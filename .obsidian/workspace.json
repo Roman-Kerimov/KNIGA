@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Vselennaya.md",
+                "file": "Iskhodniki/Simulyaciya.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Vselennaya.md",
+                "file": "Iskhodniki/Simulyaciya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Vselennaya.md",
+                "file": "Iskhodniki/Simulyaciya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Vselennaya.md"
+                "file": "Iskhodniki/Simulyaciya.md"
               }
             }
           }
@@ -216,6 +216,7 @@
   },
   "active": "6a6d531eaabc5a85",
   "lastOpenFiles": [
+    "Iskhodniki/Vselennaya.md",
     "Iskhodniki/Yazyik.md",
     "Cyrl/Информация.md",
     "Iskhodniki/Informaciya.md",
@@ -233,7 +234,6 @@
     "Cyrl/Запоминание.md",
     "Iskhodniki/Algoritm razuma.md",
     "Iskhodniki/Razum.md",
-    "Iskhodniki/Vselennaya.md",
     "Iskhodniki/Soznaniye.md",
     "Perm/𐍡𐍞𐍗𐍝𐍐𐍝𐍙𐍔.md",
     "Latn/Soznaniye.md",

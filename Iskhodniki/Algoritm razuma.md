@@ -1,1 +1,1 @@
-Cikl izmenchivosti
+Cikl izmenchivosti, otbora i 

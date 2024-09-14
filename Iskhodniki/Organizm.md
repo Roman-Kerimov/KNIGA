@@ -1,1 +1,1 @@
-[[Simulyaciya]]
+[[Simulyaciya]] na biologicheskom urovne

@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Без названия.md",
+                "file": "Iskhodniki/Bez nazvaniya.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Без названия.md",
+                "file": "Iskhodniki/Bez nazvaniya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Без названия.md",
+                "file": "Iskhodniki/Bez nazvaniya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Без названия.md"
+                "file": "Iskhodniki/Bez nazvaniya.md"
               }
             }
           }
@@ -202,15 +202,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b77ae846fcacc32",
+  "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Runr/ᛒᛖᛉ ᚾᚨᛉᚡᚨᚾᛁᚤᚨ.md",
+    "Perm/𐍑𐍔𐍗 𐍝𐍐𐍗𐍮𐍐𐍝𐍙𐍴.md",
+    "Glag/Ⰱⰵⰸ ⱀⰰⰸⰲⰰⱀⰹⱑ.md",
+    "Latn/Bez nazvaniya.md",
     "Glag/Без названия.md",
     "Cyrl/Без названия.md",
     "Perm/Без названия.md",
     "Latn/Без названия.md",
     "Runr/Без названия.md",
     "Iskhodniki/S glavnogo.md",
-    "Iskhodniki/Без названия.md",
+    "Iskhodniki/Bez nazvaniya.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Latn/Materialjnaya kuljtura.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
@@ -226,10 +230,6 @@
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
     "Cyrl/Наблюдатель.md",
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
-    "Runr/ᛗᛁᚾᛁᚲᛟᛚᛟᚾᚲᚨ ᚲᛟᚱᛏᛖᚲᛊᚨ.md",
-    "Latn/Minikolonka korteksa.md",
-    "Glag/Ⰿⰹⱀⰹⰽⱁⰾⱁⱀⰽⰰ ⰽⱁⱃⱅⰵⰽⱄⰰ.md",
-    "Cyrl/Миниколонка кортекса.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

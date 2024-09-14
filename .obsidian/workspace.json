@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a6d531eaabc5a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iskhodniki/Zapominaniye.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Algoritm razuma.md",
+                "file": "Iskhodniki/Zapominaniye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Algoritm razuma.md",
+                "file": "Iskhodniki/Zapominaniye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Algoritm razuma.md"
+                "file": "Iskhodniki/Zapominaniye.md"
               }
             }
           }
@@ -202,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "130483d8eded5501",
+  "active": "6a6d531eaabc5a85",
   "lastOpenFiles": [
-    "Iskhodniki/Razum.md",
     "Iskhodniki/Algoritm razuma.md",
+    "Iskhodniki/Zapominaniye.md",
+    "Iskhodniki/Razum.md",
     "Iskhodniki/Pamyatj.md",
     "Iskhodniki/Vselennaya.md",
     "Iskhodniki/Soznaniye.md",
@@ -229,7 +242,6 @@
     "Latn/Chelovecheskij mozg.md",
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛁᛃ ᛗᛟᛉᚷ.md",
     "Glag/Ⱍⰵⰾⱁⰲⰵⱍⰵⱄⰽⰹⰻ ⰿⱁⰸⰳ.md",
-    "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍙𐍧 𐍜𐍞𐍗𐍒.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

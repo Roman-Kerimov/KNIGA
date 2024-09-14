@@ -65,12 +65,8 @@
             "id": "130483d8eded5501",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iskhodniki/Vselennaya.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -140,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Vselennaya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Vselennaya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +173,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iskhodniki/Vselennaya.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,6 +196,7 @@
   },
   "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Iskhodniki/Vselennaya.md",
     "Iskhodniki/Soznaniye.md",
     "Perm/𐍡𐍞𐍗𐍝𐍐𐍝𐍙𐍔.md",
     "Latn/Soznaniye.md",
@@ -229,7 +222,6 @@
     "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍙𐍧 𐍜𐍞𐍗𐍒.md",
     "Cyrl/Человеческий мозг.md",
     "Latn/Nablyudatelj.md",
-    "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

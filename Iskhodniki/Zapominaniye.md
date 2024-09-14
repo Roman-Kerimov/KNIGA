@@ -1,3 +1,3 @@
 To zhe samoye, chto i [[nasledstvennostj]]
 
-S
+Sohkraneniye informacii na nosite

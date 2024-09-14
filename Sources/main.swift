@@ -42,9 +42,9 @@ extension String {
     }
 }
 
+let hooksModificationDate = try modificationDate(from: hooksURL)
+
 do {
-    modifica
-    
     for script in scriptTable.scripts {
         let targetDirectoryModificationDate = try modificationDate(
             from: targetDirectory(script: script)

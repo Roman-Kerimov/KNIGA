@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Pamyatj.md",
+                "file": "Iskhodniki/Zapominaniye.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Pamyatj.md",
+                "file": "Iskhodniki/Zapominaniye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Pamyatj.md",
+                "file": "Iskhodniki/Zapominaniye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Pamyatj.md"
+                "file": "Iskhodniki/Zapominaniye.md"
               }
             }
           }
@@ -216,6 +216,7 @@
   },
   "active": "6a6d531eaabc5a85",
   "lastOpenFiles": [
+    "Iskhodniki/Pamyatj.md",
     "Iskhodniki/Nasledstvennostj.md",
     "Iskhodniki/Zapominaniye.md",
     "Glag/Ⰸⰰⱂⱁⰿⰹⱀⰰⱀⰹⰵ.md",
@@ -225,7 +226,6 @@
     "Cyrl/Запоминание.md",
     "Iskhodniki/Algoritm razuma.md",
     "Iskhodniki/Razum.md",
-    "Iskhodniki/Pamyatj.md",
     "Iskhodniki/Vselennaya.md",
     "Iskhodniki/Soznaniye.md",
     "Perm/𐍡𐍞𐍗𐍝𐍐𐍝𐍙𐍔.md",

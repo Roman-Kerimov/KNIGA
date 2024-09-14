@@ -1,1 +1,1 @@
-Razum — cikl
+Razum — cikl izmenchivosti, 

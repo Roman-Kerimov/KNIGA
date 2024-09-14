@@ -1,1 +1,1 @@
-Razum — cikl [[Izmenchivosizmenchivosti]], otbora i nasledstvennosti, porozhdayusjhij [[Subyyekt|subyyekta]]
+Razum — cikl [[Izmenchivostjizmenchivosti]], otbora i nasledstvennosti, porozhdayusjhij [[Subyyekt|subyyekta]]

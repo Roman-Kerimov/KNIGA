@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "130483d8eded5501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iskhodniki/Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md",
+                "file": "Iskhodniki/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/S glavnogo.md"
+                "file": "Iskhodniki/Без названия.md"
               }
             }
           }
@@ -190,8 +202,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf7b68f0656e20a1",
+  "active": "1b77ae846fcacc32",
   "lastOpenFiles": [
+    "Glag/Без названия.md",
+    "Cyrl/Без названия.md",
+    "Perm/Без названия.md",
+    "Latn/Без названия.md",
+    "Runr/Без названия.md",
+    "Iskhodniki/S glavnogo.md",
+    "Iskhodniki/Без названия.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Latn/Materialjnaya kuljtura.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
@@ -211,13 +230,6 @@
     "Latn/Minikolonka korteksa.md",
     "Glag/Ⰿⰹⱀⰹⰽⱁⰾⱁⱀⰽⰰ ⰽⱁⱃⱅⰵⰽⱄⰰ.md",
     "Cyrl/Миниколонка кортекса.md",
-    "Perm/𐍜𐍙𐍝𐍙𐍚𐍞𐍛𐍞𐍝𐍚𐍐 𐍚𐍞𐍠𐍢𐍔𐍚𐍡𐍐.md",
-    "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
-    "Latn/Gosudarstvo.md",
-    "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
-    "Cyrl/Государство.md",
-    "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
-    "Runr/ᛊᛁᛗᚢᛚᚤᚨᚳᛁᚤᚨ.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

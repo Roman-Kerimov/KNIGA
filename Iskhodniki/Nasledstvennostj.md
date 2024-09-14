@@ -1,1 +1,1 @@
-To zhe samoye, chto i 
+To zhe samoye, chto i [[zapominaniye]]

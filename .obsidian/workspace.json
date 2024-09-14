@@ -216,6 +216,17 @@
   },
   "active": "6a6d531eaabc5a85",
   "lastOpenFiles": [
+    "Sources/hooks/push-to-checkout.sample",
+    "Sources/hooks/update.sample",
+    "Sources/hooks/prepare-commit-msg.sample",
+    "Sources/hooks/pre-receive.sample",
+    "Sources/hooks/pre-rebase.sample",
+    "Sources/hooks/pre-push.sample",
+    "Sources/hooks/pre-merge-commit.sample",
+    "Sources/hooks/pre-commit.sample",
+    "Sources/hooks/pre-commit",
+    "Sources/hooks/post-update.sample",
+    "Sources/hooks/pre-applypatch.sample",
     "Cyrl/Материальная культура.md",
     "Latn/Materialjnaya kuljtura.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
@@ -240,17 +251,6 @@
     "Latn/Gosudarstvo.md",
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
-    "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
-    "Cyrl/Симуляция.md",
-    "Sources/hooks",
-    "Sources/Hooks",
-    "Sources/New Folder",
-    "Sources/main~.swift",
-    "Iskhodniki",
-    "Package~.swift",
-    "Package~.resolved",
-    "Latn",
-    "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.ⰿⰴ",
-    "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.ᛗᛞ"
+    "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md"
   ]
 }

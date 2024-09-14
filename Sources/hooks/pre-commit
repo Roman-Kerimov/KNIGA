@@ -7,5 +7,4 @@
 #
 # To enable this hook, rename this file to "pre-commit".
 
-
 swift run

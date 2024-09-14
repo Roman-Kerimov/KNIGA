@@ -3,4 +3,4 @@
 
 To zhe samoye, chto i [nasledstvennostj](Nasledstvennostj.md)
 
-Sohkraneniye informaci
+Sohkraneniye informacii na nositele lyubogo roda

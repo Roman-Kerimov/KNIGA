@@ -1,3 +1,3 @@
 To zhe samoye, chto i [[nasledstvennostj]]
 
-Sohkraneniye informacii na nosite
+Sohkraneniye informacii na nositele lyubogo roda

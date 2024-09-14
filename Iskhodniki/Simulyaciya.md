@@ -1,1 +1,1 @@
-Susjhnostj, prokhodya
+Susjhnostj, prokhodyasjhya cherez cikl 

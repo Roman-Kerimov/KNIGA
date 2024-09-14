@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Zapominaniye.md",
+                "file": "Iskhodniki/Nasledstvennostj.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Zapominaniye.md",
+                "file": "Iskhodniki/Nasledstvennostj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Zapominaniye.md",
+                "file": "Iskhodniki/Nasledstvennostj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Zapominaniye.md"
+                "file": "Iskhodniki/Nasledstvennostj.md"
               }
             }
           }
@@ -216,13 +216,13 @@
   },
   "active": "6a6d531eaabc5a85",
   "lastOpenFiles": [
+    "Iskhodniki/Zapominaniye.md",
     "Glag/Ⰸⰰⱂⱁⰿⰹⱀⰰⱀⰹⰵ.md",
     "Latn/Zapominaniye.md",
     "Runr/ᛉᚨᛈᛟᛗᛁᚾᚨᚾᛁᚤᛖ.md",
     "Perm/𐍗𐍐𐍟𐍞𐍜𐍙𐍝𐍐𐍝𐍙𐍔.md",
     "Cyrl/Запоминание.md",
     "Iskhodniki/Algoritm razuma.md",
-    "Iskhodniki/Zapominaniye.md",
     "Iskhodniki/Razum.md",
     "Iskhodniki/Pamyatj.md",
     "Iskhodniki/Vselennaya.md",

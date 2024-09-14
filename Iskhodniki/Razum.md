@@ -1,1 +1,1 @@
-Razum — cikl izmenchivosti, otbora i ns
+Razum — cikl izmenchivosti, otbora i nasledstvennosti, porozhdayusjhi

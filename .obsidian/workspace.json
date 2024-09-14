@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Subyyekt.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Subyyekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Subyyekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Razum.md"
+                "file": "Iskhodniki/Subyyekt.md"
               }
             }
           }
@@ -204,6 +204,13 @@
   },
   "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Perm/𐍡𐍣𐍑𐍯𐍔𐍚𐍢.md",
+    "Glag/Ⱄⱆⰱⱏⰵⰽⱅ.md",
+    "Cyrl/Субъект.md",
+    "Latn/Subyyekt.md",
+    "Runr/ᛊᚢᛒᚤᚤᛖᚲᛏ.md",
+    "Iskhodniki/Razum.md",
+    "Iskhodniki/Subyyekt.md",
     "Iskhodniki/Bez nazvaniya.md",
     "Latn/Materialjnaya kuljtura.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
@@ -223,13 +230,6 @@
     "Latn/Minikolonka korteksa.md",
     "Runr/ᛗᛁᚾᛁᚲᛟᛚᛟᚾᚲᚨ ᚲᛟᚱᛏᛖᚲᛊᚨ.md",
     "Glag/Ⰿⰹⱀⰹⰽⱁⰾⱁⱀⰽⰰ ⰽⱁⱃⱅⰵⰽⱄⰰ.md",
-    "Perm/𐍜𐍙𐍝𐍙𐍚𐍞𐍛𐍞𐍝𐍚𐍐 𐍚𐍞𐍠𐍢𐍔𐍚𐍡𐍐.md",
-    "Cyrl/Миниколонка кортекса.md",
-    "Latn/Gosudarstvo.md",
-    "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
-    "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
-    "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
-    "Cyrl/Государство.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

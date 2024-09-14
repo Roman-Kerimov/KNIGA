@@ -1,1 +1,1 @@
-Povtoryayusjhijsya cikl: [[izmenchivostj]], [[otbor]], [[Zapomzapominaniye]]
+Povtoryayusjhijsya cikl: [[izmenchivostj]], [[otbor]], [[Zapominaniyezapominaniye]]

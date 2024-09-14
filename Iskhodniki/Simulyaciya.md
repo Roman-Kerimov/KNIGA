@@ -1,1 +1,1 @@
-Susjhnostj, sozdavayemaya
+Susjhnostj, sozdavayemaya razumom v processe

@@ -1,1 +1,1 @@
-Susjhnostj, prokhodyasjhya cherez cikl algoritma razuma
+Susjhnostj, prokhodyasjhya cherez [[cikl algoritma razuma]]

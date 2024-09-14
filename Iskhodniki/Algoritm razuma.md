@@ -1,1 +1,1 @@
-Cikl izmenchivosti, otbora i zapominaniya
+Pov

@@ -1,1 +1,1 @@
-Razum
+Razum — cikl

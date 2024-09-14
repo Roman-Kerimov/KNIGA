@@ -1,1 +1,1 @@
-Pov
+Povtoryayusjhijsya cikl:

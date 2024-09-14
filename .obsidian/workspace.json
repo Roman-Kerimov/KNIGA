@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Simulyaciya.md",
+                "file": "Iskhodniki/Organizm.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Simulyaciya.md",
+                "file": "Iskhodniki/Organizm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Simulyaciya.md",
+                "file": "Iskhodniki/Organizm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Simulyaciya.md"
+                "file": "Iskhodniki/Organizm.md"
               }
             }
           }
@@ -216,6 +216,7 @@
   },
   "active": "6a6d531eaabc5a85",
   "lastOpenFiles": [
+    "Iskhodniki/Simulyaciya.md",
     "Iskhodniki/Vselennaya.md",
     "Iskhodniki/Yazyik.md",
     "Cyrl/Информация.md",
@@ -241,7 +242,6 @@
     "Runr/ᛊᛟᛉᚾᚨᚾᛁᚤᛖ.md",
     "Cyrl/Сознание.md",
     "Iskhodniki/Subyyekt.md",
-    "Perm/𐍡𐍣𐍑𐍯𐍔𐍚𐍢.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

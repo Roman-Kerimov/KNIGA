@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md",
+                "file": "Iskhodniki/Razum.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md",
+                "file": "Iskhodniki/Razum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md",
+                "file": "Iskhodniki/Razum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md"
+                "file": "Iskhodniki/Razum.md"
               }
             }
           }
@@ -202,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b77ae846fcacc32",
+  "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Iskhodniki/Bez nazvaniya.md",
     "Latn/Materialjnaya kuljtura.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
@@ -229,7 +230,6 @@
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
     "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
     "Cyrl/Государство.md",
-    "Latn/Simulyaciya.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

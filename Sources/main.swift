@@ -4,6 +4,8 @@
 import Foundation
 import LinguisticKit
 
+
+
 let scriptTable: ScriptTable = .ru
 
 let sourcePath = "Iskhodniki"

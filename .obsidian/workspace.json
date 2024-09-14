@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Algoritm razuma.md",
+                "file": "Iskhodniki/Razum.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Algoritm razuma.md",
+                "file": "Iskhodniki/Razum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Algoritm razuma.md",
+                "file": "Iskhodniki/Razum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Algoritm razuma.md"
+                "file": "Iskhodniki/Razum.md"
               }
             }
           }
@@ -204,6 +204,7 @@
   },
   "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Iskhodniki/Algoritm razuma.md",
     "Iskhodniki/Pamyatj.md",
     "Iskhodniki/Vselennaya.md",
     "Iskhodniki/Soznaniye.md",
@@ -229,7 +230,6 @@
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛁᛃ ᛗᛟᛉᚷ.md",
     "Glag/Ⱍⰵⰾⱁⰲⰵⱍⰵⱄⰽⰹⰻ ⰿⱁⰸⰳ.md",
     "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍙𐍧 𐍜𐍞𐍗𐍒.md",
-    "Cyrl/Человеческий мозг.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

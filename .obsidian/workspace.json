@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Soznaniye.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Soznaniye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Soznaniye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Razum.md"
+                "file": "Iskhodniki/Soznaniye.md"
               }
             }
           }
@@ -204,13 +204,19 @@
   },
   "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Perm/𐍡𐍞𐍗𐍝𐍐𐍝𐍙𐍔.md",
+    "Latn/Soznaniye.md",
+    "Glag/Ⱄⱁⰸⱀⰰⱀⰹⰵ.md",
+    "Runr/ᛊᛟᛉᚾᚨᚾᛁᚤᛖ.md",
+    "Cyrl/Сознание.md",
+    "Iskhodniki/Razum.md",
+    "Iskhodniki/Soznaniye.md",
     "Iskhodniki/Subyyekt.md",
     "Perm/𐍡𐍣𐍑𐍯𐍔𐍚𐍢.md",
     "Glag/Ⱄⱆⰱⱏⰵⰽⱅ.md",
     "Cyrl/Субъект.md",
     "Latn/Subyyekt.md",
     "Runr/ᛊᚢᛒᚤᚤᛖᚲᛏ.md",
-    "Iskhodniki/Razum.md",
     "Iskhodniki/Bez nazvaniya.md",
     "Latn/Materialjnaya kuljtura.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
@@ -224,12 +230,6 @@
     "Cyrl/Человеческий мозг.md",
     "Latn/Nablyudatelj.md",
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
-    "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
-    "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
-    "Cyrl/Наблюдатель.md",
-    "Latn/Minikolonka korteksa.md",
-    "Runr/ᛗᛁᚾᛁᚲᛟᛚᛟᚾᚲᚨ ᚲᛟᚱᛏᛖᚲᛊᚨ.md",
-    "Glag/Ⰿⰹⱀⰹⰽⱁⰾⱁⱀⰽⰰ ⰽⱁⱃⱅⰵⰽⱄⰰ.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

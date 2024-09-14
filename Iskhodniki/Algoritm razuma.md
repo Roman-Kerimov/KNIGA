@@ -1,1 +1,1 @@
-Povtoryayusjhijsya cikl: izmenchivostj, otbor, zapominan
+Povtoryayusjhijsya cikl: [[izmenchivostj]], otbor, zapominaniye

@@ -1,1 +1,1 @@
-Cikl 
+Cikl izmenchivosti

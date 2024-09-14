@@ -4,7 +4,7 @@
 import Foundation
 import LinguisticKit
 
-
+let sourcesURL
 
 let scriptTable: ScriptTable = .ru
 

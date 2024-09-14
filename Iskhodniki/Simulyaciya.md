@@ -1,1 +1,1 @@
-Susjhnostj, prokhodyasjhya cherez cikl 
+Susjhnostj, prokhodyasjhya cherez cikl algoritma razuma

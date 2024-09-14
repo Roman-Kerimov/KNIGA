@@ -65,12 +65,8 @@
             "id": "130483d8eded5501",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iskhodniki/Soznaniye.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -140,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Soznaniye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Soznaniye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +173,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iskhodniki/Soznaniye.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -204,13 +196,13 @@
   },
   "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Iskhodniki/Soznaniye.md",
     "Perm/𐍡𐍞𐍗𐍝𐍐𐍝𐍙𐍔.md",
     "Latn/Soznaniye.md",
     "Glag/Ⱄⱁⰸⱀⰰⱀⰹⰵ.md",
     "Runr/ᛊᛟᛉᚾᚨᚾᛁᚤᛖ.md",
     "Cyrl/Сознание.md",
     "Iskhodniki/Razum.md",
-    "Iskhodniki/Soznaniye.md",
     "Iskhodniki/Subyyekt.md",
     "Perm/𐍡𐍣𐍑𐍯𐍔𐍚𐍢.md",
     "Glag/Ⱄⱆⰱⱏⰵⰽⱅ.md",

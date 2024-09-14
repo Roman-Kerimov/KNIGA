@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Algoritm razuma.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Algoritm razuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Razum.md",
+                "file": "Iskhodniki/Algoritm razuma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Razum.md"
+                "file": "Iskhodniki/Algoritm razuma.md"
               }
             }
           }
@@ -204,6 +204,7 @@
   },
   "active": "130483d8eded5501",
   "lastOpenFiles": [
+    "Iskhodniki/Razum.md",
     "Iskhodniki/Algoritm razuma.md",
     "Iskhodniki/Pamyatj.md",
     "Iskhodniki/Vselennaya.md",
@@ -213,7 +214,6 @@
     "Glag/Ⱄⱁⰸⱀⰰⱀⰹⰵ.md",
     "Runr/ᛊᛟᛉᚾᚨᚾᛁᚤᛖ.md",
     "Cyrl/Сознание.md",
-    "Iskhodniki/Razum.md",
     "Iskhodniki/Subyyekt.md",
     "Perm/𐍡𐍣𐍑𐍯𐍔𐍚𐍢.md",
     "Glag/Ⱄⱆⰱⱏⰵⰽⱅ.md",

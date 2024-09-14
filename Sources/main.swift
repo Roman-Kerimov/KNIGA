@@ -7,6 +7,9 @@ import LinguisticKit
 let sourcesURL: URL = .currentDirectory()
     .appending(component: "Sources")
 
+let hooksURL: URL = sourcesURL
+    .appending(component: "hooks")
+
 let scriptTable: ScriptTable = .ru
 
 let sourcePath = "Iskhodniki"

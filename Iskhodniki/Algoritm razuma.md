@@ -1,1 +1,1 @@
-Cikl nasledstvennosti, otbory
+Cikl nasledstvennosti, otbora i 

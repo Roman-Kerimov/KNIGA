@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Nasledstvennostj.md",
+                "file": "Iskhodniki/Pamyatj.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Nasledstvennostj.md",
+                "file": "Iskhodniki/Pamyatj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Nasledstvennostj.md",
+                "file": "Iskhodniki/Pamyatj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Nasledstvennostj.md"
+                "file": "Iskhodniki/Pamyatj.md"
               }
             }
           }
@@ -216,6 +216,7 @@
   },
   "active": "6a6d531eaabc5a85",
   "lastOpenFiles": [
+    "Iskhodniki/Nasledstvennostj.md",
     "Iskhodniki/Zapominaniye.md",
     "Glag/Ⰸⰰⱂⱁⰿⰹⱀⰰⱀⰹⰵ.md",
     "Latn/Zapominaniye.md",
@@ -241,7 +242,6 @@
     "Iskhodniki/Bez nazvaniya.md",
     "Latn/Materialjnaya kuljtura.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
-    "Glag/Ⰿⰰⱅⰵⱃⰹⰰⰾⱐⱀⰰⱑ ⰽⱆⰾⱐⱅⱆⱃⰰ.md",
     "Sources/main~.swift",
     "Iskhodniki",
     "Package~.swift",

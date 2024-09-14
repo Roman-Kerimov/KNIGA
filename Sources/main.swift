@@ -4,7 +4,8 @@
 import Foundation
 import LinguisticKit
 
-let sourcesURL
+let sourcesURL: URL = .currentDirectory()
+    .appending(component: "Sources")
 
 let scriptTable: ScriptTable = .ru
 
@@ -25,7 +26,7 @@ func modificationDate(from url: URL) throws -> Date {
 }
 
 let mainSwiftModificationDate = try modificationDate(
-    from: .currentDirectory().appending(path: "Sources/main.swift")
+    from: sourcesURL.appending(component: "main.swift")
 )
 
 let packageResolvedModificationDate = try modificationDate(

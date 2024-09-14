@@ -1,1 +1,3 @@
-To zhe samoye, chto i [[nasledstvennostj]] 
+To zhe samoye, chto i [[nasledstvennostj]]
+
+S

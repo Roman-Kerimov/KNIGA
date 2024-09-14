@@ -1,1 +1,1 @@
-Cikl nas
+Cikl nasledstvennosti

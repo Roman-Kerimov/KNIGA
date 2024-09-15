@@ -7,8 +7,12 @@ import LinguisticKit
 let sourcesURL: URL = .currentDirectory()
     .appending(component: "Sources")
 
-let hooksURL: URL = sourcesURL
+let sourceHooksURL: URL = sourcesURL
     .appending(component: "hooks")
+
+let targetHooksURL: URL = .currentDirectory()
+    .appending(path: ".git/hooks")
+    
 
 let scriptTable: ScriptTable = .ru
 
@@ -42,7 +46,13 @@ extension String {
     }
 }
 
-let hooksModificationDate = try modificationDate(from: hooksURL)
+let sourceHooksModificationDate = try modificationDate(from: sourceHooksURL)
+let targetHooksModificationDate = try modificationDate(from: targetHooksURL)
+
+if sourceHooksModificationDate > targetHooksModificationDate {
+    try FileManager.default.removeItem(at: targetHooksURL)
+    try FileManager.default.copyItem(at: sourceHooksURL, to: targetHooksURL)
+}
 
 do {
     for script in scriptTable.scripts {

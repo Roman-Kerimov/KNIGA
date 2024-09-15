@@ -54,6 +54,8 @@ if sourceHooksModificationDate > targetHooksModificationDate {
     try FileManager.default.copyItem(at: sourceHooksURL, to: targetHooksURL)
 }
 
+
+
 do {
     for script in scriptTable.scripts {
         let targetDirectoryModificationDate = try modificationDate(

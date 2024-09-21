@@ -3,4 +3,4 @@
 
 Susjhnostj, prokhodyasjhya cherez [cikl algoritma razuma](Algoritm%20razuma.md)
 
-[Simulyacii](Simulyacii.md)
+[Simulyacii v strukture razuma](Simulyacii%20v%20strukture%20razuma.md)

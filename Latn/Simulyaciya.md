@@ -3,4 +3,4 @@
 
 Susjhnostj, prokhodyasjhya cherez [cikl algoritma razuma](Algoritm%20razuma.md)
 
-[Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planiro](Simulyacii%20v%20strukture%20razuma%20kak%20sposob%20predskazaniya%20budusjhego%20i%20planiro.md)
+[Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya](Simulyacii%20v%20strukture%20razuma%20kak%20sposob%20predskazaniya%20budusjhego%20i%20planirovaniya.md)

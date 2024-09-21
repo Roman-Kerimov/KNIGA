@@ -84,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b50f1cd69e45a60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iskhodniki/Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Simulyaciya.md",
+                "file": "Iskhodniki/Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Simulyaciya.md",
+                "file": "Iskhodniki/Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Simulyaciya.md"
+                "file": "Iskhodniki/Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya.md"
               }
             }
           }
@@ -214,8 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a6d531eaabc5a85",
+  "active": "b50f1cd69e45a60f",
   "lastOpenFiles": [
+    "Iskhodniki/Simulyaciya.md",
+    "Iskhodniki/Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya.md",
     "Iskhodniki/Organizm.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
     "Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md",
@@ -240,8 +254,6 @@
     "Runr/ᚷᛟᛊᚢᛞᚨᚱᛊᛏᚡᛟ.md",
     "Perm/𐍒𐍞𐍡𐍣𐍓𐍐𐍠𐍡𐍢𐍮𐍞.md",
     "Glag/Ⰳⱁⱄⱆⰴⰰⱃⱄⱅⰲⱁ.md",
-    "Cyrl/Государство.md",
-    "Latn/Gosudarstvo.md",
     "Sources/hooks/samples/prepare-commit-msg.sample",
     "Sources/hooks/samples/push-to-checkout.sample",
     "Sources/hooks/samples/update.sample",

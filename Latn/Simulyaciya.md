@@ -2,3 +2,5 @@
 [iskhodnik](../Iskhodniki/Simulyaciya%2Emd)
 
 Susjhnostj, prokhodyasjhya cherez [cikl algoritma razuma](Algoritm%20razuma.md)
+
+[Si](Si.md)

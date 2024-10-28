@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md",
+                "file": "Iskhodniki/Bog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bez nazvaniya"
+              "title": "Bog"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md",
+                "file": "Iskhodniki/Bog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Bez nazvaniya"
+              "title": "Обратные ссылки для Bog"
             }
           },
           {
@@ -205,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md",
+                "file": "Iskhodniki/Bog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Bez nazvaniya"
+              "title": "Исходящие ссылки из Bog"
             }
           },
           {
@@ -232,10 +232,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iskhodniki/Bez nazvaniya.md"
+                "file": "Iskhodniki/Bog.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Bez nazvaniya"
+              "title": "Структура Bog"
             }
           }
         ]
@@ -258,9 +258,9 @@
   },
   "active": "b50f1cd69e45a60f",
   "lastOpenFiles": [
+    "Iskhodniki/Bez nazvaniya.md",
     "Package~.swift",
     "Iskhodniki/Bog.md",
-    "Iskhodniki/Bez nazvaniya.md",
     "Iskhodniki/Algoritm razuma.md",
     "Iskhodniki/Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya.md",
     "Glag/Ⱄⰹⰿⱆⰾⱑⱌⰹⰹ ⰲ ⱄⱅⱃⱆⰽⱅⱆⱃⰵ ⱃⰰⰸⱆⰿⰰ ⰽⰰⰽ ⱄⱂⱁⱄⱁⰱ ⱂⱃⰵⰴⱄⰽⰰⰸⰰⱀⰹⱑ ⰱⱆⰴⱆⱋⰵⰳⱁ ⰹ ⱂⰾⰰⱀⰹⱃⱁⰲⰰⱀⰹⱑ.md",
@@ -292,7 +292,6 @@
     "Sources/hooks/samples/pre-push.sample",
     "Sources/hooks/samples/pre-merge-commit.sample",
     "Sources/hooks/samples/pre-commit.sample",
-    "Sources/hooks/samples/pre-applypatch.sample",
-    "Sources/hooks/samples/post-update.sample"
+    "Sources/hooks/samples/pre-applypatch.sample"
   ]
 }

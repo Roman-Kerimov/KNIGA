@@ -258,6 +258,7 @@
   },
   "active": "b50f1cd69e45a60f",
   "lastOpenFiles": [
+    "Package~.swift",
     "Iskhodniki/Bog.md",
     "Iskhodniki/Bez nazvaniya.md",
     "Iskhodniki/Algoritm razuma.md",
@@ -283,7 +284,6 @@
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
     "Cyrl/Наблюдатель.md",
-    "Latn/Nablyudatelj.md",
     "Sources/hooks/samples/prepare-commit-msg.sample",
     "Sources/hooks/samples/push-to-checkout.sample",
     "Sources/hooks/samples/update.sample",

@@ -1,1 +1,1 @@
-To zhe, chto ak
+To zhe, chto akt tvoreniya

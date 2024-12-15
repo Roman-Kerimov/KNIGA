@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Bog.md",
+                "file": "Iskhodniki/Nablyudatelj.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bog"
+              "title": "Nablyudatelj"
             }
           }
         ],
@@ -258,9 +258,9 @@
   },
   "active": "b50f1cd69e45a60f",
   "lastOpenFiles": [
+    "Iskhodniki/Bog.md",
     "Iskhodniki/Bez nazvaniya.md",
     "Package~.swift",
-    "Iskhodniki/Bog.md",
     "Iskhodniki/Algoritm razuma.md",
     "Iskhodniki/Simulyacii v strukture razuma kak sposob predskazaniya budusjhego i planirovaniya.md",
     "Glag/Ⱄⰹⰿⱆⰾⱑⱌⰹⰹ ⰲ ⱄⱅⱃⱆⰽⱅⱆⱃⰵ ⱃⰰⰸⱆⰿⰰ ⰽⰰⰽ ⱄⱂⱁⱄⱁⰱ ⱂⱃⰵⰴⱄⰽⰰⰸⰰⱀⰹⱑ ⰱⱆⰴⱆⱋⰵⰳⱁ ⰹ ⱂⰾⰰⱀⰹⱃⱁⰲⰰⱀⰹⱑ.md",

@@ -2,3 +2,4 @@
 [iskhodnik](../Iskhodniki/Akt%20nablyudeniya%2Emd)
 
 To zhe, chto [akt tvoreniya](Akt%20tvoreniya.md)
+

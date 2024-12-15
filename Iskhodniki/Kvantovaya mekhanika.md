@@ -1,1 +1,1 @@
-Naiboleye podtverzhdyonnaya [[Fizicheskaya teoriya|]]
+Naiboleye podtverzhdyonnaya [[Fizicheskaya teoriya|fizicheska]]

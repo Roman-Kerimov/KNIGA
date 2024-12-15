@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/fizicheskaya teoriya.md",
+                "file": "Iskhodniki/Fizicheskaya teoriya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fizicheskaya teoriya"
+              "title": "Fizicheskaya teoriya"
             }
           }
         ],
@@ -286,13 +286,16 @@
   },
   "active": "821502a665b9189c",
   "lastOpenFiles": [
+    "Cyrl/Физическая теория.md",
+    "Latn/Fizicheskaya teoriya.md",
+    "Glag/Ⱇⰹⰸⰹⱍⰵⱄⰽⰰⱑ ⱅⰵⱁⱃⰹⱑ.md",
     "Perm/𐍫𐍙𐍗𐍙𐍤𐍔𐍡𐍚𐍐𐍴 𐍢𐍔𐍞𐍠𐍙𐍴.md",
     "Runr/ᚠᛁᛉᛁᚳᚺᛖᛊᚲᚨᚤᚨ ᛏᛖᛟᚱᛁᚤᚨ.md",
     "Cyrl/физическая теория.md",
     "Latn/fizicheskaya teoriya.md",
     "Glag/ⱇⰹⰸⰹⱍⰵⱄⰽⰰⱑ ⱅⰵⱁⱃⰹⱑ.md",
     "Iskhodniki/Kvantovaya mekhanika.md",
-    "Iskhodniki/fizicheskaya teoriya.md",
+    "Iskhodniki/Fizicheskaya teoriya.md",
     "Glag/Ⰽⰲⰰⱀⱅⱁⰲⰰⱑ ⰿⰵⱈⰰⱀⰹⰽⰰ.md",
     "Latn/Kvantovaya mekhanika.md",
     "Perm/𐍚𐍮𐍐𐍝𐍢𐍞𐍮𐍐𐍴 𐍜𐍔𐍬𐍐𐍝𐍙𐍚𐍐.md",
@@ -309,9 +312,6 @@
     "Glag/Ⰰⰽⱅ ⱀⰰⰱⰾⱓⰴⰵⱀⰹⱑ.md",
     "Perm/𐍐𐍚𐍢 𐍝𐍐𐍑𐍛𐍳𐍓𐍔𐍝𐍙𐍴.md",
     "Cyrl/Акт наблюдения.md",
-    "Runr/ᚨᚲᛏ ᚾᚨᛒᛚᚤᚢᛞᛖᚾᛁᚤᚨ.md",
-    "Iskhodniki/Nablyudatelj.md",
-    "Iskhodniki/Bog.md",
     "Package~.swift",
     "Sources/hooks/samples/prepare-commit-msg.sample",
     "Sources/hooks/samples/push-to-checkout.sample",

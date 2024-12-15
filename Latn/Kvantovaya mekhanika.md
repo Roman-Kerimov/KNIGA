@@ -1,4 +1,4 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0%2Emd) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/%E1%9A%B2%E1%9A%A1%E1%9A%A8%E1%9A%BE%E1%9B%8F%E1%9B%9F%E1%9A%A1%E1%9A%A8%E1%9A%A4%E1%9A%A8%20%E1%9B%97%E1%9B%96%E1%9A%B2%E1%9A%BA%E1%9A%A8%E1%9A%BE%E1%9B%81%E1%9A%B2%E1%9A%A8%2Emd) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/%E2%B0%8D%E2%B0%B2%E2%B0%B0%E2%B1%80%E2%B1%85%E2%B1%81%E2%B0%B2%E2%B0%B0%E2%B1%91%20%E2%B0%BF%E2%B0%B5%E2%B1%88%E2%B0%B0%E2%B1%80%E2%B0%B9%E2%B0%BD%E2%B0%B0%2Emd) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/%F0%90%8D%9A%F0%90%8D%AE%F0%90%8D%90%F0%90%8D%9D%F0%90%8D%A2%F0%90%8D%9E%F0%90%8D%AE%F0%90%8D%90%F0%90%8D%B4%20%F0%90%8D%9C%F0%90%8D%94%F0%90%8D%AC%F0%90%8D%90%F0%90%8D%9D%F0%90%8D%99%F0%90%8D%9A%F0%90%8D%90%2Emd)
 [iskhodnik](../Iskhodniki/Kvantovaya%20mekhanika%2Emd)
 
-Naiboleye podtverzhdyonnaya [fizicheska](Fizicheskaya%20teoriya.md)
+Naiboleye podtverzhdyonnaya [fizicheskaya teo](Fizicheskaya%20teoriya.md)

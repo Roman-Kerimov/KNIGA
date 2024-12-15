@@ -112,9 +112,23 @@
               "icon": "lucide-file",
               "title": "Nablyudatelj"
             }
+          },
+          {
+            "id": "795af7cca2008785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Iskhodniki/Akt nablyudeniya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Akt nablyudeniya"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -256,8 +270,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b50f1cd69e45a60f",
+  "active": "795af7cca2008785",
   "lastOpenFiles": [
+    "Iskhodniki/Nablyudatelj.md",
+    "Iskhodniki/Akt nablyudeniya.md",
     "Iskhodniki/Bog.md",
     "Iskhodniki/Bez nazvaniya.md",
     "Package~.swift",
@@ -283,7 +299,6 @@
     "Runr/ᚾᚨᛒᛚᚤᚢᛞᚨᛏᛖᛚᛃ.md",
     "Perm/𐍝𐍐𐍑𐍛𐍳𐍓𐍐𐍢𐍔𐍛𐍰.md",
     "Glag/Ⱀⰰⰱⰾⱓⰴⰰⱅⰵⰾⱐ.md",
-    "Cyrl/Наблюдатель.md",
     "Sources/hooks/samples/prepare-commit-msg.sample",
     "Sources/hooks/samples/push-to-checkout.sample",
     "Sources/hooks/samples/update.sample",

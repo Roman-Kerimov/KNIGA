@@ -25,3 +25,4 @@ Inyimi slovami rasshiryatj svoyu vselennuyu, libo sokrasjhatj yeyo
 ___
 [Vselennaya](Vselennaya.md)
 [Bog](Bog.md)
+[Akt nablyudeniya](Akt%20nablyudeniya.md)

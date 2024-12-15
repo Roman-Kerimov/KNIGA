@@ -6,3 +6,4 @@ Ta samaya granica mezhdu mirom idej i mirom vesjhej po Platonu.
 
 ____
 [[Nablyudatelj]]
+[[Kvan]]

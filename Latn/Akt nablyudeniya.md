@@ -8,4 +8,4 @@ Eto kollaps volnovoj funkcii — sintez realjnosti iz mnogomirovogo prostranstva
 Ta samaya granica mezhdu mirom idej i mirom vesjhej po Platonu.
 
 ____
-[Nablyuda](Nablyuda.md)
+[Nablyudatelj](Nablyudatelj.md)

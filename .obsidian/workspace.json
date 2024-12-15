@@ -119,12 +119,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Akt nablyudeniya.md",
+                "file": "Iskhodniki/Kvantovaya mekhanika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akt nablyudeniya"
+              "title": "Kvantovaya mekhanika"
             }
           }
         ],
@@ -272,8 +272,9 @@
   },
   "active": "795af7cca2008785",
   "lastOpenFiles": [
-    "Iskhodniki/Akt tvoreniya.md",
     "Iskhodniki/Akt nablyudeniya.md",
+    "Iskhodniki/Kvantovaya mekhanika.md",
+    "Iskhodniki/Akt tvoreniya.md",
     "Cyrl/Акт творения.md",
     "Runr/ᚨᚲᛏ ᛏᚡᛟᚱᛖᚾᛁᚤᚨ.md",
     "Latn/Akt tvoreniya.md",
@@ -298,7 +299,6 @@
     "Iskhodniki/Simulyaciya.md",
     "Iskhodniki/Organizm.md",
     "Runr/ᛗᚨᛏᛖᚱᛁᚨᛚᛃᚾᚨᚤᚨ ᚲᚢᛚᛃᛏᚢᚱᚨ.md",
-    "Perm/𐍜𐍐𐍢𐍔𐍠𐍙𐍐𐍛𐍰𐍝𐍐𐍴 𐍚𐍣𐍛𐍰𐍢𐍣𐍠𐍐.md",
     "Sources/hooks/samples/prepare-commit-msg.sample",
     "Sources/hooks/samples/push-to-checkout.sample",
     "Sources/hooks/samples/update.sample",

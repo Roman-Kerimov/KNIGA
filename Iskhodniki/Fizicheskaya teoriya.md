@@ -1,1 +1,1 @@
-Teoriya, opisyivayusj
+Teoriya, opisyivayusjhaya prirodu rea

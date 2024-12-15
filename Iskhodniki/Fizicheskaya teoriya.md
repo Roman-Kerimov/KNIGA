@@ -1,1 +1,1 @@
-Teoriya, opisyivayusjhaya prirodu rea
+Teoriya, opisyivayusjhaya prirodu realjnosti.

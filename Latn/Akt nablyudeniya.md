@@ -9,3 +9,4 @@ Ta samaya granica mezhdu mirom idej i mirom vesjhej po Platonu.
 
 ____
 [Nablyudatelj](Nablyudatelj.md)
+[Kvantovaya mekha](Kvantovaya%20mekha.md)

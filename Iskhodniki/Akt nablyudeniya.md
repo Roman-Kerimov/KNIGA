@@ -1,3 +1,3 @@
 To zhe, chto [[Akt tvoreniya|akt tvoreniya]]
 
-Eto kollaps volnovoj funkcii — sintez realjnost
+Eto kollaps volnovoj funkcii — sintez realjnosti iz 

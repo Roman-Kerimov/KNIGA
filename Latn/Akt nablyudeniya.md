@@ -3,4 +3,4 @@
 
 To zhe, chto [akt tvoreniya](Akt%20tvoreniya.md)
 
-Eto kollaps volnovoj funkcii
+Eto kollaps volnovoj funkcii, sin

@@ -1,1 +1,1 @@
-Teoriya, 
+Teoriya, opisyivayusj

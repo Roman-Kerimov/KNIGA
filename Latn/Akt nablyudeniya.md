@@ -6,3 +6,5 @@ To zhe, chto [akt tvoreniya](Akt%20tvoreniya.md).
 Eto kollaps volnovoj funkcii — sintez realjnosti iz mnogomirovogo prostranstva vozmozhnogo.
 
 Ta samaya granica mezhdu mirom idej i mirom vesjhej po Platonu.
+
+

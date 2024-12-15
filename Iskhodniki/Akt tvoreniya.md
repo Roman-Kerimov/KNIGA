@@ -1,1 +1,1 @@
-To zhe, chto [[Akt nablyudeniya|akt tvoreniya
+To zhe, chto [[Akt nablyudeniya|akt nablyudeniya

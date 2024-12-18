@@ -1,1 +1,1 @@
-Superpoziciya
+Superpoziciya idej porozhdayet myislj

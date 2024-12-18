@@ -1,3 +1,4 @@
 ### LATINICA | [КИРИЛЛИЦА](../Cyrl/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F%2Emd) | [ᚱᚢᚾᛁᚳᚺᛖᛊᚲᚨᚤᚨ](../Runr/%E1%9B%8A%E1%9A%A2%E1%9B%88%E1%9B%96%E1%9A%B1%E1%9B%88%E1%9B%9F%E1%9B%89%E1%9B%81%E1%9A%B3%E1%9B%81%E1%9A%A4%E1%9A%A8%2Emd) | [ⰃⰎⰀⰃⰑⰎⰉⰜⰀ](../Glag/%E2%B0%94%E2%B1%86%E2%B1%82%E2%B0%B5%E2%B1%83%E2%B1%82%E2%B1%81%E2%B0%B8%E2%B0%B9%E2%B1%8C%E2%B0%B9%E2%B1%91%2Emd) | [𐍓𐍠𐍔𐍮𐍝𐍔𐍟𐍔𐍠𐍜𐍡𐍚𐍐𐍴](../Perm/%F0%90%8D%A1%F0%90%8D%A3%F0%90%8D%9F%F0%90%8D%94%F0%90%8D%A0%F0%90%8D%9F%F0%90%8D%9E%F0%90%8D%97%F0%90%8D%99%F0%90%8D%AD%F0%90%8D%99%F0%90%8D%B4%2Emd)
 [iskhodnik](../Iskhodniki/Superpoziciya%2Emd)
 
+Superpo

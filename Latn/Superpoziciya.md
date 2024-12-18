@@ -2,3 +2,4 @@
 [iskhodnik](../Iskhodniki/Superpoziciya%2Emd)
 
 Superpoziciya idej porozhdayet myislj
+

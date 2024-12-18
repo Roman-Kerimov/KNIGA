@@ -1,1 +1,2 @@
 Naiboleye podtverzhdyonnaya [[Fizicheskaya teoriya|fizicheskaya teoriya]]
+

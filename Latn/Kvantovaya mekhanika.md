@@ -2,3 +2,5 @@
 [iskhodnik](../Iskhodniki/Kvantovaya%20mekhanika%2Emd)
 
 Naiboleye podtverzhdyonnaya [fizicheskaya teoriya](Fizicheskaya%20teoriya.md)
+
+___

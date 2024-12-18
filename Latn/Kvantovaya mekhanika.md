@@ -4,4 +4,4 @@
 Naiboleye podtverzhdyonnaya [fizicheskaya teoriya](Fizicheskaya%20teoriya.md)
 
 ___
-[Sup](Sup.md)
+[Superpoziciya](Superpoziciya.md)

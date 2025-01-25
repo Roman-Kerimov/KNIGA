@@ -147,12 +147,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iskhodniki/Chelovecheskoye soznaniye.md",
+                "file": "2025-01-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chelovecheskoye soznaniye"
+              "title": "2025-01-25"
             }
           }
         ],
@@ -300,13 +300,14 @@
   },
   "active": "6eddff30190531ba",
   "lastOpenFiles": [
+    "Iskhodniki/Chelovecheskoye soznaniye.md",
+    "2025-01-25.md",
     "Runr/ᚳᚺᛖᛚᛟᚡᛖᚳᚺᛖᛊᚲᛟᚤᛖ ᛊᛟᛉᚾᚨᚾᛁᚤᛖ.md",
     "Cyrl/Человеческое сознание.md",
     "Latn/Chelovecheskoye soznaniye.md",
     "Perm/𐍤𐍔𐍛𐍞𐍮𐍔𐍤𐍔𐍡𐍚𐍞𐍔 𐍡𐍞𐍗𐍝𐍐𐍝𐍙𐍔.md",
     "Glag/Ⱍⰵⰾⱁⰲⰵⱍⰵⱄⰽⱁⰵ ⱄⱁⰸⱀⰰⱀⰹⰵ.md",
     "Iskhodniki/Soznaniye.md",
-    "Iskhodniki/Chelovecheskoye soznaniye.md",
     "Iskhodniki/Minikolonka korteksa.md",
     "Iskhodniki/Superpoziciya.md",
     "Glag/Ⱄⱆⱂⰵⱃⱂⱁⰸⰹⱌⰹⱑ.md",
@@ -325,7 +326,6 @@
     "Cyrl/физическая теория.md",
     "Latn/fizicheskaya teoriya.md",
     "Glag/ⱇⰹⰸⰹⱍⰵⱄⰽⰰⱑ ⱅⰵⱁⱃⰹⱑ.md",
-    "Glag/Ⰽⰲⰰⱀⱅⱁⰲⰰⱑ ⰿⰵⱈⰰⱀⰹⰽⰰ.md",
     "Package~.swift",
     "Sources/hooks/samples/prepare-commit-msg.sample",
     "Sources/hooks/samples/push-to-checkout.sample",
